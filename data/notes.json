@@ -178,7 +178,8 @@
    "not stated in source"
   ],
   "reclassification_impact": "not stated in source",
-  "licence_impact": "not stated in source"
+  "licence_impact": "not stated in source",
+  "materiality": null
  },
  {
   "published_on": "2026-07-14",
@@ -226,6 +227,7 @@
   "series_500_flag": true,
   "national_lists_touched": [],
   "reclassification_impact": "Holders of prior classifications relying on entry 3B501.f.1.a should revalidate against the corrected entry text: the sub-193 nm light-source criterion no longer exists, and equipment caught solely by it falls outside 3B501.f.1.a.",
-  "licence_impact": "not stated in source"
+  "licence_impact": "not stated in source",
+  "materiality": "Editorial de-duplication, assessed as non-substantive: the deleted criterion of entry 3B501.f.1.a is verbatim-identical to entry 3B001.f.1.a, which the corrigendum did not touch [CELEX 02021R0821-20251115, entry 3B001.f.1.a]. Equipment meeting the sub-193 nm light-source parameter remains controlled under entry 3B001.f.1 — no change to what requires authorisation [CELEX 02021R0821-20251115, entry 3B001.f.1]."
  }
 ]
