@@ -192,7 +192,9 @@
   "instruments": [
    "Final Decision and Order (BIS)"
   ],
-  "effective_dates": [],
+  "effective_dates": [
+   "Final decision effective immediately; order dated May 26, 2026 [FR Doc. 2026-10682, Order]"
+  ],
   "licence_posture": "Not stated in source [FR Doc. 2026-10682, Title].",
   "relevance_eu_exporters": "The named respondents are Belgian persons and entities. Any denial order issued under this Final Decision and Order would restrict U.S.-origin items from being exported, reexported, or transferred to the named parties; however, the specific denial order terms, including any foreign direct product rule application or de minimis provisions, are not stated in source.",
   "action_items": [
@@ -300,9 +302,9 @@
    "Order Renewing Temporary Denial of Export Privileges"
   ],
   "effective_dates": [
-   "not stated in source"
+   "Renewal order effective immediately; remains in effect for one year [FR Doc. 2026-06161, Order]"
   ],
-  "licence_posture": "Temporary Denial of Export Privileges renewed against Aviastar-TU; specific denial terms, duration, and applicable EAR provisions are not stated in source [FR Doc. 2026-06161, Title].",
+  "licence_posture": "Temporary Denial of Export Privileges renewed against Aviastar-TU for one year, effective immediately [FR Doc. 2026-06161, Order].",
   "relevance_eu_exporters": "indirect only",
   "action_items": [
    "Screen Aviastar-TU against current TDO list before processing any export, reexport, or transfer involving U.S.-origin items.",
