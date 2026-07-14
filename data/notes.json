@@ -1,6 +1,149 @@
 [
  {
   "published_on": "2026-07-14",
+  "id": "note-171213d8317855bf",
+  "headline": "BIS Final Decision & Order: Hans De Geetere and Hasa Invest (Belgium) — FR Doc. 2026-10682",
+  "what_changed": "A Final Decision and Order has been published by the U.S. Department of Commerce Bureau of Industry and Security concerning Hans De Geetere and Knokke-Heist Support Corporation Management a/k/a Hasa Invest, both located in Knokke-Heist, Belgium [FR Doc. 2026-10682, Title]. The specific terms, findings, penalties, and denial order provisions of the Final Decision and Order are not stated in source [FR Doc. 2026-10682, Title].",
+  "who_is_affected": "Hans De Geetere, an individual located at Paul Parmentierlaan 121 and Nyckeestraat 4, 8300 Knokke-Heist, Belgium, is a named respondent in this proceeding [FR Doc. 2026-10682, Title]. Knokke-Heist Support Corporation Management, also known as Hasa Invest, located at Paul Parmentierlaan 121 and Nyckeestraat 4, 8300 Knokke-Heist, Belgium, is a named respondent in this proceeding [FR Doc. 2026-10682, Title]. The scope of any denial order or civil penalty affecting third parties is not stated in source [FR Doc. 2026-10682, Title].",
+  "instruments": [
+   "Final Decision and Order (BIS)"
+  ],
+  "effective_dates": [],
+  "licence_posture": "Not stated in source [FR Doc. 2026-10682, Title].",
+  "relevance_eu_exporters": "The named respondents are Belgian persons and entities. Any denial order issued under this Final Decision and Order would restrict U.S.-origin items from being exported, reexported, or transferred to the named parties; however, the specific denial order terms, including any foreign direct product rule application or de minimis provisions, are not stated in source.",
+  "action_items": [
+   "Obtain and review the full text of FR Doc. 2026-10682 to determine the specific terms of the Final Decision and Order, including any denial order scope and duration.",
+   "Screen Hans De Geetere and Knokke-Heist Support Corporation Management a/k/a Hasa Invest against BIS Denied Persons List and other restricted party lists.",
+   "Assess whether any existing or pending transactions involve the named Belgian parties and apply appropriate holds pending full text review."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-10682, Title",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10682"
+   }
+  ],
+  "event_refs": [
+   "evt-2a3ab9136f71c755"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "Hans De Geetere, Paul Parmentierlaan 121, 8300 Knokke-Heist, Belgium",
+   "Hans De Geetere, Nyckeestraat 4, 8300 Knokke-Heist, Belgium",
+   "Knokke-Heist Support Corporation Management a/k/a Hasa Invest, Paul Parmentierlaan 121, 8300 Knokke-Heist, Belgium",
+   "Knokke-Heist Support Corporation Management a/k/a Hasa Invest, Nyckeestraat 4, 8300 Knokke-Heist, Belgium"
+  ],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": "Substantive for counterparties of the named persons: a final decision and order against Hans De Geetere and Hasa Invest (Knokke-Heist, Belgium) [FR Doc. 2026-10682, Order]. Enforcement outcome specific to the named parties; no change to controls of general application."
+ },
+ {
+  "published_on": "2026-07-14",
+  "id": "note-f2ef5a5608e9d951",
+  "headline": "Aviastar-TU (Moscow) TDO Renewed — Export Privileges Temporarily Denied",
+  "what_changed": "An Order Renewing Temporary Denial of Export Privileges (TDO) has been published against Aviastar-TU, 5 b. 7 Leningradsky prospect g. Moskva, 125040, Moscow, Russia [FR Doc. 2026-06161, Title].",
+  "who_is_affected": "Aviastar-TU, 5 b. 7 Leningradsky prospect g. Moskva, 125040, Moscow, Russia is the named subject of the renewed TDO [FR Doc. 2026-06161, Title].",
+  "instruments": [
+   "Order Renewing Temporary Denial of Export Privileges"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Temporary Denial of Export Privileges renewed against Aviastar-TU; specific denial terms, duration, and applicable EAR provisions are not stated in source [FR Doc. 2026-06161, Title].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen Aviastar-TU against current TDO list before processing any export, reexport, or transfer involving U.S.-origin items.",
+   "Assess whether any EU-origin transactions involve U.S.-content subject to foreign direct product rule or de minimis provisions — specific thresholds not stated in source.",
+   "Monitor Federal Register for full text of FR Doc. 2026-06161 to obtain denial order terms and duration."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-06161, Title",
+    "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=2026-06161"
+   }
+  ],
+  "event_refs": [
+   "evt-c994ac44e64a352f"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": "Substantive for counterparties of the named entity: renewal of a temporary denial order continues the suspension of U.S. export privileges for Aviastar-TU (Moscow) [FR Doc. 2026-06161, Order]. No change to any control list or licensing policy of general application."
+ },
+ {
+  "published_on": "2026-07-14",
+  "id": "note-a5a4da5890e1761b",
+  "headline": "BIS extends ECCN 3A090.a approved IC designer application deadline from April 13, 2026 to December 31, 2026",
+  "what_changed": "BIS has amended Note 1 to ECCN 3A090.a in paragraphs a.(2) and (3) by removing the date 'April 13, 2026' wherever it occurs and replacing it with 'December 31, 2026' [FR Doc. 2026-06851, Supplement No. 1 to Part 774, ECCN 3A090 amendment]. The triggering date for authorized IC designer status and the submission deadline for applications to become an approved IC designer are both extended by approximately eight months [FR Doc. 2026-06851, SUMMARY]. Applicants who submit by December 31, 2026 may be considered authorized IC designers for 180 days after that date [FR Doc. 2026-06851, DATES]. BIS estimates the extension will result in approximately 20 additional approved IC designers and an increase of 385 burden hours under OMB Control Number 0694-0137 [FR Doc. 2026-06851, Rulemaking Requirements §2]. BIS also estimates approximately 75 additional advisory opinions and 38 additional burden hours under OMB Control Number 0694-0088 [FR Doc. 2026-06851, Rulemaking Requirements §2].",
+  "who_is_affected": "Front-end fabricators and OSAT companies seeking to export, reexport, or transfer (in-country) certain applicable advanced logic integrated circuits under ECCN 3A090.a are affected [FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION]. Entities that have submitted or intend to submit requests to BIS to be listed as approved IC designers, subject to End-user Review Committee (ERC) approval, are affected [FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION]. Entities seeking to qualify as authorized IC designers under the criteria in Note 1 to 3A090.a are affected [FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION].",
+  "instruments": [
+   "15 CFR Part 774, Supplement No. 1 (Commerce Control List), ECCN 3A090.a, Note 1, paragraphs a.(2) and (3)"
+  ],
+  "effective_dates": [
+   "Effective date of rule: April 7, 2026",
+   "Extended application deadline (approved IC designer): December 31, 2026",
+   "Authorized IC designer status period: 180 days following December 31, 2026 for timely applicants"
+  ],
+  "licence_posture": "The rule modifies the date-based triggering mechanism within Note 1 to ECCN 3A090.a, which provides a means to overcome the presumption applicable to front-end fabricators and OSAT companies under 15 CFR 742.6(a)(6)(iii)(A) [FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION]. Entities that apply by December 31, 2026 may be considered authorized IC designers for 180 days after that date [FR Doc. 2026-06851, DATES]. The source does not state a general licence posture change beyond the date extension described [FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "EU-based IC designers or entities involved in the supply chain for ECCN 3A090.a items who seek approved IC designer status should submit applications to BIS by December 31, 2026.",
+   "Review Note 1 to ECCN 3A090.a paragraphs a.(2) and (3) to confirm updated date references in compliance procedures.",
+   "Assess whether front-end fabricator or OSAT operations involving ECCN 3A090.a items require reliance on the approved or authorized IC designer pathway and update timelines accordingly."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-06851, SUMMARY",
+    "url": "https://www.federalregister.gov/documents/2026/04/09/2026-06851"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-06851, DATES",
+    "url": null
+   },
+   {
+    "pinpoint": "FR Doc. 2026-06851, SUPPLEMENTARY INFORMATION",
+    "url": null
+   },
+   {
+    "pinpoint": "FR Doc. 2026-06851, Rulemaking Requirements §2",
+    "url": null
+   },
+   {
+    "pinpoint": "FR Doc. 2026-06851, Supplement No. 1 to Part 774, ECCN 3A090 amendment",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-ef385de5af6a5ffa"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "ECCN 3A090.a"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "ECCN 3A090.a, Note 1, paragraphs a.(2) and (3)",
+    "before": "April 13, 2026",
+    "after": "December 31, 2026"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": "Substantive but narrow: extends a compliance window — the Note 1 to ECCN 3A090.a application deadline moves from April 13, 2026 to December 31, 2026; the scope of controlled items is unchanged [FR Doc. 2026-06851, Supplement No. 1 to Part 774, ECCN 3A090 amendment]."
+ },
+ {
+  "published_on": "2026-07-14",
   "id": "note-16d76c46c6a3ea34",
   "headline": "OFAC SDN list: 27 additions (Iran, Cuba, Cyber) + 1,730 internal-ID modifications",
   "what_changed": "Twenty-seven entities and individuals were added to the Specially Designated Nationals (SDN) list across three sanctions programmes [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. Additions under IRAN-EO13902 include LAVASANI, Ahmad Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57949], CDM TRADING LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:57934], ABADI, Shokufeh Rostam [CSL:Specially Designated Nationals (SDN) - Treasury Department:57945], MOHSEN KHANDAN AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57933], KHANDAN, Mohsen [CSL:Specially Designated Nationals (SDN) - Treasury Department:57942], KHANDAN, Ali Asghar [CSL:Specially Designated Nationals (SDN) - Treasury Department:57943], DARBANI, Mohammad [CSL:Specially Designated Nationals (SDN) - Treasury Department:57947], LAVASANI AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57948], LAVASANI, Amir Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57950], SARSHARI, Zahra [CSL:Specially Designated Nationals (SDN) - Treasury Department:57946], and MOHAMMAD DARBANI AND PARTNERS EXCHANGE GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57944]. One individual, ANSARI, Ali, was added under programmes IRAN-EO13876, SDGT, IFSR, and IRGC [CSL:Specially Designated Nationals (SDN) - Treasury Department:57957]. SMART GLOBAL LIMITED was added under IRAN-EO13876 and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57960]. Additions under CUBA-EO14404 include GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58051], CORPORACION ANTILLANA EXPORTADORA SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58056], COREYDAN S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58057], GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58054], ENETEC S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58052], ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58053], ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION [CSL:Specially Designated Nationals (SDN) - Treasury Department:58046], MINISTRY OF TOURISM OF CUBA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58059], RAPID RESPONSE BRIGADES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58058], and MILICIAS DE TROPAS TERRITORIALES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58055]. Two additions under CYBER4 are FIRST VPN SERVICE [CSL:Specially Designated Nationals (SDN) - Treasury Department:57975] and RASHEVSKYI, Dmytro [CSL:Specially Designated Nationals (SDN) - Treasury Department:57978]. Two further added entries are present in the full event record but were truncated from this digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. A total of 1,730 existing SDN entries were modified; the sole field changed in all modified records is 'ids', indicating internal identifier updates with no change to designated names, programmes, or other substantive fields [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
