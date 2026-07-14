@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Compute Controls Watch</title>
+  <title>Export Controls Watch</title>
   <link>https://rikiosso.github.io/exports-watch/</link>
-  <description>Export-control changes, machine-detected and cited to primary sources; human approval gate before publication. Not legal advice.</description>
+  <description>US and EU export-control changes, machine-detected, system-drafted and cited to primary sources. Not legal advice.</description>
   <item>
     <title>OFAC SDN list: 27 additions (Iran, Cuba, Cyber) + 1,730 internal-ID modifications</title>
     <link>https://rikiosso.github.io/exports-watch/notes/note-16d76c46c6a3ea34.html</link>
