@@ -1,52 +1,6 @@
 [
  {
-  "id": "note-1e71f6d4e76ee835",
-  "headline": "Corrigendum deletes the sub-193 nm light-source criterion from Annex I entry 3B501.f.1.a",
-  "what_changed": "The corrigendum of 9 February 2026 to Delegated Regulation (EU) 2025/2003 replaces the text of entry 3B501.f.1.a, 'A light source wavelength shorter than 193 nm; or', with 'Not used;' [OJ L 2026/90092, entry 3B501.f.1.a]. 'Not used' is the Annex I placeholder for a deleted provision: the sub-193 nm light-source criterion no longer exists as a route into entry 3B501.f.1, whose remaining sub-points are unchanged [OJ L 2026/90092, entry 3B501.f.1.a].",
-  "who_is_affected": "Exporters and holders of prior classifications of align-and-expose step-and-repeat or step-and-scan wafer-processing equipment assessed under entry 3B501.f.1 [CELEX 02021R0821-20251115, entry 3B501.f.1].",
-  "instruments": [
-   "Annex I, Regulation (EU) 2021/821 — entry 3B501.f.1.a"
-  ],
-  "effective_dates": [
-   "Correction applies as part of Regulation (EU) 2025/2003, in force since 15 November 2025 — 'the day following that of its publication in the Official Journal' [CELEX 32025R2003, Art. 2]"
-  ],
-  "licence_posture": "not stated in source",
-  "relevance_eu_exporters": "Directly applicable: Annex I of Regulation (EU) 2021/821 governs EU exporters' classification obligations, and the corrected criterion gates entry 3B501.f.1 [OJ L 2026/90092, entry 3B501.f.1.a].",
-  "action_items": [
-   "Revalidate any classification that relied on the deleted sub-193 nm light-source criterion of entry 3B501.f.1.a — including lithography equipment previously caught by it.",
-   "Record the Annex I version relied upon (02021R0821-20251115) in the classification register."
-  ],
-  "confidence": "high",
-  "citations": [
-   {
-    "pinpoint": "[OJ L 2026/90092, entry 3B501.f.1.a]",
-    "url": "http://publications.europa.eu/resource/celex/32025R2003R%2803%29"
-   },
-   {
-    "pinpoint": "[CELEX 02021R0821-20251115, entry 3B501.f.1]",
-    "url": "http://publications.europa.eu/resource/celex/02021R0821-20251115"
-   }
-  ],
-  "event_refs": [
-   "evt-d6fb8ff4b686a743"
-  ],
-  "status": "published",
-  "entries_affected": [
-   "3B501"
-  ],
-  "parameter_deltas": [
-   {
-    "entry_code": "3B501.f.1.a",
-    "before": "A light source wavelength shorter than 193 nm; or",
-    "after": "Not used;"
-   }
-  ],
-  "series_500_flag": true,
-  "national_lists_touched": [],
-  "reclassification_impact": "Holders of prior classifications relying on entry 3B501.f.1.a should revalidate against the corrected entry text: the sub-193 nm light-source criterion no longer exists, and equipment caught solely by it falls outside 3B501.f.1.a.",
-  "licence_impact": "not stated in source"
- },
- {
+  "published_on": "2026-07-14",
   "id": "note-16d76c46c6a3ea34",
   "headline": "OFAC SDN list: 27 additions (Iran, Cuba, Cyber) + 1,730 internal-ID modifications",
   "what_changed": "Twenty-seven entities and individuals were added to the Specially Designated Nationals (SDN) list across three sanctions programmes [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. Additions under IRAN-EO13902 include LAVASANI, Ahmad Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57949], CDM TRADING LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:57934], ABADI, Shokufeh Rostam [CSL:Specially Designated Nationals (SDN) - Treasury Department:57945], MOHSEN KHANDAN AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57933], KHANDAN, Mohsen [CSL:Specially Designated Nationals (SDN) - Treasury Department:57942], KHANDAN, Ali Asghar [CSL:Specially Designated Nationals (SDN) - Treasury Department:57943], DARBANI, Mohammad [CSL:Specially Designated Nationals (SDN) - Treasury Department:57947], LAVASANI AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57948], LAVASANI, Amir Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57950], SARSHARI, Zahra [CSL:Specially Designated Nationals (SDN) - Treasury Department:57946], and MOHAMMAD DARBANI AND PARTNERS EXCHANGE GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57944]. One individual, ANSARI, Ali, was added under programmes IRAN-EO13876, SDGT, IFSR, and IRGC [CSL:Specially Designated Nationals (SDN) - Treasury Department:57957]. SMART GLOBAL LIMITED was added under IRAN-EO13876 and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57960]. Additions under CUBA-EO14404 include GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58051], CORPORACION ANTILLANA EXPORTADORA SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58056], COREYDAN S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58057], GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58054], ENETEC S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58052], ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58053], ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION [CSL:Specially Designated Nationals (SDN) - Treasury Department:58046], MINISTRY OF TOURISM OF CUBA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58059], RAPID RESPONSE BRIGADES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58058], and MILICIAS DE TROPAS TERRITORIALES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58055]. Two additions under CYBER4 are FIRST VPN SERVICE [CSL:Specially Designated Nationals (SDN) - Treasury Department:57975] and RASHEVSKYI, Dmytro [CSL:Specially Designated Nationals (SDN) - Treasury Department:57978]. Two further added entries are present in the full event record but were truncated from this digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. A total of 1,730 existing SDN entries were modified; the sole field changed in all modified records is 'ids', indicating internal identifier updates with no change to designated names, programmes, or other substantive fields [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
@@ -224,6 +178,54 @@
    "not stated in source"
   ],
   "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source"
+ },
+ {
+  "published_on": "2026-07-14",
+  "id": "note-1e71f6d4e76ee835",
+  "headline": "Corrigendum deletes the sub-193 nm light-source criterion from Annex I entry 3B501.f.1.a",
+  "what_changed": "The corrigendum of 9 February 2026 to Delegated Regulation (EU) 2025/2003 replaces the text of entry 3B501.f.1.a, 'A light source wavelength shorter than 193 nm; or', with 'Not used;' [OJ L 2026/90092, entry 3B501.f.1.a]. 'Not used' is the Annex I placeholder for a deleted provision: the sub-193 nm light-source criterion no longer exists as a route into entry 3B501.f.1, whose remaining sub-points are unchanged [OJ L 2026/90092, entry 3B501.f.1.a].",
+  "who_is_affected": "Exporters and holders of prior classifications of align-and-expose step-and-repeat or step-and-scan wafer-processing equipment assessed under entry 3B501.f.1 [CELEX 02021R0821-20251115, entry 3B501.f.1].",
+  "instruments": [
+   "Annex I, Regulation (EU) 2021/821 — entry 3B501.f.1.a"
+  ],
+  "effective_dates": [
+   "Correction applies as part of Regulation (EU) 2025/2003, in force since 15 November 2025 — 'the day following that of its publication in the Official Journal' [CELEX 32025R2003, Art. 2]"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "Directly applicable: Annex I of Regulation (EU) 2021/821 governs EU exporters' classification obligations, and the corrected criterion gates entry 3B501.f.1 [OJ L 2026/90092, entry 3B501.f.1.a].",
+  "action_items": [
+   "Revalidate any classification that relied on the deleted sub-193 nm light-source criterion of entry 3B501.f.1.a — including lithography equipment previously caught by it.",
+   "Record the Annex I version relied upon (02021R0821-20251115) in the classification register."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "[OJ L 2026/90092, entry 3B501.f.1.a]",
+    "url": "http://publications.europa.eu/resource/celex/32025R2003R%2803%29"
+   },
+   {
+    "pinpoint": "[CELEX 02021R0821-20251115, entry 3B501.f.1]",
+    "url": "http://publications.europa.eu/resource/celex/02021R0821-20251115"
+   }
+  ],
+  "event_refs": [
+   "evt-d6fb8ff4b686a743"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "3B501"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "3B501.f.1.a",
+    "before": "A light source wavelength shorter than 193 nm; or",
+    "after": "Not used;"
+   }
+  ],
+  "series_500_flag": true,
+  "national_lists_touched": [],
+  "reclassification_impact": "Holders of prior classifications relying on entry 3B501.f.1.a should revalidate against the corrected entry text: the sub-193 nm light-source criterion no longer exists, and equipment caught solely by it falls outside 3B501.f.1.a.",
   "licence_impact": "not stated in source"
  }
 ]
