@@ -1,5 +1,92 @@
 [
  {
+  "action_date": "2026-07-23",
+  "archived_on": "2026-07-23",
+  "id": "note-bbaf3f01f318d540",
+  "headline": "OFAC SDN List update: 73 entities added, 2,474 modified, 1 removed",
+  "what_changed": "The Specially Designated Nationals (SDN) list maintained by the Treasury Department recorded 73 additions, 2,474 modifications (all limited to the 'ids' field), and 1 removal in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]. Additions include individuals and entities designated under programs including ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, such as AL-JEBOURI, Abdulla Issam Ahmad (entity_id: 58200) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58200] and HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V. (entity_id: 58075) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58075]. One entity, BEL-KAP-STEEL LLC (entity_id: 44525, program BELARUS-EO14038), was removed from the list [CSL:Specially Designated Nationals (SDN) - Treasury Department:44525].",
+  "who_is_affected": "Individuals and entities newly listed under programs ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, and the entity removed under the BELARUS-EO14038 program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]. The 2,474 modified entries had only identifier ('ids') fields changed, with no further detail on substantive changes stated in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9].",
+  "instruments": [
+   "Specially Designated Nationals and Blocked Persons List (SDN List), U.S. Department of the Treasury, Office of Foreign Assets Control"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated SDN list, including the 73 newly added entries.",
+   "Confirm removal of BEL-KAP-STEEL LLC (entity_id: 44525) from internal restricted-party screening databases.",
+   "Review any existing relationships with the 2,474 modified entries to determine whether identifier changes affect matching in screening systems.",
+   "Retain records of screening runs against this batch for audit purposes, pending further detail on the modified fields."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58200]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58075]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:44525]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-ddcf7bdd9ed2315b"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "58200",
+   "58075",
+   "58020",
+   "57995",
+   "58004",
+   "58041",
+   "58213",
+   "58039",
+   "58002",
+   "58072",
+   "58015",
+   "58017",
+   "58063",
+   "58022",
+   "58202",
+   "58019",
+   "57966",
+   "58198",
+   "57970",
+   "58000",
+   "58038",
+   "58062",
+   "58033",
+   "58024",
+   "58065",
+   "44525"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-07-13",
   "archived_on": "2026-07-14",
   "id": "note-16d76c46c6a3ea34",

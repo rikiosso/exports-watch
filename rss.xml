@@ -5,6 +5,13 @@
   <link>https://rikiosso.github.io/exports-watch/</link>
   <description>US and EU export-control changes, machine-detected, system-drafted and cited to primary sources. Not legal advice.</description>
   <item>
+    <title>OFAC SDN List update: 73 entities added, 2,474 modified, 1 removed</title>
+    <link>https://rikiosso.github.io/exports-watch/notes/note-bbaf3f01f318d540.html</link>
+    <guid isPermaLink="true">https://rikiosso.github.io/exports-watch/notes/note-bbaf3f01f318d540.html</guid>
+    <pubDate>Thu, 23 Jul 2026 19:49:51 +0000</pubDate>
+    <description>The Specially Designated Nationals (SDN) list maintained by the Treasury Department recorded 73 additions, 2,474 modifications (all limited to the &#39;ids&#39; field), and 1 removal in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]. Additions include individuals and entities designated under programs including ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, such as AL-JEBOURI, Abdulla Issam Ahmad (entity_id: 58200) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58200] and HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V. (entity_id: 58075) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58075]. One entity, BEL-KAP-STEEL LLC (entity_id: 44525, program BELARUS-EO14038), was removed from the list [CSL:Specially Designated Nationals (SDN) - Treasury Department:44525].</description>
+  </item>
+  <item>
     <title>OFAC SDN list: 27 additions (Iran, Cuba, Cyber) + 1,730 internal-ID modifications</title>
     <link>https://rikiosso.github.io/exports-watch/notes/note-16d76c46c6a3ea34.html</link>
     <guid isPermaLink="true">https://rikiosso.github.io/exports-watch/notes/note-16d76c46c6a3ea34.html</guid>
