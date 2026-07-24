@@ -1,5 +1,55 @@
 [
  {
+  "action_date": "2026-07-24",
+  "archived_on": "2026-07-24",
+  "id": "note-eb42bc2df22d810b",
+  "headline": "OFAC SDN list update adds 13 Iran-linked entries, updates identifiers on 863 existing entries",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list received a batch update: 13 new entries were added under the IRAN-EO13902 program, including individuals (e.g., REZAZADEH, Mehdi, entity_id 58186; OIMAKHMADOV, Sukhrob, entity_id 58187; BANI, Solmaz, entity_id 58188; ZANJANI, Bahareh Morteza, entity_id 58185) and entities (e.g., ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI, entity_id 58174; DOTONE AIRLINES COMPANY, entity_id 58181; DOTONE GOLD COMPANY, entity_id 58178; BZ DIAMOND DMCC, entity_id 58183; DOTONE RAIL COMPANY, entity_id 58179; DOT ONE VALUE CREATION GROUP, entity_id 58176; DOTONE BARTER COMPANY, entity_id 58180; ZEDX DMCC, entity_id 58177; DOTONE TRIP, entity_id 58182) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1]. Separately, 863 existing entries were modified, with the only field touched being 'ids' (identifier data), affecting entries such as OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, ZHEJIANG QINGJI IND. CO., LTD, WANG, Jiantong, PISHRO TEJARAT SANA COMPANY, and EXPORT DEVELOPMENT BANK OF IRAN [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].",
+  "who_is_affected": "Parties transacting with the 13 newly added Iran-linked individuals and entities under the IRAN-EO13902 program are directly affected, as are parties with existing dealings involving the 863 entries whose identifier records were modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List entries",
+   "IRAN-EO13902 program designation"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen customer and counterparty databases against the 13 newly added entity_ids (58174, 58176-58183, 58185-58188) for IRAN-EO13902 exposure.",
+   "Verify updated identifier data for the 863 modified SDN entries against internal restricted-party screening tools to avoid false negatives from identifier changes.",
+   "Confirm no existing business relationships involve the newly listed Dotone-affiliated companies or associated individuals."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-c61070223e3f9026"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-07-23",
   "archived_on": "2026-07-23",
   "id": "note-bbaf3f01f318d540",
