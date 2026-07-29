@@ -1,5 +1,85 @@
 [
  {
+  "action_date": "2026-07-29",
+  "archived_on": "2026-07-29",
+  "id": "note-b5a0ea2324c434e1",
+  "headline": "OFAC SDN list update: 18 new Iran-linked entries added, 1,221 entries' identifiers modified",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list batch recorded 18 additions under the IRAN-EO13902 program and 1,221 modifications limited to the 'ids' field of existing entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3].",
+  "who_is_affected": "Newly listed parties under IRAN-EO13902 include shipping, trading and marine-insurance entities and vessels: BRANCH SAYING INTERNATIONAL TRADING CO LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:58217], QI HANG SHIP MANAGEMENT LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58189], PERSIAN GULF MARINE INSURANCE COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58233], and HORMUZSAFE MARINE SERVICES AUTHORITY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58234]. The 1,221 modified entries span the pre-existing SDN list broadly, with examples including OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, ZHEJIANG QINGJI IND. CO., LTD, WANG, Jiantong, GHAFFARHADDADI, Javad, and RENEEZ SHIPPING LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3].",
+  "instruments": [
+   "IRAN-EO13902"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties, vessels and shipping/insurance intermediaries against the 18 newly added SDN entries under IRAN-EO13902.",
+   "Re-check existing SDN database matches for identifier ('ids') field changes affecting 1,221 entries to ensure sanctions-screening tools reflect updated identifiers.",
+   "Confirm whether any of the added or modified entries correspond to existing business relationships prior to further dealings."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58217]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58189]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58233]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58234]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-06c23e044de9f976"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "58217",
+   "58221",
+   "58220",
+   "58189",
+   "58231",
+   "58216",
+   "58236",
+   "58232",
+   "58214",
+   "58190",
+   "58219",
+   "58215",
+   "58235",
+   "58194",
+   "58227",
+   "58218",
+   "58233",
+   "58234"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "ids (batch-wide, 1221 entries)",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-07-24",
   "archived_on": "2026-07-24",
   "id": "note-eb42bc2df22d810b",
