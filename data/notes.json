@@ -1,5 +1,79 @@
 [
  {
+  "action_date": "2026-07-30",
+  "archived_on": "2026-07-30",
+  "id": "note-d40d855e97db9ee5",
+  "headline": "OFAC SDN list update: 6 entities added, 312 entries modified (IFSR, SDGT programs)",
+  "what_changed": "Treasury's Specially Designated Nationals list received 6 additions and 312 modifications in a single batch delta [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]. Added entities include AIR CARGO PRO LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58226], SKIEZ TRAVELS AND LOGISTICS PRIVATE LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58225], SHANGHAI WINGS INTERNATIONAL LOGISTICS CO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58222], DADENEGAR STARTUP STUDIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58173], TANG, Xin [CSL:Specially Designated Nationals (SDN) - Treasury Department:58223], and SHANGHAI ELITE INTERNATIONAL TRAVEL CO LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:58224], all listed under programs IFSR and/or SDGT with no Federal Register citation provided (FR: -) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]. The 312 modified entries predominantly touched identification fields (312 of 312), with single instances of changes to dates of birth, addresses, nationalities, and remarks [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].",
+  "who_is_affected": "Entities newly added include logistics, travel, and startup-studio companies and one named individual (TANG, Xin), designated under IFSR and/or SDGT programs [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]. Modified entries affect 312 pre-existing SDN-listed persons and entities, including ALIQ, Qasim; SAMIR HERZALLAH AND BROTHERS FOR MONEY EXCHANGE AND REMITTANCES; PENG, Minbo; AKADEMIK NEMCHINOV; and KOREA PUGANG TRADING CORPORATION, per the provided examples [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].",
+  "instruments": [
+   "SDN List (OFAC)",
+   "IFSR",
+   "SDGT"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against updated SDN list, including newly added entities (entity_ids 58222–58226, 58173) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]",
+   "Re-verify identifying data (IDs, addresses, nationalities, dates of birth) for existing SDN matches given the modification batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]",
+   "Confirm no dealings with logistics/travel entities named in the added group given IFSR/SDGT program designations [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]"
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58226]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58225]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58222]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58173]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58223]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58224]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-4cddfb2a859c66b6"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "AIR CARGO PRO LIMITED (58226)",
+   "SKIEZ TRAVELS AND LOGISTICS PRIVATE LIMITED (58225)",
+   "SHANGHAI WINGS INTERNATIONAL LOGISTICS CO (58222)",
+   "DADENEGAR STARTUP STUDIO (58173)",
+   "TANG, Xin (58223)",
+   "SHANGHAI ELITE INTERNATIONAL TRAVEL CO LTD (58224)"
+  ],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-07-29",
   "archived_on": "2026-07-29",
   "id": "note-b5a0ea2324c434e1",
