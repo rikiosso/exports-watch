@@ -1,5 +1,41 @@
 [
  {
+  "action_date": "2026-08-04",
+  "archived_on": "2026-08-01",
+  "id": "note-88c96662c1524354",
+  "headline": "US notice on tariff reduction for UK patented pharmaceuticals filed for public inspection",
+  "what_changed": "A Notice titled \"Reduction of Tariffs: Patented Pharmaceuticals and Pharmaceutical Ingredients for Products of the United Kingdom Implemented by Presidential Proclamation 11020\" was placed on public inspection, publication date 2026-08-04, FR Doc. 2026-15799 [FR Doc. 2026-15799, https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the]. No abstract, CFR parts, effective dates, or full text are provided in the source [FR Doc. 2026-15799, https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the].",
+  "who_is_affected": "not stated in source",
+  "instruments": [
+   "Presidential Proclamation 11020 (referenced in title only)"
+  ],
+  "effective_dates": [],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Monitor for release of full text or abstract of this notice once it moves beyond public-inspection stage.",
+   "Check subsequent Federal Register publication for effective dates, tariff schedule changes, and scope of covered pharmaceutical products."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-15799, public inspection listing",
+    "url": "https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the"
+   }
+  ],
+  "event_refs": [
+   "evt-4ddb43281e9ef709"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-07-30",
   "archived_on": "2026-07-30",
   "id": "note-d40d855e97db9ee5",
