@@ -1,5 +1,99 @@
 [
  {
+  "action_date": "2026-08-06",
+  "archived_on": "2026-08-04",
+  "id": "note-5e2178e455ec1a81",
+  "headline": "FR notice flags additional Section 232 duties on aluminum, steel, copper derivatives; no operative text yet",
+  "what_changed": "A Federal Register notice titled 'Implementation of Duties on Additional Aluminum, Steel, and Copper Derivative Articles under Section 232' entered the public-inspection stage on 2026-08-06, with FR Doc. 2026-15961; no abstract, CFR parts, or diff summary are included in the source [FR Doc. 2026-15961, public inspection listing].",
+  "who_is_affected": "Not stated in source — the notice does not identify affected parties, HTS codes, or countries of origin [FR Doc. 2026-15961, public inspection listing].",
+  "instruments": [
+   "Federal Register Notice (public inspection stage)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source — no licensing, exception, or presumption language is present in the provided material [FR Doc. 2026-15961, public inspection listing].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Monitor Federal Register for publication of the full notice text and effective dates.",
+   "Check for inclusion of specific HTS derivative codes once published.",
+   "Reassess EU exposure once duty scope and any foreign-sourced input provisions are disclosed."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-15961, public inspection listing",
+    "url": "https://www.federalregister.gov/public-inspection/2026-15961/implementation-of-duties-on-additional-aluminum-steel-and-copper-derivative-articles-under-section"
+   }
+  ],
+  "event_refs": [
+   "evt-872c14c0691fd2f8"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-04",
+  "archived_on": "2026-08-04",
+  "id": "note-46d7f31adabf628f",
+  "headline": "US cuts UK-origin patented pharmaceutical tariff from 10% to 0% under Proclamation 11020",
+  "what_changed": "The notice revises the tariff rate on patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom from 10 percent to zero percent, amending Harmonized Tariff Schedule heading 9903.04.63 by deleting \"+10%\" and inserting \"+0%\" [FR Doc. 2026-15799, Modifications to the Harmonized Tariff Schedule of the United States].",
+  "who_is_affected": "Importers of patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom entering the United States for consumption or withdrawn from warehouse for consumption on or after the effective date [FR Doc. 2026-15799, DATES].",
+  "instruments": [
+   "Presidential Proclamation 11020 \"Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States\"",
+   "Harmonized Tariff Schedule of the United States, heading 9903.04.63"
+  ],
+  "effective_dates": [
+   "12:01 a.m. Eastern Time on July 31, 2026"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Confirm whether goods qualify as products of the United Kingdom under the applicable rules of origin before relying on the zero percent rate.",
+   "Monitor for further Federal Register notices implementing Proclamation 11020 for other trading partners."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "[FR Doc. 2026-15799, SUMMARY]",
+    "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for"
+   },
+   {
+    "pinpoint": "[FR Doc. 2026-15799, DATES]",
+    "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for"
+   },
+   {
+    "pinpoint": "[FR Doc. 2026-15799, Modifications to the Harmonized Tariff Schedule of the United States]",
+    "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for"
+   }
+  ],
+  "event_refs": [
+   "evt-9d3b959f1643e580"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "9903.04.63"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "9903.04.63",
+    "before": "+10%",
+    "after": "+0%"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-04",
   "archived_on": "2026-08-01",
   "id": "note-88c96662c1524354",
