@@ -1,6 +1,60 @@
 [
  {
   "action_date": "2026-08-06",
+  "archived_on": "2026-08-06",
+  "id": "note-bae86fc7eb9da9e0",
+  "headline": "BIS seeks comment on adding 14 derivative articles to Section 232 steel, aluminum, and copper tariffs",
+  "what_changed": "BIS published a notice requesting public comments on a proposal to include 14 additional derivative articles within the scope of Section 232 duties on steel, aluminum, and copper, including aluminum powder, brass-wind musical instruments and parts, welding machine parts, floor safes, electric conductor cables, fire extinguishers, heat exchange unit parts, hydraulic engine/motor parts, self-propelled cranes/mobile lifting frames/straddle carriers, tanker trailers and semi-trailers, agricultural self-loading/unloading trailers, other trailers and semi-trailers, and certain filled steel containers [FR Doc. 2026-15961, Summary]. The proposal is made pursuant to Proclamation 11021 of April 2, 2026, which authorized the Secretary of Commerce and the Trade Representative to add derivative articles to tariff scope upon a joint determination of import threat to national security [FR Doc. 2026-15961, Background]. Commerce proposes that most listed products would generally be subject to the 25 percent tariff under clause (3) of Proclamation 11021, with specified cranes/lifting frames/straddle carriers subject to rates under clauses (2) and (3) of Proclamation 11032, agricultural trailers subject to the 15 percent tariff under clause (5) of Proclamation 11021, and filled steel containers subject to the 50 percent tariff under clause (2) of Proclamation 11021 applied only to the metal container value [FR Doc. 2026-15961, Background].",
+  "who_is_affected": "Importers of the 14 listed derivative aluminum, steel, and copper articles identified by HTSUS classification, and domestic producers, industry associations, or other interested parties invited to submit data on aluminum, steel, and/or copper intensity, import volumes, domestic production capacity, and economic effects [FR Doc. 2026-15961, Summary][FR Doc. 2026-15961, Written Comments].",
+  "instruments": [
+   "Section 232 tariffs under Proclamation 11021 (April 2, 2026)",
+   "Section 232 tariffs under Proclamation 11032 (June 1, 2026)",
+   "Proclamation 9704, as amended",
+   "Proclamation 9705, as amended",
+   "Proclamation 10962"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Submit comments via www.regulations.gov (docket BIS-2026-0331, XRIN 0694-XC166) by August 27, 2026, addressing aluminum/steel/copper intensity, import volumes, domestic production capacity, and economic effects of the proposed derivative article additions [FR Doc. 2026-15961, DATES][FR Doc. 2026-15961, Written Comments].",
+   "Identify whether any exported products fall within the 14 listed HTSUS categories to assess exposure to potential future Section 232 duty scope expansion [FR Doc. 2026-15961, Background]."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-15961, Summary",
+    "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15961/request-for-public-comments-on-the-proposed-implementation-of-duties-on-additional-aluminum-steel"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-15961, DATES",
+    "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15961/request-for-public-comments-on-the-proposed-implementation-of-duties-on-additional-aluminum-steel"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-15961, Background",
+    "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15961/request-for-public-comments-on-the-proposed-implementation-of-duties-on-additional-aluminum-steel"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-15961, Written Comments",
+    "url": "https://www.federalregister.gov/documents/2026/08/06/2026-15961/request-for-public-comments-on-the-proposed-implementation-of-duties-on-additional-aluminum-steel"
+   }
+  ],
+  "event_refs": [
+   "evt-a41c26eae0ef7c18"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-06",
   "archived_on": "2026-08-04",
   "id": "note-5e2178e455ec1a81",
   "headline": "FR notice flags additional Section 232 duties on aluminum, steel, copper derivatives; no operative text yet",
