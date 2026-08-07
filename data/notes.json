@@ -1,5 +1,133 @@
 [
  {
+  "action_date": "2026-08-07",
+  "archived_on": "2026-08-07",
+  "id": "note-3a3850af905339d0",
+  "headline": "OFAC SDN list update: 11 Cuba-program entities added, 866 entries modified (mostly ID field changes)",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list received a batch update adding 11 new entities, all under the CUBA-EO14404 program, and modifying 866 existing entries, with the modification histogram showing 865 changes to 'ids' fields, 2 to 'programs', 1 to 'name', 1 to 'dates_of_birth', and 1 to 'title' [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].",
+  "who_is_affected": "Newly designated persons and entities include EMPRESA MILITAR INDUSTRIAL YURI GAGARIN [CSL:Specially Designated Nationals (SDN) - Treasury Department:58296], REMON RODRIGUEZ, Jose Antonio [CSL:Specially Designated Nationals (SDN) - Treasury Department:58297], MILIAN GOMEZ, Monica [CSL:Specially Designated Nationals (SDN) - Treasury Department:58299], EMPRESA CUBANA IMPORTADA Y EXPORTADA DE PRODUCTOS TECNICOS [CSL:Specially Designated Nationals (SDN) - Treasury Department:58292], UNION DE INDUSTRIA MILITAR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58290], BIOSCA GALLEGO, Oscar Enrique [CSL:Specially Designated Nationals (SDN) - Treasury Department:58298], SANCHEZ ALLEYNE, Heriberto [CSL:Specially Designated Nationals (SDN) - Treasury Department:58293], VICIANA MOUSSET, Roberto Jesus [CSL:Specially Designated Nationals (SDN) - Treasury Department:58291], PEREZ CORTES, Waldo [CSL:Specially Designated Nationals (SDN) - Treasury Department:58300], EMPRESA CUBANA EXPORTADORA E IMPORTADORA DE SERVICIOS, ARTICULOS Y PRODUCTOS TECNICOS ESPECIALIZADOS SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58295], and SOCIEDAD MERCANTIL DUNA SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58294]. The 866 modified entries include, among others, GHAFFARHADDADI, Javad [CSL:Specially Designated Nationals (SDN) - Treasury Department:GHAFFARHADDADI, Javad], AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.], IRANIAN BASPAR PUYA COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:IRANIAN BASPAR PUYA COMPANY], JOINT STOCK COMPANY COMMERCIAL BANK URAL FD [CSL:Specially Designated Nationals (SDN) - Treasury Department:JOINT STOCK COMPANY COMMERCIAL BANK URAL FD], and SABATURK DIS TICARET ANONIM SIRKETI [CSL:Specially Designated Nationals (SDN) - Treasury Department:SABATURK DIS TICARET ANONIM SIRKETI], with the remaining 861 modified entries truncated in the source material [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].",
+  "instruments": [
+   "not stated in source"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the 11 newly added SDN entries under the CUBA-EO14404 program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].",
+   "Re-verify identifier data (e.g. IDs, programs, name, date of birth, title fields) for existing SDN matches, given the high volume of 'ids' field modifications in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].",
+   "Obtain full delta detail beyond the five truncated examples to confirm whether any modified entries affect EU-linked counterparties, as the source truncates 861 of 866 modified entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c]."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58296]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58297]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58299]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58292]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58290]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58298]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58293]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58291]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58300]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58295]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58294]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-ea5a2cad72967523"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "58296",
+   "58297",
+   "58299",
+   "58292",
+   "58290",
+   "58298",
+   "58293",
+   "58291",
+   "58300",
+   "58295",
+   "58294",
+   "GHAFFARHADDADI, Javad",
+   "AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.",
+   "IRANIAN BASPAR PUYA COMPANY",
+   "JOINT STOCK COMPANY COMMERCIAL BANK URAL FD",
+   "SABATURK DIS TICARET ANONIM SIRKETI"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "GHAFFARHADDADI, Javad",
+    "before": "not stated in source",
+    "after": "ids field modified"
+   },
+   {
+    "entry_code": "AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.",
+    "before": "not stated in source",
+    "after": "ids field modified"
+   },
+   {
+    "entry_code": "IRANIAN BASPAR PUYA COMPANY",
+    "before": "not stated in source",
+    "after": "ids field modified"
+   },
+   {
+    "entry_code": "JOINT STOCK COMPANY COMMERCIAL BANK URAL FD",
+    "before": "not stated in source",
+    "after": "ids field modified"
+   },
+   {
+    "entry_code": "SABATURK DIS TICARET ANONIM SIRKETI",
+    "before": "not stated in source",
+    "after": "ids field modified"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-06",
   "archived_on": "2026-08-06",
   "id": "note-bae86fc7eb9da9e0",
