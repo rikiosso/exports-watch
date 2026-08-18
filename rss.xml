@@ -5,6 +5,13 @@
   <link>https://rikiosso.github.io/exports-watch/</link>
   <description>US and EU export-control changes, machine-detected, system-drafted and cited to primary sources. Not legal advice.</description>
   <item>
+    <title>OFAC SDN list update: 3 new listings, 1,077 entries&#39; identifiers modified</title>
+    <link>https://rikiosso.github.io/exports-watch/notes/note-514156e7facb79b2.html</link>
+    <guid isPermaLink="true">https://rikiosso.github.io/exports-watch/notes/note-514156e7facb79b2.html</guid>
+    <pubDate>Tue, 18 Aug 2026 19:01:27 +0000</pubDate>
+    <description>Three parties were added to the Specially Designated Nationals (SDN) list — Tomoko AKANE (entity_id 58410, program ICC-EO14203), BLUWAVES PROPERTIES LIMITED (entity_id 58278, program VENEZUELA-EO13850), and Abdoulaye SEYE (entity_id 58411, program ICC-EO14203) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1]. Separately, 1,077 existing SDN entries had their &#39;ids&#39; field modified, with no other fields altered per the histogram provided [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1].</description>
+  </item>
+  <item>
     <title>OFAC SDN list update: 18 added, 902 modified, 8 removed under Iran and terrorism programs</title>
     <link>https://rikiosso.github.io/exports-watch/notes/note-4a048d9f408a9d48.html</link>
     <guid isPermaLink="true">https://rikiosso.github.io/exports-watch/notes/note-4a048d9f408a9d48.html</guid>
