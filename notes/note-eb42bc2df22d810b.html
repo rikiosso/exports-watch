@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,30 +76,31 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN list update adds 13 Iran-linked entries, updates identifiers on 863 existing entries</h2>
   <p class="meta">
     <strong>📅 24 July 2026</strong>    · <span class="tag">medium confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>The Treasury Department's Specially Designated Nationals (SDN) list received a batch update: 13 new entries were added under the IRAN-EO13902 program, including individuals (e.g., REZAZADEH, Mehdi, entity_id 58186; OIMAKHMADOV, Sukhrob, entity_id 58187; BANI, Solmaz, entity_id 58188; ZANJANI, Bahareh Morteza, entity_id 58185) and entities (e.g., ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI, entity_id 58174; DOTONE AIRLINES COMPANY, entity_id 58181; DOTONE GOLD COMPANY, entity_id 58178; BZ DIAMOND DMCC, entity_id 58183; DOTONE RAIL COMPANY, entity_id 58179; DOT ONE VALUE CREATION GROUP, entity_id 58176; DOTONE BARTER COMPANY, entity_id 58180; ZEDX DMCC, entity_id 58177; DOTONE TRIP, entity_id 58182) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].</li><li>Separately, 863 existing entries were modified, with the only field touched being 'ids' (identifier data), affecting entries such as OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, ZHEJIANG QINGJI IND. CO., LTD, WANG, Jiantong, PISHRO TEJARAT SANA COMPANY, and EXPORT DEVELOPMENT BANK OF IRAN [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].</li></ul>
-  <p><strong>Who is affected</strong> — Parties transacting with the 13 newly added Iran-linked individuals and entities under the IRAN-EO13902 program are directly affected, as are parties with existing dealings involving the 863 entries whose identifier records were modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].</p>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — Specially Designated Nationals (SDN) List entries; IRAN-EO13902 program designation</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — not stated in source</p>  <div class="delta">Δ not stated in source: “not stated in source” → “not stated in source”<br></div>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Who is affected:</strong> Parties transacting with the 13 newly added Iran-linked individuals and entities under the IRAN-EO13902 program are directly affected, as are parties with existing dealings involving the 863 entries whose identifier records were modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].</p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> Specially Designated Nationals (SDN) List entries; IRAN-EO13902 program designation</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <div class="delta">Δ not stated in source: “not stated in source” → “not stated in source”<br></div>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen customer and counterparty databases against the 13 newly added entity_ids (58174, 58176-58183, 58185-58188) for IRAN-EO13902 exposure.</li><li>Verify updated identifier data for the 863 modified SDN entries against internal restricted-party screening tools to avoid false negatives from identifier changes.</li><li>Confirm no existing business relationships involve the newly listed Dotone-affiliated companies or associated individuals.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1]</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

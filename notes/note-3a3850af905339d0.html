@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,26 +76,26 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN list update: 11 Cuba-program entities added, 866 entries modified (mostly ID field changes)</h2>
   <p class="meta">
     <strong>📅 07 August 2026</strong>    · <span class="tag">low confidence</span>
   </p>
-  <p><strong>What changed</strong> — The Treasury Department's Specially Designated Nationals (SDN) list received a batch update adding 11 new entities, all under the CUBA-EO14404 program, and modifying 866 existing entries, with the modification histogram showing 865 changes to 'ids' fields, 2 to 'programs', 1 to 'name', 1 to 'dates_of_birth', and 1 to 'title' [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</p>
-  <p><strong>Who is affected</strong></p>
+  <p><strong>What changed:</strong> The Treasury Department's Specially Designated Nationals (SDN) list received a batch update adding 11 new entities, all under the CUBA-EO14404 program, and modifying 866 existing entries, with the modification histogram showing 865 changes to 'ids' fields, 2 to 'programs', 1 to 'name', 1 to 'dates_of_birth', and 1 to 'title' [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</p>
+  <p><strong>Who is affected:</strong></p>
   <ul><li>Newly designated persons and entities include EMPRESA MILITAR INDUSTRIAL YURI GAGARIN [CSL:Specially Designated Nationals (SDN) - Treasury Department:58296], REMON RODRIGUEZ, Jose Antonio [CSL:Specially Designated Nationals (SDN) - Treasury Department:58297], MILIAN GOMEZ, Monica [CSL:Specially Designated Nationals (SDN) - Treasury Department:58299], EMPRESA CUBANA IMPORTADA Y EXPORTADA DE PRODUCTOS TECNICOS [CSL:Specially Designated Nationals (SDN) - Treasury Department:58292], UNION DE INDUSTRIA MILITAR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58290], BIOSCA GALLEGO, Oscar Enrique [CSL:Specially Designated Nationals (SDN) - Treasury Department:58298], SANCHEZ ALLEYNE, Heriberto [CSL:Specially Designated Nationals (SDN) - Treasury Department:58293], VICIANA MOUSSET, Roberto Jesus [CSL:Specially Designated Nationals (SDN) - Treasury Department:58291], PEREZ CORTES, Waldo [CSL:Specially Designated Nationals (SDN) - Treasury Department:58300], EMPRESA CUBANA EXPORTADORA E IMPORTADORA DE SERVICIOS, ARTICULOS Y PRODUCTOS TECNICOS ESPECIALIZADOS SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58295], and SOCIEDAD MERCANTIL DUNA SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58294].</li><li>The 866 modified entries include, among others, GHAFFARHADDADI, Javad [CSL:Specially Designated Nationals (SDN) - Treasury Department:GHAFFARHADDADI, Javad], AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.], IRANIAN BASPAR PUYA COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:IRANIAN BASPAR PUYA COMPANY], JOINT STOCK COMPANY COMMERCIAL BANK URAL FD [CSL:Specially Designated Nationals (SDN) - Treasury Department:JOINT STOCK COMPANY COMMERCIAL BANK URAL FD], and SABATURK DIS TICARET ANONIM SIRKETI [CSL:Specially Designated Nationals (SDN) - Treasury Department:SABATURK DIS TICARET ANONIM SIRKETI], with the remaining 861 modified entries truncated in the source material [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</li></ul>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — not stated in source</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — 58296, 58297, 58299, 58292, 58290, 58298, 58293, 58291, 58300, 58295, 58294, GHAFFARHADDADI, Javad, AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C., IRANIAN BASPAR PUYA COMPANY, JOINT STOCK COMPANY COMMERCIAL BANK URAL FD, SABATURK DIS TICARET ANONIM SIRKETI</p>  <div class="delta">Δ GHAFFARHADDADI, Javad: “not stated in source” → “ids field modified”<br>Δ AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.: “not stated in source” → “ids field modified”<br>Δ IRANIAN BASPAR PUYA COMPANY: “not stated in source” → “ids field modified”<br>Δ JOINT STOCK COMPANY COMMERCIAL BANK URAL FD: “not stated in source” → “ids field modified”<br>Δ SABATURK DIS TICARET ANONIM SIRKETI: “not stated in source” → “ids field modified”<br></div>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> not stated in source</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <div class="delta">Δ GHAFFARHADDADI, Javad: “not stated in source” → “ids field modified”<br>Δ AL ZUMOROUD AND AL YAQOOT GOLD & JEWELLERS TRADING L.L.C.: “not stated in source” → “ids field modified”<br>Δ IRANIAN BASPAR PUYA COMPANY: “not stated in source” → “ids field modified”<br>Δ JOINT STOCK COMPANY COMMERCIAL BANK URAL FD: “not stated in source” → “ids field modified”<br>Δ SABATURK DIS TICARET ANONIM SIRKETI: “not stated in source” → “ids field modified”<br></div>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen counterparties against the 11 newly added SDN entries under the CUBA-EO14404 program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</li><li>Re-verify identifier data (e.g. IDs, programs, name, date of birth, title fields) for existing SDN matches, given the high volume of 'ids' field modifications in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</li><li>Obtain full delta detail beyond the five truncated examples to confirm whether any modified entries affect EU-linked counterparties, as the source truncates 861 of 866 modified entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c].</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-da5d9593ece8b81c]</li>
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58296]</li>
@@ -105,6 +111,7 @@
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58294]</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,26 +76,26 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN list update: 6 entities added, 312 entries modified (IFSR, SDGT programs)</h2>
   <p class="meta">
     <strong>📅 30 July 2026</strong>    · <span class="tag">low confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>Treasury's Specially Designated Nationals list received 6 additions and 312 modifications in a single batch delta [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].</li><li>Added entities include AIR CARGO PRO LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58226], SKIEZ TRAVELS AND LOGISTICS PRIVATE LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58225], SHANGHAI WINGS INTERNATIONAL LOGISTICS CO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58222], DADENEGAR STARTUP STUDIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58173], TANG, Xin [CSL:Specially Designated Nationals (SDN) - Treasury Department:58223], and SHANGHAI ELITE INTERNATIONAL TRAVEL CO LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:58224], all listed under programs IFSR and/or SDGT with no Federal Register citation provided (FR: -) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].</li><li>The 312 modified entries predominantly touched identification fields (312 of 312), with single instances of changes to dates of birth, addresses, nationalities, and remarks [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].</li></ul>
-  <p><strong>Who is affected</strong></p>
+  <p><strong>Who is affected:</strong></p>
   <ul><li>Entities newly added include logistics, travel, and startup-studio companies and one named individual (TANG, Xin), designated under IFSR and/or SDGT programs [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].</li><li>Modified entries affect 312 pre-existing SDN-listed persons and entities, including ALIQ, Qasim; SAMIR HERZALLAH AND BROTHERS FOR MONEY EXCHANGE AND REMITTANCES; PENG, Minbo; AKADEMIK NEMCHINOV; and KOREA PUGANG TRADING CORPORATION, per the provided examples [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f].</li></ul>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — SDN List (OFAC); IFSR; SDGT</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — AIR CARGO PRO LIMITED (58226), SKIEZ TRAVELS AND LOGISTICS PRIVATE LIMITED (58225), SHANGHAI WINGS INTERNATIONAL LOGISTICS CO (58222), DADENEGAR STARTUP STUDIO (58173), TANG, Xin (58223), SHANGHAI ELITE INTERNATIONAL TRAVEL CO LTD (58224)</p><p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> SDN List (OFAC); IFSR; SDGT</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen counterparties against updated SDN list, including newly added entities (entity_ids 58222–58226, 58173) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]</li><li>Re-verify identifying data (IDs, addresses, nationalities, dates of birth) for existing SDN matches given the modification batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]</li><li>Confirm no dealings with logistics/travel entities named in the added group given IFSR/SDGT program designations [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0f14a7df3886d85f]</li>
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58226]</li>
@@ -100,6 +106,7 @@
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58224]</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

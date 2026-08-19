@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,7 +76,7 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>

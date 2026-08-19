@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,27 +76,27 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN List update: 73 entities added, 2,474 modified, 1 removed</h2>
   <p class="meta">
     <strong>📅 23 July 2026</strong>    · <span class="tag">medium confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>The Specially Designated Nationals (SDN) list maintained by the Treasury Department recorded 73 additions, 2,474 modifications (all limited to the 'ids' field), and 1 removal in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9].</li><li>Additions include individuals and entities designated under programs including ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, such as AL-JEBOURI, Abdulla Issam Ahmad (entity_id: 58200) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58200] and HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V. (entity_id: 58075) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58075].</li><li>One entity, BEL-KAP-STEEL LLC (entity_id: 44525, program BELARUS-EO14038), was removed from the list [CSL:Specially Designated Nationals (SDN) - Treasury Department:44525].</li></ul>
-  <p><strong>Who is affected</strong></p>
+  <p><strong>Who is affected:</strong></p>
   <ul><li>Individuals and entities newly listed under programs ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, and the entity removed under the BELARUS-EO14038 program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9].</li><li>The 2,474 modified entries had only identifier ('ids') fields changed, with no further detail on substantive changes stated in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9].</li></ul>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — Specially Designated Nationals and Blocked Persons List (SDN List), U.S. Department of the Treasury, Office of Foreign Assets Control</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — 58200, 58075, 58020, 57995, 58004, 58041, 58213, 58039, 58002, 58072, 58015, 58017, 58063, 58022, 58202, 58019, 57966, 58198, 57970, 58000, 58038, 58062, 58033, 58024, 58065, 44525</p>  <div class="delta">Δ not stated in source: “not stated in source” → “not stated in source”<br></div>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> Specially Designated Nationals and Blocked Persons List (SDN List), U.S. Department of the Treasury, Office of Foreign Assets Control</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <div class="delta">Δ not stated in source: “not stated in source” → “not stated in source”<br></div>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen counterparties against the updated SDN list, including the 73 newly added entries.</li><li>Confirm removal of BEL-KAP-STEEL LLC (entity_id: 44525) from internal restricted-party screening databases.</li><li>Review any existing relationships with the 2,474 modified entries to determine whether identifier changes affect matching in screening systems.</li><li>Retain records of screening runs against this batch for audit purposes, pending further detail on the modified fields.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]</li>
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58200]</li>
@@ -98,6 +104,7 @@
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:44525]</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

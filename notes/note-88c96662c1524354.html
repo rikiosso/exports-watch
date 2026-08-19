@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,29 +76,30 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 US notice on tariff reduction for UK patented pharmaceuticals filed for public inspection</h2>
   <p class="meta">
     <strong>📅 04 August 2026</strong> · added to archive 01 August 2026    · <span class="tag">low confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>A Notice titled "Reduction of Tariffs: Patented Pharmaceuticals and Pharmaceutical Ingredients for Products of the United Kingdom Implemented by Presidential Proclamation 11020" was placed on public inspection, publication date 2026-08-04, FR Doc. 2026-15799 [FR Doc. 2026-15799, https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the].</li><li>No abstract, CFR parts, effective dates, or full text are provided in the source [FR Doc. 2026-15799, https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the].</li></ul>
-  <p><strong>Who is affected</strong> — not stated in source</p>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — Presidential Proclamation 11020 (referenced in title only)</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Who is affected:</strong> not stated in source</p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> Presidential Proclamation 11020 (referenced in title only)</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <p><strong>Action items:</strong></p>
   <ul><li>Monitor for release of full text or abstract of this notice once it moves beyond public-inspection stage.</li><li>Check subsequent Federal Register publication for effective dates, tariff schedule changes, and scope of covered pharmaceutical products.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li><a href="https://www.federalregister.gov/public-inspection/2026-15799/reduction-of-tariffs-patented-pharmaceuticals-and-pharmaceutical-ingredients-for-products-of-the">FR Doc. 2026-15799, public inspection listing</a></li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

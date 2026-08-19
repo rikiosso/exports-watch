@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,31 +76,32 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 US cuts UK-origin patented pharmaceutical tariff from 10% to 0% under Proclamation 11020</h2>
   <p class="meta">
     <strong>📅 04 August 2026</strong>    · <span class="tag">high confidence</span>
   </p>
-  <p><strong>What changed</strong> — The notice revises the tariff rate on patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom from 10 percent to zero percent, amending Harmonized Tariff Schedule heading 9903.04.63 by deleting "+10%" and inserting "+0%" [FR Doc. 2026-15799, Modifications to the Harmonized Tariff Schedule of the United States].</p>
-  <p><strong>Who is affected</strong> — Importers of patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom entering the United States for consumption or withdrawn from warehouse for consumption on or after the effective date [FR Doc. 2026-15799, DATES].</p>
-  <p><strong>Licence posture</strong> — not stated in source</p>
-  <p><strong>Effective</strong> — 12:01 a.m. Eastern Time on July 31, 2026</p>
-<p><strong>Instruments</strong> — Presidential Proclamation 11020 "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States"; Harmonized Tariff Schedule of the United States, heading 9903.04.63</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — 9903.04.63</p>  <div class="delta">Δ 9903.04.63: “+10%” → “+0%”<br></div>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>What changed:</strong> The notice revises the tariff rate on patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom from 10 percent to zero percent, amending Harmonized Tariff Schedule heading 9903.04.63 by deleting "+10%" and inserting "+0%" [FR Doc. 2026-15799, Modifications to the Harmonized Tariff Schedule of the United States].</p>
+  <p><strong>Who is affected:</strong> Importers of patented pharmaceuticals and associated pharmaceutical ingredients that are products of the United Kingdom entering the United States for consumption or withdrawn from warehouse for consumption on or after the effective date [FR Doc. 2026-15799, DATES].</p>
+  <p><strong>Effective:</strong> 12:01 a.m. Eastern Time on July 31, 2026</p>
+<p><strong>Instruments:</strong> Presidential Proclamation 11020 "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients Into the United States"; Harmonized Tariff Schedule of the United States, heading 9903.04.63</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <div class="delta">Δ 9903.04.63: “+10%” → “+0%”<br></div>
+  <p><strong>Action items:</strong></p>
   <ul><li>Confirm whether goods qualify as products of the United Kingdom under the applicable rules of origin before relying on the zero percent rate.</li><li>Monitor for further Federal Register notices implementing Proclamation 11020 for other trading partners.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li><a href="https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for">[FR Doc. 2026-15799, SUMMARY]</a></li>
     <li><a href="https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for">[FR Doc. 2026-15799, DATES]</a></li>
     <li><a href="https://www.federalregister.gov/documents/2026/08/04/2026-15799/notice-of-reduction-of-tariffs-on-patented-pharmaceuticals-and-pharmaceutical-ingredients-for">[FR Doc. 2026-15799, Modifications to the Harmonized Tariff Schedule of the United States]</a></li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

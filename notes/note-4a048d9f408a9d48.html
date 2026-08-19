@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,33 +76,34 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN list update: 18 added, 902 modified, 8 removed under Iran and terrorism programs</h2>
   <p class="meta">
     <strong>📅 07 August 2026</strong>    · <span class="tag">medium confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>The Treasury Department's Specially Designated Nationals list was updated with 18 new entries under the IRAN-EO13902 and SDGT/IRGC programs, 902 existing entries modified (identifier fields only), and 8 entries removed from the SDNTK/SDNT programs [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4].</li><li>New designations include entities such as CAILAFANG PTE. LTD., BLUE DASH GENERAL TRADING COMPANY LIMITED, and SHELBIT GENERAL TRADING LLC [CSL:Specially Designated Nationals (SDN) - Treasury Department:58271].</li><li>Removed entries include COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V. and related individuals previously listed under SDNTK/SDNT [CSL:Specially Designated Nationals (SDN) - Treasury Department:16643].</li></ul>
-  <p><strong>Who is affected</strong></p>
+  <p><strong>Who is affected:</strong></p>
   <ul><li>Parties transacting with the newly designated entities under the IRAN-EO13902 and SDGT/IRGC programs are affected [CSL:Specially Designated Nationals (SDN) - Treasury Department:58271].</li><li>Parties previously restricted from dealing with the removed SDNTK/SDNT-listed entities are affected by the delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:16643].</li></ul>
-  <p><strong>Licence posture</strong> — The source provides no licence-related text; no statement on presumption of denial, case-by-case review, or licence exceptions is given [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4].</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — Specially Designated Nationals (SDN) List — Treasury Department, OFAC</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Annex I entries affected</strong> — 58271, 58275, 58285, 58258, 58270, 58267, 58259, 58277, 58266, 58269, 58276, 58284, 58268, 58239, 58274, 58287, 58288, 58272, 16643, 16607, 16582, 16608, 16580, 11753, 16581, 11812</p>  <div class="delta">Δ 902 entries: “prior identifier fields” → “updated identifier fields (ids)”<br></div>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> Specially Designated Nationals (SDN) List — Treasury Department, OFAC</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <div class="delta">Δ 902 entries: “prior identifier fields” → “updated identifier fields (ids)”<br></div>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen counterparties against updated SDN list, focusing on newly added entities under IRAN-EO13902 and SDGT/IRGC programs.</li><li>Verify removal status of the 8 delisted SDNTK/SDNT entries before resuming any prior restricted dealings.</li><li>Monitor identifier-only changes (902 modified entries) for potential matches in due-diligence databases.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4]</li>
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:58271]</li>
     <li>[CSL:Specially Designated Nationals (SDN) - Treasury Department:16643]</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>

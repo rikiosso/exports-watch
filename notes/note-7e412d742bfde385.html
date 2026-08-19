@@ -43,18 +43,24 @@
                          max-width: 38rem; }
   header.hero .crosslink { font-size: .88rem; margin: .8rem auto 0; }
   main { max-width: 46rem; margin: 2rem auto 0; padding: 0 1.25rem; }
-  article { background: var(--card); border: 1px solid var(--line);
-            border-left: 3px solid var(--steel); border-radius: 12px;
+  /* notes render on crystal like the classifier's assistant bubbles */
+  article { background: var(--crystal); color: var(--suit); border: 1px solid var(--line);
+            border-left: 3px solid var(--espresso); border-radius: 12px;
             padding: 1rem 1.15rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.08rem; color: var(--crystal); margin: 0 0 .35rem; }
+  article a { color: var(--suit); }
+  h2 { font-size: 1.08rem; color: var(--suit); margin: 0 0 .35rem; }
   h2 a { color: inherit; }
-  .meta { color: var(--steel-muted); font-size: .82rem; margin: 0 0 .5rem; }
-  .tag { border: 1px solid var(--line); border-radius: 999px; padding: .05rem .55rem;
-         font-size: .75rem; color: var(--steel-muted); white-space: nowrap; }
+  .meta { color: rgba(27, 28, 28, .66); font-size: .82rem; margin: 0 0 .5rem; }
+  .tag { border: 1px solid rgba(27, 28, 28, .25); border-radius: 999px; padding: .05rem .55rem;
+         font-size: .75rem; color: rgba(27, 28, 28, .66); white-space: nowrap; }
   .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85rem;
-           background: var(--tint); border-left: 3px solid var(--line);
+           background: rgba(63, 52, 47, .08); border-left: 3px solid rgba(63, 52, 47, .3);
            padding: .5rem .8rem; border-radius: 0 8px 8px 0; overflow-x: auto; }
   ul.citations { font-size: .85rem; }
+  .back { margin: 0 0 .9rem; font-size: .9rem; }
+  article + .back { margin-top: .2rem; }
+  .back a { color: var(--steel-muted); }
+  .back a:hover { color: var(--crystal); }
   footer { max-width: 100%; margin-top: 3rem; padding: 1rem 1.25rem 1.2rem;
            border-top: 1px solid var(--line); text-align: center;
            color: var(--steel-muted); font-size: .8rem; }
@@ -70,30 +76,31 @@
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
-  <p class="tagline">Fully automated monitoring of US and EU export-control changes —
+  <p class="tagline">Fully automated monitoring of US and EU export-control changes:
   every note is system-generated from cited primary sources.</p>
   <p class="crosslink"><a href="https://rikiosso.github.io/dualuse-classifier/">Classify a technology with the EU Dual-Use Classifier →</a></p>
 </header>
 <main>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 <article>
   <h2>🇺🇸 OFAC SDN List: 3 removals, 2466 entries modified in single batch update</h2>
   <p class="meta">
     <strong>📅 05 August 2026</strong>    · <span class="tag">medium confidence</span>
   </p>
-  <p><strong>What changed</strong></p>
+  <p><strong>What changed:</strong></p>
   <ul><li>The Treasury Department's Specially Designated Nationals (SDN) list was updated with 3 entities removed and 2466 entries modified, primarily affecting identification (ids) fields, with one remarks field and one date_of_birth field also touched [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].</li><li>Entities removed were YI-BAN (entity_id: 47170), YI-BAF (entity_id: 47169), and FLY BAGHDAD AIRLINES COMPANY (entity_id: 39236), all listed under the SDGT program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].</li></ul>
-  <p><strong>Who is affected</strong></p>
+  <p><strong>Who is affected:</strong></p>
   <ul><li>Parties affected include those removed from the list, YI-BAN, YI-BAF, and FLY BAGHDAD AIRLINES COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].</li><li>Entities with modified entries include GOLIKOVA, Tatyana Alekseyevna; OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK; PARSIAN CATALYST CHEMICAL COMPANY; AL JUNAID MULTI ACTIVITIES CO LTD; and ZHEJIANG QINGJI IND. CO., LTD, among 2461 further entries not individually itemized in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].</li></ul>
-  <p><strong>Licence posture</strong> — The source provides no statement regarding licence posture, presumption of denial, case-by-case review, or licence exceptions for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].</p>
-  <p><strong>Effective</strong> — not stated in source</p>
-<p><strong>Instruments</strong> — not stated in source</p>  <p><strong>Relevance for EU exporters</strong> — indirect only</p>
-<p><strong>Reclassification impact</strong> — not stated in source</p>  <p><strong>Action items</strong></p>
+  <p><strong>Effective:</strong> not stated in source</p>
+<p><strong>Instruments:</strong> not stated in source</p>  <p><strong>Relevance for EU exporters:</strong> indirect only</p>
+  <p><strong>Action items:</strong></p>
   <ul><li>Screen counterparties against updated SDN entries, particularly the three removed entities (YI-BAN, YI-BAF, FLY BAGHDAD AIRLINES COMPANY) to confirm removal status before relying on prior list snapshots.</li><li>Verify identification (ids) field changes for any counterparties matching the 2466 modified entries, given the histogram shows 2465 id-field changes.</li><li>Consult primary OFAC source documents for full entity-level detail, as this record provides only truncated examples of the 2466 modified entries.</li></ul>
-  <p><strong>Citations</strong></p>
+  <p><strong>Citations:</strong></p>
   <ul class="citations">
     <li>CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66</li>
   </ul>
 </article>
+<p class="back"><a href="https://rikiosso.github.io/exports-watch/">← All notes</a></p>
 </main>
 <footer>
   <p>Fully automated monitoring. Not legal advice. Every claim links to its source so you can check it.</p>
