@@ -29,9 +29,13 @@
   a { color: var(--crystal); text-decoration-thickness: 1px; text-underline-offset: 2px; }
   a:hover { color: var(--steel); }
   ::selection { background: var(--steel); color: var(--suit); }
-  .topbar { display: flex; justify-content: space-between; align-items: center; gap: 1rem;
-            max-width: 60rem; margin: 0 auto; padding: 1.1rem 1.25rem 0; }
-  .topbar .mark { height: 34px; width: auto; display: block; }
+  .topbar { position: sticky; top: 0; z-index: 20; background: var(--espresso);
+            border-bottom: 1px solid var(--line); }
+  .topbar-inner { display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+                  max-width: 60rem; margin: 0 auto; padding: .65rem 1.25rem; }
+  .brand { display: flex; align-items: center; gap: .65rem; text-decoration: none; }
+  .brand .mark { height: 26px; width: auto; display: block; }
+  .brandname { font-family: var(--display); color: var(--crystal); font-size: 1rem; letter-spacing: .02em; }
   .topbar-byline { font-size: .85rem; color: var(--steel-muted); text-decoration: none; margin-left: auto; }
   .topbar-byline:hover { color: var(--crystal); text-decoration: underline; }
   header.hero { max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 0; text-align: center; }
@@ -71,8 +75,13 @@
 </head>
 <body>
 <div class="topbar">
-  <a href="https://rikiosso.github.io/exports-watch/"><img class="mark" src="https://rikiosso.github.io/exports-watch/osso-mark.png" alt="" onerror="this.style.display='none'"></a>
-  <a class="topbar-byline" href="https://www.linkedin.com/in/ricardo-ossorio" target="_blank" rel="noopener">by Ricardo Álvarez-Ossorio Castro</a>
+  <div class="topbar-inner">
+    <a class="brand" href="https://rikiosso.github.io/exports-watch/">
+      <img class="mark" src="https://rikiosso.github.io/exports-watch/osso-mark.png" alt="" onerror="this.style.display='none'">
+      <span class="brandname">Export Controls Watch</span>
+    </a>
+    <a class="topbar-byline" href="https://www.linkedin.com/in/ricardo-ossorio" target="_blank" rel="noopener">by Ricardo Álvarez-Ossorio Castro</a>
+  </div>
 </div>
 <header class="hero">
   <h1><a href="https://rikiosso.github.io/exports-watch/">Export Controls Watch</a></h1>
