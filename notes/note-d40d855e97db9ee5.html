@@ -71,7 +71,7 @@
   footer p { margin: 0 0 .3rem; }
   footer p:last-child { margin-bottom: 0; }
   footer a { color: inherit; }
-  html, body { overflow-x: hidden; }
+  html, body { overflow-x: clip; } /* clip, not hidden: hidden kills position:sticky */
   article { overflow-wrap: anywhere; }
   @media (max-width: 640px) {
     .topbar-byline { display: none; }
