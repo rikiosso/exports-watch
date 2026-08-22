@@ -1,5 +1,118 @@
 [
  {
+  "action_date": "2026-08-24",
+  "archived_on": "2026-08-22",
+  "id": "note-28e6b4df508e572a",
+  "headline": "BIS removes one Turkey-based entity from the Entity List",
+  "what_changed": "BIS amended the EAR by removing Atempo Proje Taahhüt Ses ve Görüntü Sistemleri Anonim Şirketi İstanbul Şubesi, Bülent Ecevit Bulvarı, in Turkey from the Entity List under supplement no. 4 to part 744, based on information received pursuant to Sec. 744.16(e) and ERC review under supplement no. 5 to part 744 [FR Doc. 2026-17230, Removal From the Entity List].",
+  "who_is_affected": "Persons and companies that previously required a license to export, reexport, or transfer (in-country) items subject to the EAR to the named Turkish entity due to its Entity List status [FR Doc. 2026-17230, Removal From the Entity List].",
+  "instruments": [
+   "Entity List removal (15 CFR part 744, supplement no. 4)"
+  ],
+  "effective_dates": [
+   "2026-08-21"
+  ],
+  "licence_posture": "The document states only that the entity is removed from the Entity List; it does not describe the prior license review policy or resulting posture change beyond the removal itself [FR Doc. 2026-17230, Removal From the Entity List].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Update EAR Entity List screening records to remove the named Turkish entity.",
+   "Confirm no residual license requirements apply to prior transactions involving this entity under Sec. 744.11(b) or related EAR provisions."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-17230, Removal From the Entity List",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list"
+   }
+  ],
+  "event_refs": [
+   "evt-907a6f3cb42cf7db"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "Atempo Proje Taahhüt Ses ve Görüntü Sistemleri Anonim Şirketi İstanbul Şubesi, Bülent Ecevit Bulvarı (Turkey)"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "Turkey - Atempo Proje Taahhüt Ses ve Görüntü Sistemleri Anonim Şirketi İstanbul Şubesi",
+    "before": "Listed on Entity List",
+    "after": "Removed from Entity List"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "Removal eliminates the Entity List-based licensing requirement previously applicable to transactions with this entity; no further licence policy detail is stated in source [FR Doc. 2026-17230, Removal From the Entity List].",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-24",
+  "archived_on": "2026-08-22",
+  "id": "note-37654a6dc23aee63",
+  "headline": "BIS removes two Hong Kong addresses from Arrow Electronics (Hong Kong) Co., Ltd. Entity List entry (China)",
+  "what_changed": "BIS revised the Entity List entry for Arrow Electronics (Hong Kong) Co., Ltd. under the destination of China by removing two addresses — 2/F and 3/F, Green 18, Phase 2, Hong Kong Science Park, Hong Kong; and Units 11001-11008E & 11001-11012W, 11th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong — following ERC review under Sec. 744.16 of the EAR [FR Doc. 2026-17231, Removals From the Entity List]. This follows the November 2025 removal of Arrow China Electronics Trading Co., Ltd. and six aliases for Arrow Electronics (Hong Kong) Co., Ltd. [FR Doc. 2026-17231, Background].",
+  "who_is_affected": "Persons exporting, reexporting, or transferring (in-country) items subject to the EAR to Arrow Electronics (Hong Kong) Co., Ltd., which remains on the Entity List under China at its five other listed addresses with a license requirement for all items subject to the EAR and a presumption-of-denial review policy [FR Doc. 2026-17231, Supplement No. 4 to Part 744]. Parties transacting solely at the two removed addresses are no longer subject to the Entity List licensing requirement tied to this entry [FR Doc. 2026-17231, Removals From the Entity List].",
+  "instruments": [
+   "Entity List (Supplement No. 4 to 15 CFR Part 744)"
+  ],
+  "effective_dates": [
+   "August 21, 2026"
+  ],
+  "licence_posture": "For all items subject to the EAR, a license requirement continues to apply to Arrow Electronics (Hong Kong) Co., Ltd. at its remaining listed addresses, with a license review policy of presumption of denial, pursuant to Sec. 744.11 of the EAR [FR Doc. 2026-17231, Supplement No. 4 to Part 744].",
+  "relevance_eu_exporters": "The Entity List imposes license requirements on exports, reexports, and transfers (in-country) of items subject to the EAR when a listed entity is a party to the transaction; this applies regardless of the exporter's location [FR Doc. 2026-17231, Background]. EU exporters reexporting or transferring items subject to the EAR to Arrow Electronics (Hong Kong) Co., Ltd. at its remaining listed addresses remain subject to this license requirement; transactions solely involving the two removed addresses no longer trigger it [FR Doc. 2026-17231, Removals From the Entity List].",
+  "action_items": [
+   "Cross-check counterparty addresses against the two removed addresses (Hong Kong Science Park; ATL Logistics Centre B units 11001-11008E/11001-11012W) before concluding Entity List exposure has ended.",
+   "Confirm the five remaining listed addresses for Arrow Electronics (Hong Kong) Co., Ltd. before proceeding with any export, reexport, or in-country transfer of items subject to the EAR.",
+   "Maintain presumption-of-denial screening for transactions involving Arrow Electronics (Hong Kong) Co., Ltd. at its remaining listed addresses."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-17231, SUMMARY",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17231, DATES",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17231, Background",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17231, Removals From the Entity List",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17231, Supplement No. 4 to Part 744",
+    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
+   }
+  ],
+  "event_refs": [
+   "evt-519ea2fae81922d2"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "Arrow Electronics (Hong Kong) Co., Ltd. (Entity List, Supplement No. 4 to Part 744, destination: China, People's Republic of)"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "Arrow Electronics (Hong Kong) Co., Ltd. — China entry",
+    "before": "Listed addresses included: 20/F, Tower 2, Evergreen Plaza, 88 Container Port Road, Kwai Chung, Hong Kong; Lot 204, DD105, Castle Peak Road, Yuen Long, Hong Kong; Unit 1003, Kerry Cargo Center, 55 Wing Kei Road, Kwai Chung, Hong Kong; Unit 5001-5004W, 5th Floor, ATL Logistics Centre A, No. 8 Container Port Road South, Kwai Chung, Hong Kong; Unit 5015E-5020E, 5th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong; 2/F and 3/F, Green 18, Phase 2, Hong Kong Science Park, Hong Kong; Units 11001-11008E & 11001-11012W, 11th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong",
+    "after": "Listed addresses limited to: 20/F, Tower 2, Evergreen Plaza, 88 Container Port Road, Kwai Chung, Hong Kong; Lot 204, DD105, Castle Peak Road, Yuen Long, Hong Kong; Unit 1003, Kerry Cargo Center, 55 Wing Kei Road, Kwai Chung, Hong Kong; Unit 5001-5004W, 5th Floor, ATL Logistics Centre A, No. 8 Container Port Road South, Kwai Chung, Hong Kong; Unit 5015E-5020E, 5th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "US Entity List (Supplement No. 4 to 15 CFR Part 744)"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "License requirement for all items subject to the EAR, with a presumption-of-denial review policy, remains in force for Arrow Electronics (Hong Kong) Co., Ltd. at its remaining listed addresses; the two removed addresses no longer carry this Entity List-based license requirement [FR Doc. 2026-17231, Supplement No. 4 to Part 744].",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-18",
   "archived_on": "2026-08-18",
   "id": "note-514156e7facb79b2",
