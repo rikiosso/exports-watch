@@ -1,5 +1,43 @@
 [
  {
+  "action_date": "2026-08-25",
+  "archived_on": "2026-08-24",
+  "id": "note-9bf157a6f5e0720e",
+  "headline": "FR notice on public inspection: DPAS directive allocation orders info collection re: critical minerals",
+  "what_changed": "A notice titled 'Agency Information Collection Activities; Proposals, Submissions, and Approvals: Directive Allocation Orders under the Defense Priorities and Allocations System in Response to Presidential Determination on Recoverable Critical Minerals and Materials' entered public inspection stage on 2026-08-25 [FR Doc. 2026-17323, public inspection listing].",
+  "who_is_affected": "not stated in source",
+  "instruments": [
+   "not stated in source"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Monitor Federal Register for full publication and text of this notice to determine substantive content.",
+   "Review any subsequent Directive Allocation Orders under DPAS once published for scope and applicability."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-17323, public inspection listing",
+    "url": "https://www.federalregister.gov/public-inspection/2026-17323/agency-information-collection-activities-proposals-submissions-and-approvals-directive-allocation"
+   }
+  ],
+  "event_refs": [
+   "evt-750c97654768cbf0"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-24",
   "archived_on": "2026-08-22",
   "id": "note-28e6b4df508e572a",
