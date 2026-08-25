@@ -1,6 +1,59 @@
 [
  {
   "action_date": "2026-08-25",
+  "archived_on": "2026-08-25",
+  "id": "note-9375549d69d3ea55",
+  "headline": "BIS opens comment period on information collection for DPAS critical-minerals allocation orders",
+  "what_changed": "The Department of Commerce/Bureau of Industry and Security published a notice allowing 60 days of public comment on the OMB-approved emergency information collection associated with the Temporary Final Rule 'DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials' (August 6, 2026, 91 FR 50701) [FR Doc. 2026-17323, Summary]. The collection implements recordkeeping and submission requirements under section 700.91 of the DPAS regulation tied to Presidential Determination No. 2026-19 on recoverable Critical Minerals and Materials [FR Doc. 2026-17323, I. Abstract].",
+  "who_is_affected": "Businesses or other for-profit organizations subject to Directive Allocation Orders issued under the Defense Priorities and Allocations System regulation, with an estimated 600 respondents [FR Doc. 2026-17323, III. Data].",
+  "instruments": [
+   "DPAS Directive Allocation Orders",
+   "Temporary Final Rule (91 FR 50701, August 6, 2026)",
+   "Presidential Determination No. 2026-19",
+   "Title I of the Defense Production Act of 1950, as amended"
+  ],
+  "effective_dates": [
+   "Comments must be received on or before October 26, 2026"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Submit comments on the information collection to Nancy Kook, IC Liaison, BIS, by October 26, 2026, referencing OMB Control Number 0694-0148 [FR Doc. 2026-17323, ADDRESSES]",
+   "Review recordkeeping obligations under section 700.91 of the DPAS regulation as detailed in the August 6, 2026 Temporary Final Rule [FR Doc. 2026-17323, I. Abstract]"
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-17323, Summary",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17323/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17323, I. Abstract",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17323/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17323, III. Data",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17323/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-17323, ADDRESSES",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17323/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+   }
+  ],
+  "event_refs": [
+   "evt-8f056720e045cfab"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-25",
   "archived_on": "2026-08-24",
   "id": "note-9bf157a6f5e0720e",
   "headline": "FR notice on public inspection: DPAS directive allocation orders info collection re: critical minerals",
