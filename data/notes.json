@@ -1,5 +1,45 @@
 [
  {
+  "action_date": "2026-08-28",
+  "archived_on": "2026-08-27",
+  "id": "note-337d425ca8f60f58",
+  "headline": "Public inspection listing: drone export control streamlining rule (no text available)",
+  "what_changed": "not stated in source",
+  "who_is_affected": "not stated in source",
+  "instruments": [
+   "Rule (public inspection listing)"
+  ],
+  "effective_dates": [],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Monitor Federal Register for publication of the full rule text under FR Doc. C1-2026-16628 [FR Doc. C1-2026-16628, html_url].",
+   "Review the rule once published for any drone-related export control changes affecting non-US persons or foreign-produced items [FR Doc. C1-2026-16628, html_url]."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "[FR Doc. C1-2026-16628, title]",
+    "url": "https://www.federalregister.gov/public-inspection/C1-2026-16628/streamlining-export-controls-for-drone-exports"
+   },
+   {
+    "pinpoint": "[FR Doc. C1-2026-16628, stage: public_inspection]",
+    "url": "https://www.federalregister.gov/public-inspection/C1-2026-16628/streamlining-export-controls-for-drone-exports"
+   }
+  ],
+  "event_refs": [
+   "evt-6d10e51408832ad2"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-26",
   "archived_on": "2026-08-26",
   "id": "note-9315c07f690d2a83",
