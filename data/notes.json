@@ -1,6 +1,63 @@
 [
  {
   "action_date": "2026-08-28",
+  "archived_on": "2026-08-28",
+  "id": "note-813423bcccd351ff",
+  "headline": "OFAC SDN list update: 2 entries added, 506 entries' identifiers modified",
+  "what_changed": "Two persons were added to the Specially Designated Nationals list: Kameng Trading Limited under program IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485], and Reza Mohammad Taeedi under programs SDGT, IFSR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Additionally, 506 existing SDN entries had their 'ids' field modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "who_is_affected": "Persons or entities that may deal with Kameng Trading Limited or Reza Mohammad Taeedi are now subject to SDN-list restrictions [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Parties conducting screening against the 506 modified SDN entries must update identifier records for those entries, including examples such as Shark International Shipping L.L.C., Tekhnologiya OOO, Shenzhen City Mean Well Electronics Co., Ltd., Peng Minbo, and Wang Dongliang [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List, U.S. Department of the Treasury, Office of Foreign Assets Control"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated SDN list to identify the two newly added entries (Kameng Trading Limited; Reza Mohammad Taeedi).",
+   "Update internal compliance databases to reflect identifier changes for the 506 modified SDN entries.",
+   "Verify no existing business relationships involve the newly listed parties under IRAN-EO13902, SDGT, or IFSR programs."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58485]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-a0d0881d353e7ede"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-28",
   "archived_on": "2026-08-27",
   "id": "note-337d425ca8f60f58",
   "headline": "Public inspection listing: drone export control streamlining rule (no text available)",
