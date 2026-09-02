@@ -2,6 +2,48 @@
  {
   "action_date": "2026-09-02",
   "archived_on": "2026-09-02",
+  "id": "note-14894e531b87eb03",
+  "headline": "State Dept adds 14 individuals/entities to ITAR Debarred List via 91 FR 46821",
+  "what_changed": "The State Department's Directorate of Defense Trade Controls added fourteen parties to the ITAR Debarred List in a single batch [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "who_is_affected": "The named individuals and entities — Glenn Stepul, Phil Pascoe, Victor Cobian, Quadrant Magnetics, Samet (AKA Doyduk Doyduk), Toshihiro Azuma, Gene Shilman, Jose Miguel Lazarin-Zurita, Patrick Jinchao (AKA Wei Wei), Peter Biar Ajak, Richard Mosqueda, Juan Arturo Charles, Abraham Chol Keech, and Scott Tubbs — are now subject to ITAR debarment [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "instruments": [
+   "ITAR Debarred List (DTC) - U.S. Department of State"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source records only the addition of these parties to the Debarred List and does not state the specific licence posture, denial standard, or exception applicable to future ITAR transactions with them [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated ITAR Debarred List entries listed in 91 FR 46821.",
+   "Confirm none of the fourteen newly added names appear in existing or prospective ITAR-controlled transactions."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b]",
+    "url": null
+   },
+   {
+    "pinpoint": "[FR Doc. 91 FR 46821]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-83be37ccb30253fb"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-02",
+  "archived_on": "2026-09-02",
   "id": "note-fe86818e5e7c39e9",
   "headline": "State Department removes one individual from ITAR Debarred List (DTC)",
   "what_changed": "One entry, listed as 'Elena' with multiple aliases (Elena Leonidovna Shifrin Lena, Gohkman Alexander, Ivanov Elena, Belov Shifrin), was removed from the ITAR Debarred (DTC) - State Department list [FR Doc. 90 FR 40458ÿ, CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
