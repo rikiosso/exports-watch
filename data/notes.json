@@ -1,5 +1,127 @@
 [
  {
+  "action_date": "2026-09-02",
+  "archived_on": "2026-09-02",
+  "id": "note-fe86818e5e7c39e9",
+  "headline": "State Department removes one individual from ITAR Debarred List (DTC)",
+  "what_changed": "One entry, listed as 'Elena' with multiple aliases (Elena Leonidovna Shifrin Lena, Gohkman Alexander, Ivanov Elena, Belov Shifrin), was removed from the ITAR Debarred (DTC) - State Department list [FR Doc. 90 FR 40458ÿ, CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "who_is_affected": "The named individual and associated aliases previously subject to ITAR debarment [FR Doc. 90 FR 40458ÿ, CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "instruments": [
+   "ITAR Debarred List (DTC) - State Department"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states only that the entry was removed from the ITAR Debarred List; it does not describe any resulting licensing determination, presumption, or case-by-case posture [FR Doc. 90 FR 40458ÿ, CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Update internal denied-party screening records to reflect removal of this entry per FR Doc. 90 FR 40458ÿ.",
+   "Verify aliases against current screening databases to confirm no residual match remains active."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[FR Doc. 90 FR 40458ÿ]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-52fa0cebb8027416"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-02",
+  "archived_on": "2026-09-02",
+  "id": "note-d678f77b03dbee28",
+  "headline": "State Dept adds individual to ITAR Debarred List under 90 FR 40458",
+  "what_changed": "One individual, listed under multiple aliases including Elena Leonidovna Shifrin, Lena, Gohkman Alexander, Ivanov Elena, and Belov Shifrin, was added to the ITAR Debarred (DTC) list maintained by the State Department [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "who_is_affected": "The named individual under the listed aliases; no entity_id or program designation is provided in the source [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "instruments": [
+   "ITAR Debarred (DTC) List - State Department"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated ITAR Debarred List entry and its listed aliases.",
+   "Verify no transactions involve the named individual under any alias before proceeding with ITAR-controlled activity."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "[CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-32d5b8d2cfae5658"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-02",
+  "archived_on": "2026-09-02",
+  "id": "note-157a21e7901d2988",
+  "headline": "State Dept ITAR Debarred List: One Alias Entry Replaced With Formal Name (90 FR 40458)",
+  "what_changed": "The ITAR Debarred (DTC) list entry for \"Kreig, also known as Cow Craig, also known as Hall Jermaine, also known as Hall Jermaine Craig, also known as Rhooms Jermain, also known as Rhoomas Jermaine Craig, also known as Rhoomas Rhoomes\" was removed and a new entry, \"Jermaine Craig Rhoomes,\" was added to the same list in the same batch [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "who_is_affected": "Persons and entities that transact in defense articles or defense services under ITAR jurisdiction with the individual identified under either the prior alias listing or the newly listed name are affected [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "instruments": [
+   "ITAR Debarred List (DTC) - U.S. Department of State"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source provides only an addition/removal delta on the ITAR Debarred List and does not state a licence posture, presumption, or exception [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Update internal restricted-party screening databases to reflect removal of the alias-based entry and addition of the name \"Jermaine Craig Rhoomes\" under the ITAR Debarred List.",
+   "Verify whether any existing counterparties matched under the removed alias string require re-screening against the new entry."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b]",
+    "url": null
+   },
+   {
+    "pinpoint": "[FR Doc. 90 FR 40458]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-04184786e15e35fa"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-28",
   "archived_on": "2026-08-28",
   "id": "note-813423bcccd351ff",
