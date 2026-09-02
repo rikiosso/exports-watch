@@ -1,5 +1,176 @@
 [
  {
+  "action_date": "2026-08-28",
+  "archived_on": "2026-08-28",
+  "id": "note-813423bcccd351ff",
+  "headline": "OFAC SDN list update: 2 entries added, 506 entries' identifiers modified",
+  "what_changed": "Two persons were added to the Specially Designated Nationals list: Kameng Trading Limited under program IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485], and Reza Mohammad Taeedi under programs SDGT, IFSR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Additionally, 506 existing SDN entries had their 'ids' field modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "who_is_affected": "Persons or entities that may deal with Kameng Trading Limited or Reza Mohammad Taeedi are now subject to SDN-list restrictions [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Parties conducting screening against the 506 modified SDN entries must update identifier records for those entries, including examples such as Shark International Shipping L.L.C., Tekhnologiya OOO, Shenzhen City Mean Well Electronics Co., Ltd., Peng Minbo, and Wang Dongliang [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List, U.S. Department of the Treasury, Office of Foreign Assets Control"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated SDN list to identify the two newly added entries (Kameng Trading Limited; Reza Mohammad Taeedi).",
+   "Update internal compliance databases to reflect identifier changes for the 506 modified SDN entries.",
+   "Verify no existing business relationships involve the newly listed parties under IRAN-EO13902, SDGT, or IFSR programs."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58485]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-a0d0881d353e7ede"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-28",
+  "archived_on": "2026-08-27",
+  "id": "note-337d425ca8f60f58",
+  "headline": "Public inspection listing: drone export control streamlining rule (no text available)",
+  "what_changed": "not stated in source",
+  "who_is_affected": "not stated in source",
+  "instruments": [
+   "Rule (public inspection listing)"
+  ],
+  "effective_dates": [],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Monitor Federal Register for publication of the full rule text under FR Doc. C1-2026-16628 [FR Doc. C1-2026-16628, html_url].",
+   "Review the rule once published for any drone-related export control changes affecting non-US persons or foreign-produced items [FR Doc. C1-2026-16628, html_url]."
+  ],
+  "confidence": "low",
+  "citations": [
+   {
+    "pinpoint": "[FR Doc. C1-2026-16628, title]",
+    "url": "https://www.federalregister.gov/public-inspection/C1-2026-16628/streamlining-export-controls-for-drone-exports"
+   },
+   {
+    "pinpoint": "[FR Doc. C1-2026-16628, stage: public_inspection]",
+    "url": "https://www.federalregister.gov/public-inspection/C1-2026-16628/streamlining-export-controls-for-drone-exports"
+   }
+  ],
+  "event_refs": [
+   "evt-6d10e51408832ad2"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-26",
+  "archived_on": "2026-08-26",
+  "id": "note-9315c07f690d2a83",
+  "headline": "OFAC SDN list update: 5 SDGT designations added, 345 entries' identifiers modified",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list received 5 new additions under the SDGT program and 345 modifications limited to the 'ids' field [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc]. New entries: PALESTINE ACTION [CSL:Specially Designated Nationals (SDN) - Treasury Department:58105]; ABDULNASSER, Zaid [CSL:Specially Designated Nationals (SDN) - Treasury Department:58464]; MASAR BADIL [CSL:Specially Designated Nationals (SDN) - Treasury Department:58462]; AUTISTICI INVENTATI [CSL:Specially Designated Nationals (SDN) - Treasury Department:58314]; ALSAGHEER, Rawa [CSL:Specially Designated Nationals (SDN) - Treasury Department:58463].",
+  "who_is_affected": "The five newly designated persons/entities under the SDGT program [CSL:Specially Designated Nationals (SDN) - Treasury Department:58105, 58464, 58462, 58314, 58463], and 345 previously listed entries whose identifier data was modified, including SHENZHEN CITY MEAN WELL ELECTRONICS CO., LTD., PENG, Minbo, WANG, Dongliang, MAKAROV, Sergei Vyacheslavovich, and FORNACIS ENERGY TRADING CO. L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc].",
+  "instruments": [
+   "Specially Designated Nationals and Blocked Persons List (SDN List), Program: SDGT"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the five newly added SDGT designations (entity_ids 58105, 58464, 58462, 58314, 58463).",
+   "Re-verify identifier data (e.g., ID numbers) for existing SDN entries affected by the 345 modifications, particularly for previously screened counterparties such as SHENZHEN CITY MEAN WELL ELECTRONICS CO., LTD. and FORNACIS ENERGY TRADING CO. L.L.C.",
+   "Confirm no Federal Register citation exists yet for these additions before relying on published legal text."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58105]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58464]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58462]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58314]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58463]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-f1b3f1bc6a364935"
+  ],
+  "status": "published",
+  "entries_affected": [
+   "PALESTINE ACTION (58105)",
+   "ABDULNASSER, Zaid (58464)",
+   "MASAR BADIL (58462)",
+   "AUTISTICI INVENTATI (58314)",
+   "ALSAGHEER, Rawa (58463)",
+   "345 modified entries (identifier field 'ids' only; full list not provided in source)"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not applicable - US Treasury OFAC list, not an EU national list"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-08-25",
   "archived_on": "2026-08-25",
   "id": "note-9375549d69d3ea55",
