@@ -1,5 +1,67 @@
 [
  {
+  "action_date": "2026-09-08",
+  "archived_on": "2026-09-08",
+  "id": "note-bd5a74613a54ce82",
+  "headline": "OFAC SDN List Update: 36 Entities Added, 1,458 Existing Entries Modified (ID Field Only)",
+  "what_changed": "A batch delta to the Specially Designated Nationals (SDN) List added 36 new entries and modified the 'ids' field on 1,458 existing entries, with no other fields altered in the modified set [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]. The added entries are primarily Iran-linked airlines and aviation-support companies designated under IFSR and IRAN-EO13902, plus several entities designated under SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:58523].",
+  "who_is_affected": "Named additions include ZAGROS AIRLINES (entity_id 58523) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58523], ATA AIRLINES COMPANY (entity_id 58494) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58494], MEHR AIRWAYS (entity_id 58534) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58534], ICARGO SDN BHD (entity_id 58496) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58496], ECT AVIATION SUPPORT LLC (entity_id 58505) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58505], and 31 further airline, aviation-support, and logistics entities [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]. The 1,458 modified entries span pre-existing SDN List designees across multiple programs, including entities such as OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, PARSIAN CATALYST CHEMICAL COMPANY, WANG Jiantong, CJSC VANKORNEFT, and SHARK INTERNATIONAL SHIPPING L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94].",
+  "instruments": [
+   "Iranian Financial Sanctions Regulations (IFSR)",
+   "IRAN-EO13902 program designation",
+   "SDGT (Specially Designated Global Terrorist) program designation"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "The source does not cite a foreign direct product rule, de minimis threshold, or transshipment provision applicable to this batch; relevance to EU exporters is indirect only. EU persons dealing with the newly designated Iran-linked airlines or aviation-support entities, or with the 1,458 modified SDN entries, would face exposure only insofar as general U.S. sanctions nexus (e.g., U.S. dollar transactions, U.S. persons, or U.S.-origin goods) applies, none of which is specified in this source.",
+  "action_items": [
+   "Screen customer, supplier, and counterparty databases against the newly added entity IDs (e.g., 58523, 58494, 58534, 58496, 58505, and the remaining 31 truncated additions).",
+   "Refresh internal restricted-party screening tools to capture the updated 'ids' field on the 1,458 modified SDN entries.",
+   "Review any existing dealings involving Iranian aviation, cargo, or logistics counterparties named in the added entries.",
+   "Confirm with legal/compliance whether any EU nexus (payment, insurance, or goods) touches the newly listed entities, given the absence of stated licence or FDPR mechanisms in this source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58523]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58494]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58534]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58496]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58505]",
+    "url": null
+   }
+  ],
+  "event_refs": [
+   "evt-c92735dd6e991760"
+  ],
+  "status": "published",
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-09-02",
   "archived_on": "2026-09-02",
   "id": "note-14894e531b87eb03",
