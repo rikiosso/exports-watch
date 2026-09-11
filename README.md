@@ -81,7 +81,9 @@ Fields the pipeline fills reliably are marked ●; the rest are frequently
    import-adjustment notices, and public-inspection listings are out of scope and do
    not appear on the site, the feed or in `notes.json`.
 2. **Event de-duplication.** A cosmetic re-formatting of an existing list entry no
-   longer produces a new note.
+   longer produces a new note. The three notes of 2 September 2026 that described one
+   such reformat of two ITAR Debarred entries were removed from the site; the genuine
+   addition of that day remains.
 3. **Citation urls or hold.** Every citation on a note published since this date
    resolves to a canonical url (Federal Register documents, CSL/OFAC entity pages,
    EUR-Lex CELEX resources) or the note is held rather than published bare.
@@ -91,7 +93,8 @@ Fields the pipeline fills reliably are marked ●; the rest are frequently
    last ran, whether or not that run produced a new note, so a quiet period on the
    page can be told apart from a stopped pipeline.
 6. **Medium-or-high policy.** Only notes the pipeline rates medium or high confidence
-   publish; low-confidence drafts are held.
+   publish; low-confidence drafts are held, and low-confidence notes published before
+   this date are no longer shown.
 7. **This README** replaces an earlier version whose "known problems" list is now
    fixed; see "Still open" below for what is not.
 
