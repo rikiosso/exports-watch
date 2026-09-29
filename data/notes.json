@@ -3,6 +3,68 @@
   "action_date": "2026-09-29",
   "archived_on": "2026-09-29",
   "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-096f2fcdafcb62a1",
+  "headline": "Treasury SDN list: 53 additions under ILLICIT-DRUGS-EO14059/SDGT and IFSR/NPWMD program tags",
+  "what_changed": "The Treasury SDN list batch records 53 added entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90]. The digest shows 25 of the 53 additions, and the remaining 28 are truncated from the source material [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90]. Eighteen of the 25 visible entries carry the program tags ILLICIT-DRUGS-EO14059 and SDGT, for example VERA AYALA, Jorge Mario [CSL:Specially Designated Nationals (SDN) - Treasury Department:58703]. Seven of the 25 visible entries carry the program tags IFSR and NPWMD, for example KAVOSHCOM ASIA R AND D GROUP [CSL:Specially Designated Nationals (SDN) - Treasury Department:58279]. The batch also records updates to 2870 existing entries, described as identifier or field edits with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90].",
+  "who_is_affected": "The 53 newly listed persons and entities are affected, but only 25 are identifiable from the digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90]. Visible entries tagged ILLICIT-DRUGS-EO14059 and SDGT include MIA CENTRO CAMBIARIO, S.A. DE C.V. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58624]. Visible entries tagged IFSR and NPWMD include CAVALIER DYNAMICS PRIVATE LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58598]. Visible entries tagged IFSR and NPWMD also include CAVALIER DYNAMICS TEKNOLOJI TICARET ANONIM SIRKETI [CSL:Specially Designated Nationals (SDN) - Treasury Department:58600]. Visible entries tagged IFSR and NPWMD also include EC MOJO TECHNOLOGY CO LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58280].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list - Treasury Department (Consolidated Screening List batch snap-a26b9479a4f83f90)",
+   "Program tags shown in source: ILLICIT-DRUGS-EO14059, SDGT, IFSR, NPWMD"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing policy, licence exception or general licence for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90]. The Federal Register reference field is blank for the visible entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:58703].",
+  "relevance_eu_exporters": "Indirect only; the source presents no foreign direct product rule, de minimis, transshipment or other extraterritorial mechanism connecting these additions to EU exporters.",
+  "action_items": [
+   "Screen counterparties against the added entity_ids visible in the digest, including 58279, 58280, 58598, 58600 and 58624.",
+   "Obtain the full set of 53 added entries, since 28 are truncated from the digest.",
+   "Obtain the underlying Treasury notice, since no Federal Register document number or effective date is stated in the source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a26b9479a4f83f90]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58703]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58703"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58279]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58279"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58624]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58624"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58598]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58598"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58600]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58600"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58280]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58280"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-29",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
   "change_type": "Rule change",
   "id": "note-e666581b4a2b7bf6",
   "headline": "BIS renews for one year the temporary denial order against URAL Airlines JSC (Russia)",
