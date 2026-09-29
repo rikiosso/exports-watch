@@ -9,9 +9,11 @@ Site: https://rikiosso.github.io/exports-watch/ · Feed: [`rss.xml`](rss.xml)
 ## What is covered
 
 In scope: BIS rules under the EAR and the BIS lists (Entity List, Denied Persons,
-Unverified, Military End User), ITAR debarments, State Department nonproliferation
-designations, and Annex I of Regulation (EU) 2021/821 including corrigenda. Not
-covered: OFAC sanctions programmes, tariff and import actions.
+Unverified, Military End User), ITAR debarments, OFAC sanctions list additions and
+removals, State Department nonproliferation designations and measures, and Annex I of
+Regulation (EU) 2021/821 including corrigenda and delegated acts once adopted by the
+Commission. Not covered: other OFAC actions (sanctions programmes, general licences, and
+list changes that only update identifiers), tariff and import actions.
 
 Editorial policy: the pipeline publishes only notes it rates medium or high
 confidence. Every citation on a note published since 11 September 2026 links to its
@@ -82,6 +84,18 @@ Fields the pipeline fills reliably are marked ●; the rest are frequently
   entries_affected[], parameter_deltas[], national_lists_touched[]
   reclassification_impact, licence_impact, materiality, series_500_flag, event_refs[]
 ```
+
+## Changes on 29 September 2026
+
+1. **OFAC list changes are in scope.** Additions to and removals from OFAC's sanctions
+   lists (the SDN list and the other Treasury lists) now appear, dated by the day the
+   change was detected. This supersedes item 1 of the 11 September changes below for
+   those list updates; other OFAC actions (sanctions programmes, general licences),
+   tariff and import actions stay out.
+2. **Identifier-only list updates are not news.** A list update that only modifies
+   entries already on the list (in practice, mostly identifier fields) produces no note.
+   When a batch also adds or removes entries, the note is about those, and the number of
+   modified entries is at most one clause.
 
 ## Changes on 11 September 2026
 

@@ -1,5 +1,326 @@
 [
  {
+  "action_date": "2026-09-29",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-e666581b4a2b7bf6",
+  "headline": "BIS renews for one year the temporary denial order against URAL Airlines JSC (Russia)",
+  "what_changed": "BIS granted OEE's request to renew the temporary denial order (TDO) issued in this matter on September 30, 2025 against URAL Airlines JSC [FR Doc. 2026-19927, preamble]. OEE submitted the written renewal request on August 13, 2026 [FR Doc. 2026-19927, Section I]. The renewal runs for one year [FR Doc. 2026-19927, Section IV]. Section II.A states that in cases demonstrating a pattern of repeated, ongoing and/or continuous apparent violations, BIS may request renewal for an additional period not exceeding one year [FR Doc. 2026-19927, Section II.A]. Footnote 3 in Section I states that, at the time of the earlier renewal, Section 766.24(d) provided for additional 180-day renewal periods [FR Doc. 2026-19927, Section I, n.3]. The Assistant Secretary found that Ural violated the Regulations and the TDO, that the violations were significant and deliberate, and that there is a likelihood of imminent violations [FR Doc. 2026-19927, Section III]. The extended period rests on a finding that Ural engaged in a pattern of repeated, ongoing and/or continuous apparent violations of the EAR [FR Doc. 2026-19927, Section III]. BIS's evidence lists flights dated June 25, 2026 to August 26, 2026 by three aircraft (serial numbers 05055, 02343 and 07206; types A320-232 and A321-231) into and out of Russia from/to Sukhumi, Dushanbe, Khujand and Kulob, and domestically within Russia [FR Doc. 2026-19927, Section II.B, table]. The table includes flight dates of August 17, 2026 and August 26, 2026, which are later than the August 13, 2026 request date, and the source does not explain this [FR Doc. 2026-19927, Section II.B, table]. The order is dated September 24, 2026 and is effective immediately [FR Doc. 2026-19927, Section IV].",
+  "who_is_affected": "The respondent is URAL Airlines JSC, Utrenniy Lane 1-g, Yekaterinburg, Russia 620025 [FR Doc. 2026-19927, Section IV, First]. The first paragraph of the order also covers Ural's successors, assigns, agents and employees when acting for or on its behalf [FR Doc. 2026-19927, Section IV, First]. Under the second paragraph, no person may, directly or indirectly, export, reexport or transfer (in-country) to or on behalf of Ural any item subject to the EAR, except as directly related to safety of flight and authorized by BIS [FR Doc. 2026-19927, Section IV, Second A]. Any other person related to Ural by ownership, control, position of responsibility, affiliation or other connection in the conduct of trade or business may be made subject to the order after notice and opportunity for comment under section 766.23 [FR Doc. 2026-19927, Section IV, Third].",
+  "instruments": [
+   "Order Renewing Temporary Denial of Export Privileges (15 CFR 766.24)",
+   "91 FR 61384, FR Doc. 2026-19927 (Notice, published September 29, 2026)",
+   "Export Control Reform Act of 2018, 50 U.S.C. 4820(a)(5) (cited as authority for TDOs)"
+  ],
+  "effective_dates": [
+   "Order dated September 24, 2026: 'This Order is effective immediately and shall remain in effect for one year' [FR Doc. 2026-19927, Section IV]",
+   "Published in the Federal Register September 29, 2026 [FR Doc. 2026-19927, header]"
+  ],
+  "licence_posture": "The order bars Ural from applying for, obtaining or using any license (except directly related to safety of flight), license exception, or export control document [FR Doc. 2026-19927, Section IV, First A]. The other prohibitions in the order carry an exception for activity directly related to safety of flight and authorized by BIS pursuant to Section 764.3(a)(2) of the Regulations [FR Doc. 2026-19927, Section IV, First B-C; Second A-E]. The source states that BIS will review export or reexport license applications for aircraft and parts specified in ECCN 9A991 destined to Russia under a policy of denial [FR Doc. 2026-19927, Section II.B]. The source states that aircraft registered in, owned or controlled by, or under charter or lease by Russia or a national of Russia are excluded from license exception AVS [FR Doc. 2026-19927, Section II.B]. The source states that a U.S.-origin aircraft, or a foreign aircraft that includes more than 25% controlled U.S.-origin content, that is registered in, owned or controlled by, or under charter or lease by Russia or a national of Russia is subject to a license requirement before it can travel to Russia [FR Doc. 2026-19927, Section II.B].",
+  "relevance_eu_exporters": "The second paragraph of the order applies to 'any person' and covers export, reexport and transfer (in-country) of items subject to the EAR to or on behalf of Ural [FR Doc. 2026-19927, Section IV, Second A]. It also covers servicing of items of whatever origin owned, possessed or controlled by Ural if the service involves the use of an item subject to the EAR that has been or will be exported from the United States [FR Doc. 2026-19927, Section IV, Second E]. The source states that a foreign aircraft including more than 25% controlled U.S.-origin content, and registered in, owned or controlled by, or under charter or lease by Russia or a national of Russia, is subject to a license requirement before it can travel to Russia [FR Doc. 2026-19927, Section II.B]. The source states that the renewal is intended to give notice to companies and individuals in the United States and abroad that they should avoid dealing with Ural in connection with export and reexport transactions involving items subject to the Regulations [FR Doc. 2026-19927, Section III]. The source does not reference a foreign direct product rule in the order text [FR Doc. 2026-19927, Section IV].",
+  "action_items": [
+   "Check counterparties and transaction chains for URAL Airlines JSC before any export, reexport or transfer (in-country) of items subject to the EAR [FR Doc. 2026-19927, Section IV, Second A].",
+   "Note that the safety-of-flight exception requires BIS authorization pursuant to Section 764.3(a)(2) [FR Doc. 2026-19927, Section IV, Second].",
+   "Note that servicing of Ural-held items is covered where the service involves the use of an item subject to the EAR exported or to be exported from the United States [FR Doc. 2026-19927, Section IV, Second E].",
+   "Note that Ural may appeal the order to the Office of the Administrative Law Judge, and that a renewal request may be opposed by written submission received not later than seven days before the expiration date [FR Doc. 2026-19927, Section IV]."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-19927, preamble; Section I (Procedural History), incl. n.3",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19927, Section II.A-B (Legal Standard; TDO and Request for Renewal; flight table)",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19927, Section III (Findings)",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19927, Section IV (Order: First, Second, Third; duration)",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-23",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b979ff1535e69201",
+  "headline": "OFAC SDN list: two DRCONGO-program entries removed (OLENGA, Francois; SAFARI CLUB)",
+  "what_changed": "Two entries were removed from the Specially Designated Nationals (SDN) list in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4b0d6a85b74373f7]. The entry OLENGA, Francois (entity_id 21263; program DRCONGO) was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:21263]. The entry SAFARI CLUB (entity_id 21264; program DRCONGO) was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:21264]. No additions are recorded in the batch, and 1300 existing entries received identifier or field edits without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4b0d6a85b74373f7].",
+  "who_is_affected": "The party named in the first removed entry is OLENGA, Francois, listed under the DRCONGO program [CSL:Specially Designated Nationals (SDN) - Treasury Department:21263]. The party named in the second removed entry is SAFARI CLUB, listed under the DRCONGO program [CSL:Specially Designated Nationals (SDN) - Treasury Department:21264]. The source does not state the nationality, address or other identifying details of either party [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4b0d6a85b74373f7].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department (program: DRCONGO)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state a licence posture, licence requirement or licence exception for the removed entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4b0d6a85b74373f7]. The source cites no Federal Register document for either removal (FR: -) [CSL:Specially Designated Nationals (SDN) - Treasury Department:21263].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Confirm both removals against the official OFAC SDN list before changing any screening records.",
+   "Check internal screening and counterparty records for entity_id 21263 (OLENGA, Francois) and entity_id 21264 (SAFARI CLUB).",
+   "Obtain the underlying Treasury/OFAC delisting notice, since the source states no Federal Register document and no effective date."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4b0d6a85b74373f7]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:21263]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=21263"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:21264]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=21264"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-18",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-5cc92fd1e7b177ed",
+  "headline": "OFAC SDN list: six ETHIOPIA-EO14046 entries removed in latest delta",
+  "what_changed": "The batch records six removals from the SDN list, all tagged with program ETHIOPIA-EO14046 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9ad9bee092f726c4]. HIDRI TRUST was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33919]. RED SEA TRADING CORPORATION was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33918]. W KIDAN, Hagos Ghebrehiwet was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33534]. NEMARIAM, Abraha Kassa was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33535]. PEOPLE'S FRONT FOR DEMOCRACY AND JUSTICE was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33451]. ERITREAN DEFENSE FORCES was removed [CSL:Specially Designated Nationals (SDN) - Treasury Department:33597]. The batch also contains no additions, and 2,433 existing entries were updated through identifier or field edits without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9ad9bee092f726c4].",
+  "who_is_affected": "The six removed parties are HIDRI TRUST, RED SEA TRADING CORPORATION, W KIDAN Hagos Ghebrehiwet, NEMARIAM Abraha Kassa, PEOPLE'S FRONT FOR DEMOCRACY AND JUSTICE and ERITREAN DEFENSE FORCES [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9ad9bee092f726c4].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department (CSL snapshot snap-9ad9bee092f726c4)",
+   "Program tag: ETHIOPIA-EO14046",
+   "Federal Register citation: not stated in source (FR field shown as '-' for all six entries)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licence requirement, general licence, licence exception or reason for removal in connection with these six removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9ad9bee092f726c4].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Update restricted-party screening data to reflect removal of entity_ids 33919, 33918, 33534, 33535, 33451 and 33597 from the SDN list.",
+   "Check the removals against the underlying OFAC publication, because the source gives no Federal Register reference or stated basis for them.",
+   "Review any internal holds or screening alerts that were based solely on these six SDN entries."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9ad9bee092f726c4]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33919]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33919"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33918]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33918"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33534]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33534"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33535]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33535"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33451]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33451"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:33597]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=33597"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-17",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-0165ffe2de312682",
+  "headline": "OFAC SDN list: 16 additions (11 CUBA-EO14404, 5 IRAN) and 2 Belarus-program removals",
+  "what_changed": "The SDN list batch records 16 additions and 2 removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de]. Three entries listed by personal name were added under CUBA-EO14404: HURTADO BETANCOURT, Julio; PEDRERA ARGUELLO, Dioglis; and CANCIO MONTEAGUDO, Joaquin Francisco [CSL:Specially Designated Nationals (SDN) - Treasury Department:58652] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58650] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58648]. Eight entries listed by organisation name were added under CUBA-EO14404: PINARES S.A.; CENTRO DE INVESTIGACION Y DESARROLLO DE ARMAMENTO DE INFANTERIA; CENTRO DE INVESTIGACIONES DEL NIQUEL CAPITAN ALBERTO FERNANDEZ MONTES DE OCA; CENTRO DE INVESTIGACION, DESARROLLO Y PRODUCCION GRITO DE BAIRE; CENTRO DE INVESTIGACION Y DESARROLLO DE SIMULADORES; CENTRO DE INVESTIGACION Y DESARROLLO NAVAL; EMPRESA DE SERVICIOS TECNICOS DE COMPUTACION COMUNICACIONES Y ELECTRONICA; and EMPRESA DE INGENIERIA Y PROYECTOS DEL NIQUEL [CSL:Specially Designated Nationals (SDN) - Treasury Department:58617] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58651] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58616] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58653] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58647] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58649] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58614] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58615]. Three entries listed by personal name were added under IRAN and IRAN-EO13902: ZAKER HOSSEIN, Mohammad Mahdi; ZAKER HOSSEIN, Hossein Ali; and HEIDARI, Seyed Adel [CSL:Specially Designated Nationals (SDN) - Treasury Department:58630] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58620] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58631]. Two entries listed by organisation name were added under IRAN and IRAN-EO13902: BITBANK and PISHTAZ SIMORGH ELECTRONIC TRADE COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58619] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58618]. Two entries were removed: LAKOKRASKA OAO (program BELARUS) and BELARUSIAN PRODUCTION AND TRADE CONCERN OF TIMBER WOODWORKING AND PULP AND PAPER INDUSTRY (program BELARUS-EO14038) [CSL:Specially Designated Nationals (SDN) - Treasury Department:10756] [CSL:Specially Designated Nationals (SDN) - Treasury Department:46477]. Separately, 1911 existing entries received identifier or field edits without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de].",
+  "who_is_affected": "The parties added are 11 entries under CUBA-EO14404 and 5 entries under IRAN/IRAN-EO13902, as itemised in the batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de]. The parties removed are two entries formerly listed under BELARUS and BELARUS-EO14038 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de]. The source gives no Federal Register reference for any entry in the batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de].",
+  "instruments": [
+   "CUBA-EO14404",
+   "IRAN",
+   "IRAN-EO13902",
+   "BELARUS",
+   "BELARUS-EO14038"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source: the batch records list additions and removals only and contains no licensing policy, exception or presumption [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Compare the 16 added and 2 removed entity_ids against customer, supplier and counterparty screening data.",
+   "Obtain the underlying Treasury notice, which the source does not reference, to confirm program terms and effective dates."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-32ee68bba03fe1de]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58652]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58652"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58617]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58617"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58630]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58630"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58619]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58619"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:10756]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=10756"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:46477]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=46477"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-17",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-10a2822bc297ba6c",
+  "headline": "BIS renews Azur Air temporary denial order for one year (Russia aviation, ECCN 9A991)",
+  "what_changed": "BIS granted the Office of Export Enforcement's request to renew the temporary denial order issued on September 16, 2025 against Azur Air [FR Doc. 2026-19021, Preamble]. The renewal runs for one year [FR Doc. 2026-19021, Section IV]. OEE submitted its written renewal request on August 3, 2026 [FR Doc. 2026-19021, Section I]. The order states that, given the temporary suspension of international mail service to Russia, OEE attempted to deliver the request to Azur by alternative means, and that no opposition to the renewal was received [FR Doc. 2026-19021, Section I]. The order records the TDO history as an initial 180-day order signed April 7, 2022, renewed on October 3, 2022, March 29, 2023, September 23, 2023, September 20, 2024 and September 16, 2025 [FR Doc. 2026-19021, Section I]. The order states that this renewal reflects a corrected address for Azur, which was introduced by a modification of the September 20, 2024 renewal order dated January 31, 2025 in the text (footnote 5 refers to a January 30, 2025 modification order) [FR Doc. 2026-19021, Section I]. The Assistant Secretary found that BIS's evidence convincingly demonstrates that Azur violated the Regulations and the TDO, that the violations were significant and deliberate, and that there is a likelihood of imminent violations [FR Doc. 2026-19021, Section III]. The order bases the one-year period on a finding that Azur engaged in a pattern of repeated, ongoing and/or continuous apparent violations of the EAR [FR Doc. 2026-19021, Section III]. The order's table lists flights dated March 9, 2026 to July 17, 2026 by Boeing 757 aircraft (tail numbers RA-73071, RA-73029, RA-73076 and RA-73072) between Russia and Turkey, Vietnam or Thailand, and within Russia [FR Doc. 2026-19021, Section II.B]. The order is dated September 11, 2026 and is effective immediately [FR Doc. 2026-19021, Section IV].",
+  "who_is_affected": "The named respondent is Azur Air, Office 29, Vzletnaya St. 57, Krasnoyarsk, Russia 660020 [FR Doc. 2026-19021, Section IV]. Under the order's first paragraph, Azur, when acting for or on its behalf, and any successors or assigns, agents or employees may not directly or indirectly participate in any transaction involving items subject to the EAR that are exported or to be exported from the United States, or in any other activity subject to the EAR [FR Doc. 2026-19021, Section IV, First]. Under the second paragraph, no person may export, reexport or transfer (in-country) any item subject to the EAR to or on behalf of Azur, except as directly related to safety of flight and authorized by BIS under Section 764.3(a)(2) [FR Doc. 2026-19021, Section IV, Second.A]. The same paragraph also restricts any person from facilitating Azur's acquisition of, acquiring from Azur, or servicing items subject to the EAR that have been or will be exported from the United States, subject to the same safety-of-flight exception [FR Doc. 2026-19021, Section IV, Second.B-E]. Any other person related to Azur by ownership, control, position of responsibility, affiliation or other connection in the conduct of trade or business may be made subject to the order after notice and opportunity for comment under Section 766.23 [FR Doc. 2026-19021, Section IV, Third]. The tail numbers and serial numbers listed in the table are RA-73071 (SN 29377), RA-73029 (SN 26330), RA-73076 (SN 30043) and RA-73072 (SN 29382) [FR Doc. 2026-19021, Section II.B].",
+  "instruments": [
+   "Order Renewing Temporary Denial of Export Privileges (15 CFR 766.24)",
+   "Export Administration Regulations, 15 CFR parts 730-774",
+   "Export Control Reform Act of 2018, 50 U.S.C. 4820(a)(5)",
+   "15 CFR 746.8 (Russia aircraft and aircraft parts, ECCN 9A991)",
+   "15 CFR 740.15 (license exception AVS)",
+   "15 CFR 764.3(a)(2) (safety-of-flight authorization)"
+  ],
+  "effective_dates": [
+   "Order dated September 11, 2026; \"This Order is effective immediately and shall remain in effect for one year.\" (published September 17, 2026)"
+  ],
+  "licence_posture": "The order bars Azur from applying for, obtaining or using any license (except directly related to safety of flight), license exception or export control document [FR Doc. 2026-19021, Section IV, First.A]. Other dealings in items subject to the EAR are barred except where directly related to safety of flight and authorized by BIS pursuant to Section 764.3(a)(2) [FR Doc. 2026-19021, Section IV, First.B-C and Second.A-E]. As background, the order states that BIS reviews export or reexport license applications for ECCN 9A991 aircraft and aircraft parts destined for Russia under a policy of denial [FR Doc. 2026-19021, Section II.B]. The order also states that aircraft registered in, owned or controlled by, or under charter or lease by Russia or a national of Russia have been excluded from license exception AVS since March 2, 2022 [FR Doc. 2026-19021, Section II.B]. The order further states that a U.S.-origin aircraft, or a foreign aircraft with more than 25% controlled U.S.-origin content, that is registered in, owned or controlled by, or under charter or lease by Russia or a national of Russia requires a license before travelling to Russia [FR Doc. 2026-19021, Section II.B].",
+  "relevance_eu_exporters": "The second paragraph of the order applies to \"no person\" with respect to items subject to the EAR that have been or will be exported from the United States, and the order states that it gives notice to companies and individuals in the United States and abroad to avoid dealing with Azur [FR Doc. 2026-19021, Sections III and IV]. The only content-based mechanism cited is the 25% controlled U.S.-origin content threshold for foreign aircraft travelling to Russia, and no foreign direct product rule or de minimis provision is invoked in relation to the order itself [FR Doc. 2026-19021, Section II.B]. Otherwise: indirect only.",
+  "action_items": [
+   "Screen counterparties, and their owners, affiliates and agents, against Azur Air and its listed address before any transaction involving items subject to the EAR [FR Doc. 2026-19021, Section IV].",
+   "Treat any service, financing, acquisition or export involving Azur and items subject to the EAR as within the scope of the order, unless directly related to safety of flight and authorized by BIS under Section 764.3(a)(2) [FR Doc. 2026-19021, Section IV, Second.A-E].",
+   "Note that BIS may seek further renewal by written request not later than 20 days before expiration, and that Azur may oppose by a submission received not later than seven days before expiration [FR Doc. 2026-19021, Section IV]."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-19021, Preamble; Sections I-IV",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19021/azur-air-office-29-vzletnaya-st-57-krasnoyarsk-russia-660020-order-renewing-temporary-denial-of"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19021, Section II.B (table and footnotes 7-15)",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19021/azur-air-office-29-vzletnaya-st-57-krasnoyarsk-russia-660020-order-renewing-temporary-denial-of"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-17",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-553902b132cb1639",
+  "headline": "BIS renews one-year Temporary Denial Order against PJSC Aeroflot for continued EAR violations",
+  "what_changed": "BIS renewed, for a period of one year, the Temporary Denial Order (TDO) originally issued against PJSC Aeroflot on April 7, 2022, based on evidence that Aeroflot continued to operate aircraft subject to the EAR and classified under ECCN 9A991.b on flights into, out of, and within Russia through July 2026, in violation of the September 19, 2025 renewal order and/or the Regulations [FR Doc. 2026-19020, Section II.B]. The Assistant Secretary found the violations 'significant and deliberate' and part of 'a pattern of repeated, ongoing and/or continuous apparent violations,' justifying renewal for an extended one-year period [FR Doc. 2026-19020, Section III].",
+  "who_is_affected": "PJSC Aeroflot, 1 Arbat St., Moscow, Russia, its successors, assigns, agents, and employees [FR Doc. 2026-19020, Section IV, Order First]; and any person, U.S. or foreign, who directly or indirectly exports, reexports, transfers, services, facilitates, or benefits from any transaction involving items subject to the EAR on behalf of or involving Aeroflot [FR Doc. 2026-19020, Section IV, Order Second].",
+  "instruments": [
+   "Temporary Denial Order under 15 CFR 766.24 of the Export Administration Regulations (EAR)",
+   "License requirement for ECCN 9A991 aircraft/parts to Russia under Section 746.8(a)(1) of the EAR",
+   "Exclusion from License Exception Aircraft, Vessels, and Spacecraft (AVS) under Section 740.15 of the EAR",
+   "Section 764.3(a)(2) safety-of-flight authorization carve-out"
+  ],
+  "effective_dates": [
+   "This Order is effective immediately and shall remain in effect for one year. [FR Doc. 2026-19020, Section IV]",
+   "Dated: September 11, 2026 [FR Doc. 2026-19020, signature block]",
+   "Background control effective dates cited in the order: February 24, 2022 (aviation-related controls on Russia) and March 2, 2022 (AVS exclusion) [FR Doc. 2026-19020, Section II.B]"
+  ],
+  "licence_posture": "BIS reviews license applications for export or reexport of ECCN 9A991 aircraft/parts to Russia under a policy of denial [FR Doc. 2026-19020, Section II.B, citing Section 746.8(b)]. Under the renewed TDO, Aeroflot is barred from applying for, obtaining, or using any license, license exception, or export control document, except matters directly related to safety of flight and authorized by BIS pursuant to Section 764.3(a)(2) [FR Doc. 2026-19020, Section IV, Order First(A) and Second].",
+  "relevance_eu_exporters": "The order prohibits any person, directly or indirectly, from exporting, reexporting, or transferring (in-country) to or on behalf of Aeroflot any item subject to the EAR, or from facilitating, servicing, or benefitting from such transactions, except safety-of-flight items authorized under Section 764.3(a)(2) [FR Doc. 2026-19020, Section IV, Order Second]. This applies regardless of the transacting party's location, so EU-based exporters or service providers dealing with items subject to the EAR in connection with Aeroflot are covered by the order's prohibitions. No foreign direct product rule, de minimis threshold, or transshipment provision specific to EU exporters is stated in this document.",
+  "action_items": [
+   "Screen counterparties and transactions to ensure no dealings with PJSC Aeroflot involving items subject to the EAR, absent safety-of-flight authorization under Section 764.3(a)(2) [FR Doc. 2026-19020, Section IV].",
+   "Confirm whether any aircraft, parts, or related services involving Aeroflot-operated aircraft (tail numbers/serial numbers listed in the order) fall within EAR jurisdiction before proceeding with any transaction [FR Doc. 2026-19020, Section II.B table].",
+   "Monitor for further BIS renewal orders, as the current TDO is effective for one year from September 11, 2026, and subject to further renewal under Section 766.24(d) [FR Doc. 2026-19020, Section IV]."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-19020, Section II.B",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19020/pjsc-aeroflot-1-arbat-st-119019-moscow-russia-order-renewing-temporary-denial-of-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19020, Section III",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19020/pjsc-aeroflot-1-arbat-st-119019-moscow-russia-order-renewing-temporary-denial-of-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-19020, Section IV",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19020/pjsc-aeroflot-1-arbat-st-119019-moscow-russia-order-renewing-temporary-denial-of-export-privileges"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-09-17",
   "archived_on": "2026-09-17",
   "jurisdiction": "US",
@@ -42,10 +363,187 @@
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19019/utair-aviation-jsc-khanty-mansiysk-airport-tyumen-region-russia-628012-order-renewing-temporary"
    }
   ],
-  "event_refs": [
-   "evt-861682133192b1ca"
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-16",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-3d62967b38f040ad",
+  "headline": "Treasury SDN list: three removals (two RUSSIA-EO14024, one SDNTK)",
+  "what_changed": "The batch records three removals from the Specially Designated Nationals (SDN) list, and no additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6805eb3716c3874b]. BOMATTER, Hans Peter was removed; the entry carried the program tag RUSSIA-EO14024 [CSL:Specially Designated Nationals (SDN) - Treasury Department:40948]. VEGA SANCHEZ, Jose Raul was removed; the entry carried the program tag SDNTK [CSL:Specially Designated Nationals (SDN) - Treasury Department:10982]. MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI was removed; the entry carried the program tag RUSSIA-EO14024 [CSL:Specially Designated Nationals (SDN) - Treasury Department:51041]. Separately, 2757 existing entries received identifier or field edits without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6805eb3716c3874b].",
+  "who_is_affected": "Three entries were removed from the SDN list: entity_id 40948 (BOMATTER, Hans Peter; RUSSIA-EO14024) [CSL:Specially Designated Nationals (SDN) - Treasury Department:40948]; entity_id 10982 (VEGA SANCHEZ, Jose Raul; SDNTK) [CSL:Specially Designated Nationals (SDN) - Treasury Department:10982]; and entity_id 51041 (MODULSAN MAKINA KESICI TAKIM VE DISLI SANAYI TICARET LIMITED SIRKETI; RUSSIA-EO14024) [CSL:Specially Designated Nationals (SDN) - Treasury Department:51041]. The source does not state the entity type of any of the three entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6805eb3716c3874b].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list - Treasury Department",
+   "RUSSIA-EO14024 program tag",
+   "SDNTK program tag"
   ],
-  "status": "published",
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licence posture, licence exception or wind-down terms [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6805eb3716c3874b].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Update restricted-party screening data to reflect removal of entity_ids 40948, 10982 and 51041.",
+   "Check whether a source notice or Federal Register publication for these removals is available, as none is cited in the delta record (FR: -)."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6805eb3716c3874b]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:40948]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=40948"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:10982]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=10982"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:51041]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=51041"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-14",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "EU",
+  "change_type": "Annex I adoption",
+  "id": "note-021f60b86a31b933",
+  "headline": "Commission adopts 2026 update of EU dual-use control list (Annex I, Reg. 2021/821); not yet in force",
+  "what_changed": "On 14 September 2026 the European Commission adopted a Delegated Regulation updating the EU dual-use export control list in Annex I of Regulation (EU) 2021/821 [C(2026)6323]. The announcement states that the update aligns the list with 2025 decisions of the Wassenaar Arrangement, the Australia Group and the Nuclear Suppliers Group, and includes commitments Member States accepted as Wassenaar members to control additional items uniformly [C(2026)6323]. The announcement states that the update adds new dual-use items, including semiconductor manufacturing and testing equipment and materials, advanced computing integrated circuits and electronic assemblies such as ICs incorporating one or multiple Digital Processing Units, ceramic matrix composites reinforced with mullite, inductive-sensing rotary encoders, additive manufacturing equipment for energetic materials, chemical vapour deposition equipment for silicon carbide fibres, and technology for the development of axial compressors of gas turbine engines [C(2026)6323]. The semiconductor examples given are atomic layer deposition equipment for molybdenum and ruthenium, equipment for the development and inspection of Extreme Ultra-Violet masks and reticles, and single wafer cleaning equipment [C(2026)6323]. The announcement also states that certain control parameters are modified and certain technical definitions and descriptions are updated [C(2026)6323]. The act was adopted by the Commission and is not yet published in the Official Journal or in force; it enters into force upon publication in the Official Journal after the usual two-month scrutiny period for the Council and the European Parliament [C(2026)6323].",
+  "who_is_affected": "The announcement states that the EU control list is a common list of dual-use items that must be controlled in all Member States [C(2026)6323]. It refers to uniform EU-level controls and a level-playing-field for economic operators, without naming specific operators, entry codes or destinations [C(2026)6323].",
+  "instruments": [],
+  "effective_dates": [
+   "Adopted by the Commission: 14 September 2026 (adoption date, not an in-force date) [C(2026)6323]",
+   "Entry into force: \"upon publication in the Official Journal after the usual two-month scrutiny period for the Council and the European Parliament\"; no calendar date stated in source [C(2026)6323]"
+  ],
+  "licence_posture": "The announcement states no licence requirement, licence exception, presumption or case-by-case policy [C(2026)6323]. It states only that the listed items are added to the EU control list, which must be controlled in all Member States [C(2026)6323].",
+  "relevance_eu_exporters": "The act amends Annex I of Regulation (EU) 2021/821, the common EU control list, and applies through that list once it enters into force after publication in the Official Journal [C(2026)6323]. The announcement does not state any foreign direct product rule, de minimis, transshipment or remote-access provision [C(2026)6323]. Entry-level text, thresholds and the Comprehensive Change Note Summary are not reproduced in the source provided and are not stated in source [C(2026)6323].",
+  "action_items": [],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "C(2026)6323",
+    "url": "https://policy.trade.ec.europa.eu/news/2026-update-eu-control-list-dual-use-items-2026-09-14_en"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "",
+  "licence_impact": "",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-08",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-c0022bbf1e86018c",
+  "headline": "State Dept terminates INKSNA nonproliferation measures against ROK entity JS Research Inc.",
+  "what_changed": "The U.S. Government decided on August 27, 2026, to terminate nonproliferation measures imposed on January 22, 2026, pursuant to the Iran, North Korea, and Syria Nonproliferation Act, on the ROK entity JS Research Inc., and any successor, sub-unit, or subsidiary thereof [FR Doc. 2026-18222, SUPPLEMENTARY INFORMATION].",
+  "who_is_affected": "JS Research Inc., a Republic of Korea entity, and any successor, sub-unit, or subsidiary thereof, are affected by the termination of measures previously imposed under the Act [FR Doc. 2026-18222, SUPPLEMENTARY INFORMATION].",
+  "instruments": [
+   "Iran, North Korea, and Syria Nonproliferation Act (Pub. L. 106-178)"
+  ],
+  "effective_dates": [
+   "September 8, 2026"
+  ],
+  "licence_posture": "The document states only that nonproliferation measures previously imposed on the entity have been terminated; it does not describe a licensing posture such as presumption of denial or case-by-case review [FR Doc. 2026-18222, SUMMARY].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Confirm removal of JS Research Inc. from any internal restricted-party screening lists derived from prior INKSNA measures [FR Doc. 2026-18222, SUPPLEMENTARY INFORMATION]."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-18222, SUMMARY",
+    "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-18222, SUPPLEMENTARY INFORMATION",
+    "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18222/termination-of-iran-north-korea-and-syria-nonproliferation-act-measures-against-rok-entity"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-09-08",
+  "archived_on": "2026-09-08",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-bd5a74613a54ce82",
+  "headline": "OFAC SDN List Update: 36 Entities Added, 1,458 Existing Entries Modified (ID Field Only)",
+  "what_changed": "A batch delta to the Specially Designated Nationals (SDN) List added 36 new entries and modified the 'ids' field on 1,458 existing entries, with no other fields altered in the modified set [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]. The added entries are primarily Iran-linked airlines and aviation-support companies designated under IFSR and IRAN-EO13902, plus several entities designated under SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:58523].",
+  "who_is_affected": "Named additions include ZAGROS AIRLINES (entity_id 58523) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58523], ATA AIRLINES COMPANY (entity_id 58494) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58494], MEHR AIRWAYS (entity_id 58534) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58534], ICARGO SDN BHD (entity_id 58496) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58496], ECT AVIATION SUPPORT LLC (entity_id 58505) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58505], and 31 further airline, aviation-support, and logistics entities [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]. The 1,458 modified entries span pre-existing SDN List designees across multiple programs, including entities such as OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, PARSIAN CATALYST CHEMICAL COMPANY, WANG Jiantong, CJSC VANKORNEFT, and SHARK INTERNATIONAL SHIPPING L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94].",
+  "instruments": [
+   "Iranian Financial Sanctions Regulations (IFSR)",
+   "IRAN-EO13902 program designation",
+   "SDGT (Specially Designated Global Terrorist) program designation"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "The source does not cite a foreign direct product rule, de minimis threshold, or transshipment provision applicable to this batch; relevance to EU exporters is indirect only. EU persons dealing with the newly designated Iran-linked airlines or aviation-support entities, or with the 1,458 modified SDN entries, would face exposure only insofar as general U.S. sanctions nexus (e.g., U.S. dollar transactions, U.S. persons, or U.S.-origin goods) applies, none of which is specified in this source.",
+  "action_items": [
+   "Screen customer, supplier, and counterparty databases against the newly added entity IDs (e.g., 58523, 58494, 58534, 58496, 58505, and the remaining 31 truncated additions).",
+   "Refresh internal restricted-party screening tools to capture the updated 'ids' field on the 1,458 modified SDN entries.",
+   "Review any existing dealings involving Iranian aviation, cargo, or logistics counterparties named in the added entries.",
+   "Confirm with legal/compliance whether any EU nexus (payment, insurance, or goods) touches the newly listed entities, given the absence of stated licence or FDPR mechanisms in this source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-dd0228929c449c94]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58523]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58494]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58534]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58496]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58505]",
+    "url": null
+   }
+  ],
   "entries_affected": [],
   "parameter_deltas": [],
   "series_500_flag": false,
@@ -86,14 +584,137 @@
     "url": null
    }
   ],
-  "event_refs": [
-   "evt-83be37ccb30253fb"
-  ],
-  "status": "published",
   "entries_affected": [],
   "parameter_deltas": [],
   "series_500_flag": false,
   "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-28",
+  "archived_on": "2026-08-28",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-813423bcccd351ff",
+  "headline": "OFAC SDN list update: 2 entries added, 506 entries' identifiers modified",
+  "what_changed": "Two persons were added to the Specially Designated Nationals list: Kameng Trading Limited under program IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485], and Reza Mohammad Taeedi under programs SDGT, IFSR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Additionally, 506 existing SDN entries had their 'ids' field modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "who_is_affected": "Persons or entities that may deal with Kameng Trading Limited or Reza Mohammad Taeedi are now subject to SDN-list restrictions [CSL:Specially Designated Nationals (SDN) - Treasury Department:58485] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]. Parties conducting screening against the 506 modified SDN entries must update identifier records for those entries, including examples such as Shark International Shipping L.L.C., Tekhnologiya OOO, Shenzhen City Mean Well Electronics Co., Ltd., Peng Minbo, and Wang Dongliang [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List, U.S. Department of the Treasury, Office of Foreign Assets Control"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated SDN list to identify the two newly added entries (Kameng Trading Limited; Reza Mohammad Taeedi).",
+   "Update internal compliance databases to reflect identifier changes for the 506 modified SDN entries.",
+   "Verify no existing business relationships involve the newly listed parties under IRAN-EO13902, SDGT, or IFSR programs."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-67781237f477d97f]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58485]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58482]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-26",
+  "archived_on": "2026-08-26",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-9315c07f690d2a83",
+  "headline": "OFAC SDN list update: 5 SDGT designations added, 345 entries' identifiers modified",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list received 5 new additions under the SDGT program and 345 modifications limited to the 'ids' field [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc]. New entries: PALESTINE ACTION [CSL:Specially Designated Nationals (SDN) - Treasury Department:58105]; ABDULNASSER, Zaid [CSL:Specially Designated Nationals (SDN) - Treasury Department:58464]; MASAR BADIL [CSL:Specially Designated Nationals (SDN) - Treasury Department:58462]; AUTISTICI INVENTATI [CSL:Specially Designated Nationals (SDN) - Treasury Department:58314]; ALSAGHEER, Rawa [CSL:Specially Designated Nationals (SDN) - Treasury Department:58463].",
+  "who_is_affected": "The five newly designated persons/entities under the SDGT program [CSL:Specially Designated Nationals (SDN) - Treasury Department:58105, 58464, 58462, 58314, 58463], and 345 previously listed entries whose identifier data was modified, including SHENZHEN CITY MEAN WELL ELECTRONICS CO., LTD., PENG, Minbo, WANG, Dongliang, MAKAROV, Sergei Vyacheslavovich, and FORNACIS ENERGY TRADING CO. L.L.C. [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc].",
+  "instruments": [
+   "Specially Designated Nationals and Blocked Persons List (SDN List), Program: SDGT"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the five newly added SDGT designations (entity_ids 58105, 58464, 58462, 58314, 58463).",
+   "Re-verify identifier data (e.g., ID numbers) for existing SDN entries affected by the 345 modifications, particularly for previously screened counterparties such as SHENZHEN CITY MEAN WELL ELECTRONICS CO., LTD. and FORNACIS ENERGY TRADING CO. L.L.C.",
+   "Confirm no Federal Register citation exists yet for these additions before relying on published legal text."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-0fb49d34f5a654cc]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58105]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58464]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58462]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58314]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58463]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "PALESTINE ACTION (58105)",
+   "ABDULNASSER, Zaid (58464)",
+   "MASAR BADIL (58462)",
+   "AUTISTICI INVENTATI (58314)",
+   "ALSAGHEER, Rawa (58463)",
+   "345 modified entries (identifier field 'ids' only; full list not provided in source)"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not applicable - US Treasury OFAC list, not an EU national list"
+  ],
   "reclassification_impact": "not stated in source",
   "licence_impact": "not stated in source",
   "materiality": null
@@ -126,10 +747,6 @@
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list"
    }
   ],
-  "event_refs": [
-   "evt-907a6f3cb42cf7db"
-  ],
-  "status": "published",
   "entries_affected": [
    "Atempo Proje Taahhüt Ses ve Görüntü Sistemleri Anonim Şirketi İstanbul Şubesi, Bülent Ecevit Bulvarı (Turkey)"
   ],
@@ -193,10 +810,6 @@
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list"
    }
   ],
-  "event_refs": [
-   "evt-519ea2fae81922d2"
-  ],
-  "status": "published",
   "entries_affected": [
    "Arrow Electronics (Hong Kong) Co., Ltd. (Entity List, Supplement No. 4 to Part 744, destination: China, People's Republic of)"
   ],
@@ -213,6 +826,709 @@
   ],
   "reclassification_impact": "not stated in source",
   "licence_impact": "License requirement for all items subject to the EAR, with a presumption-of-denial review policy, remains in force for Arrow Electronics (Hong Kong) Co., Ltd. at its remaining listed addresses; the two removed addresses no longer carry this Entity List-based license requirement [FR Doc. 2026-17231, Supplement No. 4 to Part 744].",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-18",
+  "archived_on": "2026-08-18",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-514156e7facb79b2",
+  "headline": "OFAC SDN list update: 3 new listings, 1,077 entries' identifiers modified",
+  "what_changed": "Three parties were added to the Specially Designated Nationals (SDN) list — Tomoko AKANE (entity_id 58410, program ICC-EO14203), BLUWAVES PROPERTIES LIMITED (entity_id 58278, program VENEZUELA-EO13850), and Abdoulaye SEYE (entity_id 58411, program ICC-EO14203) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1]. Separately, 1,077 existing SDN entries had their 'ids' field modified, with no other fields altered per the histogram provided [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1].",
+  "who_is_affected": "The three newly added individuals/entities under the ICC-EO14203 and VENEZUELA-EO13850 programs [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1]. Additionally, 1,077 pre-existing SDN-listed entities and individuals whose identifier ('ids') data was updated, including named examples such as the entity doing business as 'SINKO BANK,' AL JUNAID MULTI ACTIVITIES CO LTD, ZHEJIANG QINGJI IND. CO., LTD, WANG Jiantong, and GHAFFARHADDADI Javad [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1].",
+  "instruments": [
+   "Specially Designated Nationals and Blocked Persons (SDN) List — U.S. Department of the Treasury, Office of Foreign Assets Control",
+   "ICC-EO14203 program designation",
+   "VENEZUELA-EO13850 program designation"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Re-screen counterparties against updated SDN entity identifiers to confirm no false negatives/positives arise from the 'ids' field changes.",
+   "Verify screening systems have ingested the three newly added SDN entries (entity_ids 58410, 58278, 58411).",
+   "Cross-check any Venezuela- or ICC-related exposure given the cited program tags (VENEZUELA-EO13850, ICC-EO14203)."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-1a865074732b5fe1]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58410]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58278]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58411]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "58410",
+    "before": "not stated in source",
+    "after": "added — AKANE, Tomoko; program ICC-EO14203"
+   },
+   {
+    "entry_code": "58278",
+    "before": "not stated in source",
+    "after": "added — BLUWAVES PROPERTIES LIMITED; program VENEZUELA-EO13850"
+   },
+   {
+    "entry_code": "58411",
+    "before": "not stated in source",
+    "after": "added — SEYE, Abdoulaye; program ICC-EO14203"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-07",
+  "archived_on": "2026-08-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-4a048d9f408a9d48",
+  "headline": "OFAC SDN list update: 18 added, 902 modified, 8 removed under Iran and terrorism programs",
+  "what_changed": "The Treasury Department's Specially Designated Nationals list was updated with 18 new entries under the IRAN-EO13902 and SDGT/IRGC programs, 902 existing entries modified (identifier fields only), and 8 entries removed from the SDNTK/SDNT programs [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4]. New designations include entities such as CAILAFANG PTE. LTD., BLUE DASH GENERAL TRADING COMPANY LIMITED, and SHELBIT GENERAL TRADING LLC [CSL:Specially Designated Nationals (SDN) - Treasury Department:58271]. Removed entries include COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V. and related individuals previously listed under SDNTK/SDNT [CSL:Specially Designated Nationals (SDN) - Treasury Department:16643].",
+  "who_is_affected": "Parties transacting with the newly designated entities under the IRAN-EO13902 and SDGT/IRGC programs are affected [CSL:Specially Designated Nationals (SDN) - Treasury Department:58271]. Parties previously restricted from dealing with the removed SDNTK/SDNT-listed entities are affected by the delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:16643].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List — Treasury Department, OFAC"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source provides no licence-related text; no statement on presumption of denial, case-by-case review, or licence exceptions is given [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against updated SDN list, focusing on newly added entities under IRAN-EO13902 and SDGT/IRGC programs.",
+   "Verify removal status of the 8 delisted SDNTK/SDNT entries before resuming any prior restricted dealings.",
+   "Monitor identifier-only changes (902 modified entries) for potential matches in due-diligence databases."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-628bd8af092369c4]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58271]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:16643]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "58271",
+   "58275",
+   "58285",
+   "58258",
+   "58270",
+   "58267",
+   "58259",
+   "58277",
+   "58266",
+   "58269",
+   "58276",
+   "58284",
+   "58268",
+   "58239",
+   "58274",
+   "58287",
+   "58288",
+   "58272",
+   "16643",
+   "16607",
+   "16582",
+   "16608",
+   "16580",
+   "11753",
+   "16581",
+   "11812"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "902 entries",
+    "before": "prior identifier fields",
+    "after": "updated identifier fields (ids)"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-05",
+  "archived_on": "2026-08-05",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-7e412d742bfde385",
+  "headline": "OFAC SDN List: 3 removals, 2466 entries modified in single batch update",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list was updated with 3 entities removed and 2466 entries modified, primarily affecting identification (ids) fields, with one remarks field and one date_of_birth field also touched [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66]. Entities removed were YI-BAN (entity_id: 47170), YI-BAF (entity_id: 47169), and FLY BAGHDAD AIRLINES COMPANY (entity_id: 39236), all listed under the SDGT program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].",
+  "who_is_affected": "Parties affected include those removed from the list, YI-BAN, YI-BAF, and FLY BAGHDAD AIRLINES COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66]. Entities with modified entries include GOLIKOVA, Tatyana Alekseyevna; OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK; PARSIAN CATALYST CHEMICAL COMPANY; AL JUNAID MULTI ACTIVITIES CO LTD; and ZHEJIANG QINGJI IND. CO., LTD, among 2461 further entries not individually itemized in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].",
+  "instruments": [
+   "not stated in source"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source provides no statement regarding licence posture, presumption of denial, case-by-case review, or licence exceptions for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against updated SDN entries, particularly the three removed entities (YI-BAN, YI-BAF, FLY BAGHDAD AIRLINES COMPANY) to confirm removal status before relying on prior list snapshots.",
+   "Verify identification (ids) field changes for any counterparties matching the 2466 modified entries, given the histogram shows 2465 id-field changes.",
+   "Consult primary OFAC source documents for full entity-level detail, as this record provides only truncated examples of the 2466 modified entries."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8b48466d74c2fe66",
+    "url": null
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-08-04",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-89165c06bad9abc5",
+  "headline": "State Dept imposes INKSNA nonproliferation measures, incl. procurement ban, on 22 foreign persons",
+  "what_changed": "The Department of State determined that a number of foreign persons engaged in activities warranting measures under section 3 of the Iran, North Korea, and Syria Nonproliferation Act (INKSNA); these measures went into effect July 24, 2026 [FR Doc. 2026-15759, DATES]. The measures bar U.S. government procurement from and assistance to the listed persons, terminate USML sales and existing Arms Export Control Act sales/services, and bar new individual licenses (with suspension of existing licenses) for items controlled under the Export Control Reform Act of 2018 or the Export Administration Regulations, for two years from the effective date unless the Secretary of State determines otherwise [FR Doc. 2026-15759, Supplementary Information].",
+  "who_is_affected": "22 named foreign persons and entities located in Russia, Malaysia, Iran, Syria, DPRK, Taiwan, and China, comprising: 1061st Material-Technical Support Center (Russia), Abdullah Hammam bin Mustafar (Malaysia national), Aleksandr Ivanovich Prikhodko (Russian national), Andrei Gusev (Russian national), Andrey Vladimirovich Kosolapov (Russian national), Ellengo Lori (Malaysia national), Gedion Alpha Company LLC (Russia), Huang Chin Hsin (aka Huang Jinxing) (Taiwan national), International Invest Company (IIC) (Russia), Kala Gozar Pars Shipping and Logistics Company (Iran), Kang T'ae-so'ng (aka Kang Thae Song) (DPRK national), Mehdi Ghasemi (Malaysia national), Mohammad Ejen (Malaysia national), Morozik Vladislav Antonovich (Russian national), NS Global Logistics (Malaysia), Rabi' Madkhanah (Syrian national), Ruhollah Katebi (Iranian national), Russian Ground Forces (RGF) (Russia), Russian Main Missile and Artillery Directorate (Russia), Russian Ministry of Defense Directorate for Advanced Inter-Service Research and Special Projects (UPMLiSP) (Russia), Sergey Nikolayevich Tsibarev (Russia), and Yixing Ruibang High Performance Carbon Fiber Products Co. Ltd (aka Yixing Ruibang) (China), together with any successor, sub-unit, or subsidiary of the listed entities [FR Doc. 2026-15759, Supplementary Information].",
+  "instruments": [
+   "Iran, North Korea, and Syria Nonproliferation Act (Pub. L. 106-178), section 3",
+   "Arms Export Control Act",
+   "Export Control Reform Act of 2018",
+   "Export Administration Regulations"
+  ],
+  "effective_dates": [
+   "2026-07-24"
+  ],
+  "licence_posture": "No new individual licenses shall be granted for the transfer to the listed foreign persons of items controlled under the Export Control Reform Act of 2018 or the Export Administration Regulations, and any existing such licenses are suspended, except to the extent the Secretary of State otherwise may determine [FR Doc. 2026-15759, Supplementary Information].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the 22 named foreign persons and entities listed in this notice before engaging in transactions involving U.S.-origin or U.S.-controlled items [FR Doc. 2026-15759, Supplementary Information].",
+   "Confirm status of any existing individual licenses involving listed persons, as such licenses are suspended per this notice [FR Doc. 2026-15759, Supplementary Information]."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-15759, DATES",
+    "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15759/imposition-of-nonproliferation-measures-against-foreign-persons-including-a-ban-on-us-government"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-15759, Supplementary Information",
+    "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15759/imposition-of-nonproliferation-measures-against-foreign-persons-including-a-ban-on-us-government"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-07-29",
+  "archived_on": "2026-07-29",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b5a0ea2324c434e1",
+  "headline": "OFAC SDN list update: 18 new Iran-linked entries added, 1,221 entries' identifiers modified",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list batch recorded 18 additions under the IRAN-EO13902 program and 1,221 modifications limited to the 'ids' field of existing entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3].",
+  "who_is_affected": "Newly listed parties under IRAN-EO13902 include shipping, trading and marine-insurance entities and vessels: BRANCH SAYING INTERNATIONAL TRADING CO LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:58217], QI HANG SHIP MANAGEMENT LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:58189], PERSIAN GULF MARINE INSURANCE COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58233], and HORMUZSAFE MARINE SERVICES AUTHORITY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58234]. The 1,221 modified entries span the pre-existing SDN list broadly, with examples including OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, ZHEJIANG QINGJI IND. CO., LTD, WANG, Jiantong, GHAFFARHADDADI, Javad, and RENEEZ SHIPPING LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3].",
+  "instruments": [
+   "IRAN-EO13902"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties, vessels and shipping/insurance intermediaries against the 18 newly added SDN entries under IRAN-EO13902.",
+   "Re-check existing SDN database matches for identifier ('ids') field changes affecting 1,221 entries to ensure sanctions-screening tools reflect updated identifiers.",
+   "Confirm whether any of the added or modified entries correspond to existing business relationships prior to further dealings."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-102606ba415412a3]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58217]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58189]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58233]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58234]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "58217",
+   "58221",
+   "58220",
+   "58189",
+   "58231",
+   "58216",
+   "58236",
+   "58232",
+   "58214",
+   "58190",
+   "58219",
+   "58215",
+   "58235",
+   "58194",
+   "58227",
+   "58218",
+   "58233",
+   "58234"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "ids (batch-wide, 1221 entries)",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-07-24",
+  "archived_on": "2026-07-24",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-eb42bc2df22d810b",
+  "headline": "OFAC SDN list update adds 13 Iran-linked entries, updates identifiers on 863 existing entries",
+  "what_changed": "The Treasury Department's Specially Designated Nationals (SDN) list received a batch update: 13 new entries were added under the IRAN-EO13902 program, including individuals (e.g., REZAZADEH, Mehdi, entity_id 58186; OIMAKHMADOV, Sukhrob, entity_id 58187; BANI, Solmaz, entity_id 58188; ZANJANI, Bahareh Morteza, entity_id 58185) and entities (e.g., ZEDPAY FINANSAL SISTEM VE HIZMETLERI ANONIM SIRKETI, entity_id 58174; DOTONE AIRLINES COMPANY, entity_id 58181; DOTONE GOLD COMPANY, entity_id 58178; BZ DIAMOND DMCC, entity_id 58183; DOTONE RAIL COMPANY, entity_id 58179; DOT ONE VALUE CREATION GROUP, entity_id 58176; DOTONE BARTER COMPANY, entity_id 58180; ZEDX DMCC, entity_id 58177; DOTONE TRIP, entity_id 58182) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1]. Separately, 863 existing entries were modified, with the only field touched being 'ids' (identifier data), affecting entries such as OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOMMERCHESKI BANK SINKO BANK, ZHEJIANG QINGJI IND. CO., LTD, WANG, Jiantong, PISHRO TEJARAT SANA COMPANY, and EXPORT DEVELOPMENT BANK OF IRAN [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].",
+  "who_is_affected": "Parties transacting with the 13 newly added Iran-linked individuals and entities under the IRAN-EO13902 program are directly affected, as are parties with existing dealings involving the 863 entries whose identifier records were modified [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) List entries",
+   "IRAN-EO13902 program designation"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen customer and counterparty databases against the 13 newly added entity_ids (58174, 58176-58183, 58185-58188) for IRAN-EO13902 exposure.",
+   "Verify updated identifier data for the 863 modified SDN entries against internal restricted-party screening tools to avoid false negatives from identifier changes.",
+   "Confirm no existing business relationships involve the newly listed Dotone-affiliated companies or associated individuals."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-54e0b5a72ae559d1]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "not stated in source"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-07-23",
+  "archived_on": "2026-09-29",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-9fcbf0c312614f49",
+  "headline": "BIS moves firearm sound suppressors from ITAR to EAR, adds new ECCNs and TMP tools-of-trade exception",
+  "what_changed": "BIS revised the EAR and CCL to control certain silencers, mufflers, and sound suppressors that are being removed from the USML by a companion State Department IFR, creating new item paragraphs 0A501.f (suppressors usable with rifles/pistols under 0A501, 0A506, 0A507, or interchangeably with shotguns) and 0A502.f (suppressors for exclusive use with shotguns under 0A502/0A508) [FR Doc. 2026-14942, SUPPLEMENTARY INFORMATION, Section I.B]. New reasons for control (NS1/RS1/FC1/UN/AT1 for 0A501.f; FC1/UN/AT1 plus a new RS control for 0A502.f) and license exception eligibility (LVS, BAG, STA, TMP) were added for the new paragraphs [FR Doc. 2026-14942, Section I.C-D]. BIS also revised License Exception TMP (Sec. 740.9) to add a new paragraph (a)(2) authorizing temporary export/reexport of firearms and related items, including suppressors, as 'tools of trade' without a license, subject to quantity limits and effective-control/return conditions [FR Doc. 2026-14942, Section II]. Sec. 758.10 entry-clearance requirements for temporary imports were broadened from listed end-item ECCNs to all 0x5zz and certain '600 series' items subject to the EAR that are also on the USMIL [FR Doc. 2026-14942, Section III].",
+  "who_is_affected": "Exporters, reexporters, and manufacturers of firearm sound suppressors and related firearms parts/components/accessories/attachments classified under ECCNs 0A501, 0A502, 0A506, 0A507, and 0A508; employers whose employees carry company-owned firearms abroad as tools of trade; and temporary importers of firearms-related items that are also listed on the USMIL [FR Doc. 2026-14942, SUMMARY; Sections I-III].",
+  "instruments": [
+   "15 CFR 740 (License Exceptions, including Sec. 740.9 TMP and Sec. 740.14 BAG)",
+   "15 CFR 742 (Sec. 742.6 Regional Stability, Sec. 742.7 Crime Control)",
+   "15 CFR 758 (Sec. 758.1 EEI/AES filing, Sec. 758.10 entry clearance for temporary imports)",
+   "15 CFR 774 Supplement No. 1 (CCL: ECCNs 0A501, 0A502, 0A506, 0A507, 0A508)"
+  ],
+  "effective_dates": [
+   "November 20, 2026 (general effective date, including new ECCN 0A501.f/0A502.f item paragraphs and Sec. 742.6(a)(14)/(b)(15))",
+   "July 23, 2026 (amendatory instructions 1, 2, 3, 4, 6, 7, 8, 9, 10, and 11, including Sec. 740.9 TMP revision, Sec. 740.14 BAG revision, Sec. 758.1 and 758.10 revisions, and the July 23, 2026 version of ECCN 0A502)",
+   "Comments due August 24, 2026",
+   "Savings clause deadline: August 24, 2026 for shipments en route as of July 23, 2026 under prior NLR/license exception eligibility"
+  ],
+  "licence_posture": "An EAR authorization is required to export, reexport, or transfer (in-country) sound suppressors newly added under ECCNs 0A501.f and 0A502.f, including related technology and software, to foreign persons in the US or abroad [FR Doc. 2026-14942, Section I.B]. Applications are generally reviewed case-by-case under the existing RS licensing policy at Sec. 742.6(b)(1)(i) to determine whether the transaction is contrary to US national security or foreign policy interests [FR Doc. 2026-14942, Section I.C, I.E]. New Sec. 742.6(a)(14) imposes a license requirement for 0A502.f exports/reexports to all destinations except NATO member states, Australia, Austria, India, Ireland, Japan, Liechtenstein, New Zealand, South Korea, or Switzerland, reviewed under paragraph (b)(15)/(b)(1)(i) [FR Doc. 2026-14942, Section I.E; amendment 5]. License exceptions LVS ($500 threshold for Canada), BAG, STA, and the newly revised TMP (Sec. 740.9(a)(2), tools-of-trade) are available for the new paragraphs subject to stated conditions and restrictions under Sec. 740.2 [FR Doc. 2026-14942, Section I.D; Section II].",
+  "relevance_eu_exporters": "The new RS control at Sec. 742.6(a)(14) exempts exports/reexports of ECCN 0A502.f sound suppressors from the license requirement otherwise applicable to non-listed destinations for NATO member states, Australia, Austria, India, Ireland, Japan, Liechtenstein, New Zealand, South Korea, or Switzerland, with NATO membership determined by cross-reference to Sec. 772.1 of the EAR [FR Doc. 2026-14942, Section I.E; amendment 5, Sec. 742.6(a)(14)]. The source does not identify which countries are NATO members, does not discuss EU membership, and does not state that EU member states are covered by this exemption; any link to EU exporters via this NATO carve-out is therefore indirect only. Beyond this, the source does not address other EU-specific mechanisms such as a foreign direct product rule or de minimis threshold for these ECCNs.",
+  "action_items": [
+   "Reclassify any silencers/mufflers/sound suppressors previously handled under State/ITAR jurisdiction to determine whether they now fall under ECCN 0A501.f or 0A502.f.",
+   "Confirm, via Sec. 772.1 of the EAR, whether the destination country qualifies as a NATO member state (or is otherwise listed in Sec. 742.6(a)(14)) before relying on the exemption from the RS license requirement for 0A502.f items, while confirming other reasons for control (NS, FC1, UN, AT1) still apply.",
+   "Review use of License Exceptions LVS, BAG, STA, and revised TMP (Sec. 740.9(a)(2)) for compliance with quantity limits, effective-control, and return-to-US/reexport-country conditions before relying on them for suppressor or firearms shipments.",
+   "For temporary imports of 0x5zz or '600 series' items also on the USMIL, apply the broadened Sec. 758.10 entry clearance requirements rather than seeking a separate ATF permit.",
+   "Monitor the comment period (due August 24, 2026) and the savings clause deadline (August 24, 2026) for shipments en route as of July 23, 2026.",
+   "Anticipate increased licensing volume: BIS projects an increase of approximately 200 license applications annually from the sound-suppressor additions, offset by an expected decrease of approximately 40 license applications annually from the new TMP tools-of-trade exception."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-14942, SUMMARY",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, DATES",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section I.B",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section I.C",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section I.D",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section I.E",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section II",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Section III",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, amendment 5, Sec. 742.6(a)(14)-(b)(15)",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-14942, Savings Clause",
+    "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "Certain silencers, mufflers, and sound suppressors are reclassified from USML jurisdiction (ITAR, under the companion State IFR) to EAR jurisdiction, newly enumerated as ECCN 0A501.f (suppressors usable with rifles/pistols under 0A501, 0A506, 0A507, or interchangeably with shotguns) and ECCN 0A502.f (suppressors for exclusive use with shotguns under 0A502/0A508) [FR Doc. 2026-14942, Section I.B].",
+  "licence_impact": "BIS expects an increase of approximately 200 license applications received annually as a result of adding sound suppressors to the CCL [FR Doc. 2026-14942, Section I.B], and a decrease of approximately 40 license applications received annually as a result of the new TMP tools-of-trade exception for firearms and related commodities [FR Doc. 2026-14942, Section II]. Separately, BIS estimates an annual increase of approximately 160 licenses (80 additional burden hours; ~$3,040 cost increase) under OMB collection 0694-0088, and a decrease of approximately 5 burden hours (~$190 cost decrease) under OMB collection 0694-0137 tied to the Sec. 740.9 tools-of-trade revision [FR Doc. 2026-14942, Rulemaking Requirements, para. 2].",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-07-23",
+  "archived_on": "2026-07-23",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-bbaf3f01f318d540",
+  "headline": "OFAC SDN List update: 73 entities added, 2,474 modified, 1 removed",
+  "what_changed": "The Specially Designated Nationals (SDN) list maintained by the Treasury Department recorded 73 additions, 2,474 modifications (all limited to the 'ids' field), and 1 removal in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]. Additions include individuals and entities designated under programs including ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, such as AL-JEBOURI, Abdulla Issam Ahmad (entity_id: 58200) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58200] and HURRARI KASH S.A. PROMOTORA DE INVERSION DE C.V. (entity_id: 58075) [CSL:Specially Designated Nationals (SDN) - Treasury Department:58075]. One entity, BEL-KAP-STEEL LLC (entity_id: 44525, program BELARUS-EO14038), was removed from the list [CSL:Specially Designated Nationals (SDN) - Treasury Department:44525].",
+  "who_is_affected": "Individuals and entities newly listed under programs ILLICIT-DRUGS-EO14059, SDGT, and CUBA-EO14404, and the entity removed under the BELARUS-EO14038 program [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]. The 2,474 modified entries had only identifier ('ids') fields changed, with no further detail on substantive changes stated in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9].",
+  "instruments": [
+   "Specially Designated Nationals and Blocked Persons List (SDN List), U.S. Department of the Treasury, Office of Foreign Assets Control"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the updated SDN list, including the 73 newly added entries.",
+   "Confirm removal of BEL-KAP-STEEL LLC (entity_id: 44525) from internal restricted-party screening databases.",
+   "Review any existing relationships with the 2,474 modified entries to determine whether identifier changes affect matching in screening systems.",
+   "Retain records of screening runs against this batch for audit purposes, pending further detail on the modified fields."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-ce288f7fcedc4bd9]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58200]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58075]",
+    "url": null
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:44525]",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "58200",
+   "58075",
+   "58020",
+   "57995",
+   "58004",
+   "58041",
+   "58213",
+   "58039",
+   "58002",
+   "58072",
+   "58015",
+   "58017",
+   "58063",
+   "58022",
+   "58202",
+   "58019",
+   "57966",
+   "58198",
+   "57970",
+   "58000",
+   "58038",
+   "58062",
+   "58033",
+   "58024",
+   "58065",
+   "44525"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "not stated in source",
+    "before": "not stated in source",
+    "after": "not stated in source"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-07-13",
+  "archived_on": "2026-07-14",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-16d76c46c6a3ea34",
+  "headline": "OFAC SDN list: 27 additions (Iran, Cuba, Cyber) + 1,730 internal-ID modifications",
+  "what_changed": "Twenty-seven entities and individuals were added to the Specially Designated Nationals (SDN) list across three sanctions programmes [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. Additions under IRAN-EO13902 include LAVASANI, Ahmad Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57949], CDM TRADING LIMITED [CSL:Specially Designated Nationals (SDN) - Treasury Department:57934], ABADI, Shokufeh Rostam [CSL:Specially Designated Nationals (SDN) - Treasury Department:57945], MOHSEN KHANDAN AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57933], KHANDAN, Mohsen [CSL:Specially Designated Nationals (SDN) - Treasury Department:57942], KHANDAN, Ali Asghar [CSL:Specially Designated Nationals (SDN) - Treasury Department:57943], DARBANI, Mohammad [CSL:Specially Designated Nationals (SDN) - Treasury Department:57947], LAVASANI AND PARTNERS GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57948], LAVASANI, Amir Navai [CSL:Specially Designated Nationals (SDN) - Treasury Department:57950], SARSHARI, Zahra [CSL:Specially Designated Nationals (SDN) - Treasury Department:57946], and MOHAMMAD DARBANI AND PARTNERS EXCHANGE GENERAL PARTNERSHIP COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:57944]. One individual, ANSARI, Ali, was added under programmes IRAN-EO13876, SDGT, IFSR, and IRGC [CSL:Specially Designated Nationals (SDN) - Treasury Department:57957]. SMART GLOBAL LIMITED was added under IRAN-EO13876 and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57960]. Additions under CUBA-EO14404 include GRUPO EMPRESARIAL DEL COMERCIO EXTERIOR [CSL:Specially Designated Nationals (SDN) - Treasury Department:58051], CORPORACION ANTILLANA EXPORTADORA SA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58056], COREYDAN S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58057], GRUPO EMPRESARIAL DE TRANSPORTE MARITIMO PORTUARIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58054], ENETEC S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58052], ORGANIZACION SUPERIOR DE DIRECCION EMPRESARIAL CAUDAL S.A. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58053], ASSOCIATION OF COMBATANTS OF THE CUBAN REVOLUTION [CSL:Specially Designated Nationals (SDN) - Treasury Department:58046], MINISTRY OF TOURISM OF CUBA [CSL:Specially Designated Nationals (SDN) - Treasury Department:58059], RAPID RESPONSE BRIGADES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58058], and MILICIAS DE TROPAS TERRITORIALES [CSL:Specially Designated Nationals (SDN) - Treasury Department:58055]. Two additions under CYBER4 are FIRST VPN SERVICE [CSL:Specially Designated Nationals (SDN) - Treasury Department:57975] and RASHEVSKYI, Dmytro [CSL:Specially Designated Nationals (SDN) - Treasury Department:57978]. Two further added entries are present in the full event record but were truncated from this digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. A total of 1,730 existing SDN entries were modified; the sole field changed in all modified records is 'ids', indicating internal identifier updates with no change to designated names, programmes, or other substantive fields [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+  "who_is_affected": "US persons are prohibited from transacting with all newly added SDN entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. Non-US persons, including EU exporters, whose transactions involve US-origin goods, software, or technology, or who route payments through US financial institutions, face secondary exposure with respect to the newly designated parties [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]. Entities in the Iranian financial and exchange sectors are directly implicated by the IRAN-EO13902 additions, including exchange partnership companies and trading entities [CSL:Specially Designated Nationals (SDN) - Treasury Department:57933, 57944, 57948]. Cuban state-linked commercial, transport, tourism, and paramilitary entities are implicated by the CUBA-EO14404 additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:58051, 58054, 58059, 58058, 58055]. Cybersecurity-sector counterparties are implicated by the CYBER4 additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:57975, 57978]. Counterparties of the 1,730 modified entries are not substantively affected, as only internal identifiers were updated [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+  "instruments": [
+   "IRAN-EO13902",
+   "IRAN-EO13876",
+   "SDGT",
+   "IFSR",
+   "IRGC",
+   "CUBA-EO14404",
+   "CYBER4"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "Indirect only. The source does not cite foreign direct product rule, de minimis thresholds, or transshipment provisions. EU exporters transacting with newly added SDN parties through US-dollar clearing, US financial intermediaries, or goods/software/technology of US origin may face secondary sanctions exposure, but no such mechanism is explicitly stated in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+  "action_items": [
+   "Screen all counterparties, beneficial owners, and transaction parties against the 27 newly added SDN entries using entity_ids 57934, 57942, 57943, 57944, 57945, 57946, 57947, 57948, 57949, 57950, 57957, 57960, 57975, 57978, 58046, 58051, 58052, 58053, 58054, 58055, 58056, 58057, 58058, 58059, and the two truncated additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+   "Retrieve the full event record (evt-7f989122424ada54) to identify the two truncated 'added' entries not included in this digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+   "Update internal restricted-party screening databases to reflect the 'ids' field changes across 1,730 modified entries to maintain database integrity, noting no substantive designation changes are indicated [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+   "Assess existing and pipeline transactions involving Iranian exchange/trading entities, Cuban state commercial and transport entities, and cybersecurity-sector counterparties against the newly designated parties [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e].",
+   "Consult OFAC's published Federal Register notices for each programme (IRAN-EO13902, IRAN-EO13876, SDGT, IFSR, IRGC, CUBA-EO14404, CYBER4) to determine effective dates and any applicable general licences, as these are not stated in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e]."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-7e70fdca5d98945e",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57949",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57934",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58051",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57957",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57945",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57933",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58056",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57975",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57942",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57978",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58057",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58054",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57947",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58052",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58053",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58046",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57948",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57960",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57943",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58059",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57944",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57950",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58058",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:57946",
+    "url": null
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:58055",
+    "url": null
+   }
+  ],
+  "entries_affected": [
+   "57949",
+   "57934",
+   "58051",
+   "57957",
+   "57945",
+   "57933",
+   "58056",
+   "57975",
+   "57942",
+   "57978",
+   "58057",
+   "58054",
+   "57947",
+   "58052",
+   "58053",
+   "58046",
+   "57948",
+   "57960",
+   "57943",
+   "58059",
+   "57944",
+   "57950",
+   "58058",
+   "57946",
+   "58055",
+   "[2 truncated — see full event record evt-7f989122424ada54]",
+   "[1730 modified entries — ids field only; see snap-7e70fdca5d98945e]"
+  ],
+  "parameter_deltas": [
+   {
+    "entry_code": "snap-7e70fdca5d98945e — 1730 modified entries",
+    "before": "prior ids values (not stated in source)",
+    "after": "updated ids values (not stated in source)"
+   }
+  ],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "not stated in source"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
   "materiality": null
  },
  {
@@ -262,10 +1578,6 @@
     "url": "https://www.federalregister.gov/documents/2026/04/09/2026-06851/extension-of-authorized-integrated-circuit-ic-designer-status-and-application-deadline-to-become-an"
    }
   ],
-  "event_refs": [
-   "evt-ef385de5af6a5ffa"
-  ],
-  "status": "published",
   "entries_affected": [
    "ECCN 3A090.a"
   ],
@@ -314,10 +1626,6 @@
     "url": "https://publications.europa.eu/resource/celex/02021R0821-20251115"
    }
   ],
-  "event_refs": [
-   "evt-d6fb8ff4b686a743"
-  ],
-  "status": "published",
   "entries_affected": [
    "3B501"
   ],

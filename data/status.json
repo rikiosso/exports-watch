@@ -1,13 +1,16 @@
 {
- "last_checked": "2026-09-29T05:49:17.085569+00:00",
- "notes_published": 6,
- "notes_hidden_out_of_scope": 19,
- "notes_hidden_low_confidence": 3,
+ "last_checked": "2026-09-29T13:00:28.305088+00:00",
+ "notes_published": 27,
+ "notes_hidden_out_of_scope": 7,
+ "notes_hidden_low_confidence": 5,
  "notes_hidden_suppressed": 2,
  "corpus_version": "02021R0821-20260921",
  "sources_monitored": [
   "Federal Register: BIS rules under the EAR",
+  "Federal Register: State Department ITAR debarments and nonproliferation measures",
   "Consolidated Screening List: BIS and State Department lists",
-  "EUR-Lex CELLAR: Regulation (EU) 2021/821, Annex I"
+  "Consolidated Screening List: OFAC sanctions list additions and removals",
+  "EUR-Lex CELLAR: Regulation (EU) 2021/821, Annex I",
+  "European Commission, DG Trade: Annex I delegated acts on adoption"
  ]
 }
