@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'self'; font-src 'self'; img-src 'self'; base-uri 'self'; form-action 'self'">
+<title>Osso Export Watch</title>
+<link rel="alternate" type="application/rss+xml" title="Osso Export Watch" href="https://watch.osso.global/rss.xml">
+<link rel="icon" type="image/png" href="https://watch.osso.global/osso-favicon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Osso Export">
+<meta property="og:title" content="Osso Export Watch">
+<meta property="og:description" content="The EU dual-use control list, watched for every change to Annex I of Regulation (EU) 2021/821.">
+<meta property="og:url" content="https://watch.osso.global/">
+<meta property="og:image" content="https://watch.osso.global/social-preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Osso Export Watch: the EU dual-use control list, watched for every change.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://watch.osso.global/social-preview.png">
+<style>
+  /* Osso Export: espresso page, Crystal panels with Suit/Espresso text, generous
+     space, few borders. Tenor Sans (logo, headings, labels) and Arimo (text),
+     self-hosted, regular weight only (SIL OFL 1.1, licences shipped as OFL-*.txt).
+     Every text colour pair is checked at WCAG AA by scripts/contrast_check.py. */
+  @font-face { font-family: "Tenor Sans"; font-weight: 400; font-display: swap;
+               src: url("https://watch.osso.global/TenorSans-Regular.woff2") format("woff2"); }
+  @font-face { font-family: "Arimo"; font-weight: 400; font-display: swap;
+               src: url("https://watch.osso.global/Arimo-Regular.woff2") format("woff2"); }
+  :root {
+    color-scheme: dark;
+    --espresso: #3f342f; --steel: #d1d1d1; --crystal: #ffffff; --suit: #1b1c1c;
+    --steel-muted: rgba(209, 209, 209, .84);
+    --ink-muted: #5e534d;
+    --wash: #f4f2f0;
+    --hair: rgba(63, 52, 47, .12);
+    --display: "Tenor Sans", Arimo, Helvetica, Arial, sans-serif;
+    --sans: Arimo, Helvetica, Arial, sans-serif;
+    --r: 18px;
+  }
+  * { box-sizing: border-box; }
+  html, body { overflow-x: clip; }
+  body { margin: 0; background: var(--espresso); color: var(--steel); font: 400 1rem/1.7 var(--sans); }
+  b, strong, h1, h2, h3, h4 { font-weight: 400; }
+  a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 2px solid var(--crystal); outline-offset: 2px; }
+  .panel :focus-visible { outline-color: var(--espresso); }
+  ::selection { background: var(--steel); color: var(--suit); }
+  .wrap { max-width: 76rem; margin: 0 auto; padding: 0 2rem; }
+  .topbar { border-bottom: 1px solid rgba(209,209,209,.18); }
+  .topbar-inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem;
+                  max-width: 76rem; margin: 0 auto; padding: 1.6rem 2rem; }
+  /* the full logo: mark, OSSO wordmark, EXPORT at the height of OSSO */
+  .lockup { display: flex; align-items: center; gap: 1.1rem; text-decoration: none; color: #d0d0d0; }
+  .lockup .mark { height: 40px; width: 40px; display: block; }
+  .lockup .words { display: flex; align-items: baseline; gap: 1.55rem; }
+  .lockup .wordmark { height: 22px; width: auto; display: block; }
+  .lockup .brandname { font-family: var(--display); font-size: 29px; line-height: 22px;
+                       letter-spacing: .34em; text-transform: uppercase; }
+  .topnav { display: flex; gap: .5rem; }
+  .topnav a { font-family: var(--display); text-transform: uppercase; letter-spacing: .18em; font-size: .82rem;
+              color: var(--steel); text-decoration: none; padding: .7rem .8rem; border-bottom: 1px solid transparent; }
+  .topnav a[aria-current] { color: var(--crystal); border-bottom-color: var(--crystal); }
+  .topnav a:hover { color: var(--crystal); }
+  .panel { background: var(--crystal); color: var(--suit); border-radius: var(--r); padding: 2rem 2.1rem; }
+  .panel a { color: var(--espresso); }
+  .label { display: block; font-family: var(--display); text-transform: uppercase; letter-spacing: .16em;
+           font-size: .74rem; line-height: 1.5; color: var(--ink-muted); margin: 0 0 .9rem; }
+  .kicker { font-family: var(--display); text-transform: uppercase; letter-spacing: .14em; font-size: .74rem; color: var(--ink-muted); }
+  .chip { display: inline-block; font-size: .78rem; color: var(--espresso); background: var(--wash);
+          border-radius: 999px; padding: .12rem .7rem; white-space: nowrap; }
+  .muted { color: var(--ink-muted); }
+  .btn { display: inline-block; font-family: var(--display); text-transform: uppercase; letter-spacing: .14em; font-size: .78rem;
+         background: var(--espresso); color: var(--crystal) !important; text-decoration: none; border-radius: 999px;
+         padding: .7rem 1.3rem; margin: 0 .5rem .6rem 0; }
+  .btn.ghost { background: transparent; color: var(--espresso) !important; box-shadow: inset 0 0 0 1px var(--espresso); }
+  .btn:hover { text-decoration: underline; }
+  .status dl { margin: 0; display: grid; gap: 1rem; }
+  .status dt { font-size: .8rem; color: var(--ink-muted); }
+  .status dd { margin: 0; color: var(--suit); }
+  .status ul { margin: .2rem 0 0; padding-left: 1.05rem; }
+  .subscribe p { margin: 0 0 1.1rem; }
+  .scope { background: var(--suit); color: var(--steel); font-size: .92rem; border-radius: var(--r);
+           padding: 1.8rem 2.1rem; margin-top: 4rem; }
+  .scope p { max-width: 46rem; }
+  .scope p { margin: 0 0 .9rem; }
+  .scope .label { display: inline; color: var(--steel-muted); margin: 0 .3rem 0 0; }
+  .delta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .86rem; background: var(--wash);
+           border-radius: 10px; padding: .8rem 1rem; overflow-x: auto; }
+  footer { border-top: 1px solid rgba(209,209,209,.18); margin-top: 6rem; padding: 2.5rem 2rem 3rem; text-align: center; color: var(--steel-muted); font-size: .84rem; }
+  footer p { margin: 0 auto .5rem; max-width: 48rem; }
+  footer a { color: var(--steel); }
+  article { overflow-wrap: anywhere; }
+  .intro { padding: 2.5rem 0 3.5rem; }
+  .intro h1 { font-family: var(--display); text-transform: uppercase; letter-spacing: .2em; font-size: clamp(1.4rem, 3.2vw, 2.1rem);
+              color: var(--crystal); margin: 0 0 1rem; line-height: 1.3; }
+  .intro p { margin: 0; max-width: 40rem; }
+  .intro .checked { margin-top: .6rem; color: var(--steel-muted); font-size: .88rem; }
+  .dash { display: grid; grid-template-columns: 19rem minmax(0, 1fr); gap: 3rem; align-items: start; }
+  .side { display: grid; gap: 1.75rem; }
+  .filters { padding: 2rem 1.75rem; }
+  .filters .group + .group { margin-top: 2.25rem; }
+  .filters-body { display: none; }
+  .js .filters-body { display: block; margin-top: 2.25rem; }
+  .search { width: 100%; font: inherit; color: var(--suit); background: var(--wash); border: 0; border-radius: 12px; padding: .85rem 1rem; }
+  .search::placeholder { color: var(--ink-muted); }
+  select.search { appearance: none; }
+  .toggles { display: flex; flex-wrap: wrap; gap: .55rem; }
+  .toggle { font: inherit; font-size: .88rem; color: var(--espresso); background: var(--crystal); border: 1px solid var(--hair);
+            border-radius: 999px; padding: .45rem .95rem; cursor: pointer; }
+  .toggle[aria-pressed="true"] { background: var(--espresso); color: var(--crystal); border-color: var(--espresso); }
+  .more { display: none; }
+  .lead { padding: 2.6rem 2.8rem; margin-bottom: 2.5rem; }
+  .lead h2 { font-family: var(--display); font-size: clamp(1.45rem, 2.6vw, 2rem); line-height: 1.3; letter-spacing: .02em; margin: 1rem 0 1.4rem; color: var(--suit); }
+  .lead h2 a { text-decoration: none; color: var(--suit); }
+  .lead h2 a:hover { text-decoration: underline; }
+  .lead > p { margin: 0; }
+  .facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem; margin: 2rem 0 2.2rem; }
+  .facts p:not(.label) { margin: 0; font-size: .94rem; }
+  .tiles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.4rem; margin-bottom: 3.25rem; }
+  .tile { padding: 1.4rem 1.6rem; }
+  .tile .n { font-family: var(--display); font-size: 2rem; line-height: 1.1; color: var(--suit); }
+  .tile .label { margin: .3rem 0 0; }
+  .week { margin: 0 0 3rem; }
+  .week h2 { font-family: var(--display); text-transform: uppercase; letter-spacing: .18em; font-size: .8rem; color: var(--steel-muted); margin: 0 0 1.1rem; }
+  .card { margin-bottom: 1.4rem; }
+  .card h3 { font-family: var(--display); font-size: 1.2rem; line-height: 1.4; letter-spacing: .02em; margin: .7rem 0; color: var(--suit); }
+  .card h3 a { color: var(--suit); }
+  .card p { margin: 0 0 1rem; }
+  .card .foot { display: flex; flex-wrap: wrap; gap: .6rem 1.2rem; align-items: center; font-size: .88rem; }
+  .none { color: var(--steel); }
+  .after { display: none; }
+  @media (max-width: 880px) {
+    .topbar-inner { padding: 1.1rem 1.25rem .4rem; gap: .4rem; flex-wrap: wrap; }
+    .topnav { width: 100%; margin-left: -.45rem; gap: 0; }
+    .topnav a { font-size: .7rem; letter-spacing: .12em; padding: .7rem .45rem; }
+    .lockup { gap: .6rem; }
+    .lockup .mark { height: 28px; width: 28px; }
+    .lockup .words { gap: 1rem; }
+    .lockup .wordmark { height: 14px; }
+    .lockup .brandname { font-size: 18.5px; line-height: 14px; letter-spacing: .28em; }
+    .wrap { padding: 0 1.1rem; }
+    .panel { padding: 1.5rem 1.35rem; }
+    footer { margin-top: 4rem; padding-bottom: calc(3rem + env(safe-area-inset-bottom)); }
+    .intro { padding: 1.8rem 0 2.2rem; }
+    .dash { grid-template-columns: 1fr; gap: 2rem; }
+    .side:not(.after) .status, .side:not(.after) .subscribe { display: none; }
+    .after { display: grid; margin-top: 2.5rem; }
+    .js .more { display: inline-block; }
+    .js .filters-extra { display: none; margin-top: 2.25rem; }
+    .js .filters-extra.open { display: block; }
+    .lead { padding: 1.7rem 1.4rem; }
+    .facts { grid-template-columns: 1fr; gap: 1.1rem; }
+    .tiles { gap: .7rem; margin-bottom: 2.25rem; }
+    .tile { padding: 1rem .9rem; }
+    .tile .n { font-size: 1.5rem; }
+    .tile .label { font-size: .64rem; letter-spacing: .1em; }
+  }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="lockup" href="https://watch.osso.global/">
+      <img class="mark" src="https://watch.osso.global/osso-mark.svg" alt="" width="40" height="40">
+      <span class="words"><img class="wordmark" src="https://watch.osso.global/osso-wordmark.svg" alt="Osso" width="127" height="22"><span class="brandname">Export</span></span>
+    </a>
+    <nav class="topnav" aria-label="Osso Export">
+      <a href="https://watch.osso.global/" aria-current="true">Watch</a>
+      <a href="https://osso.global/">Classifier</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+<section class="intro">
+  <h1>Osso Export Watch</h1>
+  <p>Fully automated monitoring of US and EU export-control changes: every note is system-generated from cited primary sources.</p>
+<p class="checked">Last checked: 29 September 2026, 05:49 UTC</p></section>
+<div class="dash">
+  <aside class="side">
+    <section class="panel filters" aria-label="Filters">
+      <div class="group"><label class="label" for="q">Search</label>
+        <input class="search" id="q" type="search" placeholder="Entity, ECCN or keyword" autocomplete="off"></div>
+      <div class="filters-body">
+        <button class="toggle more" type="button" aria-expanded="false" aria-controls="filters-extra">Filters</button>
+        <div class="filters-extra" id="filters-extra">
+          <div class="group"><p class="label" id="l-jur">Jurisdiction</p>
+            <div class="toggles" role="group" aria-labelledby="l-jur" data-filter="jur">
+              <button class="toggle" type="button" aria-pressed="false" data-v="US">🇺🇸 United States</button>
+              <button class="toggle" type="button" aria-pressed="false" data-v="EU">🇪🇺 European Union</button>
+            </div></div>
+          <div class="group"><p class="label" id="l-type">Change type</p>
+            <div class="toggles" role="group" aria-labelledby="l-type" data-filter="type">
+<button class="toggle" type="button" aria-pressed="false" data-v="Rule change">Rule change</button><button class="toggle" type="button" aria-pressed="false" data-v="List addition">List addition</button><button class="toggle" type="button" aria-pressed="false" data-v="Corrigendum">Corrigendum</button>            </div></div>
+          <div class="group"><label class="label" for="period">Period</label>
+            <select class="search" id="period"><option value="0">All dates</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option><option value="365">Last 12 months</option></select></div>
+        </div>
+      </div>
+    </section>
+    <section class="panel status" aria-label="Status">
+  <p class="label">Status</p>
+  <dl>
+    <div><dt>Last checked</dt><dd>29 September 2026, 05:49 UTC</dd></div>
+    <div><dt>Annex I version</dt><dd>02021R0821-20260921</dd></div>
+    <div><dt>Sources monitored</dt><dd><ul><li>Federal Register: BIS rules under the EAR</li><li>Consolidated Screening List: BIS and State Department lists</li><li>EUR-Lex CELLAR: Regulation (EU) 2021/821, Annex I</li></ul></dd></div>
+  </dl>
+</section>
+
+    <section class="panel subscribe" aria-label="Subscribe">
+  <p class="label">Subscribe</p>
+  <p>New notes as they publish, fully automated.</p>
+  <a class="btn" href="https://watch.osso.global/rss.xml">RSS feed</a><a class="btn ghost" href="https://t.me/exports_watch">Telegram channel</a>
+</section>
+
+  </aside>
+  <div>
+    <article class="panel lead" aria-label="Latest change">
+      <div class="kicker">Latest change · 🇺🇸 United States · Rule change · <time datetime="2026-09-17">17 September 2026</time></div>
+      <h2><a href="https://watch.osso.global/notes/note-7f84df311f065371.html">BIS renews one-year Temporary Denial Order against UTair Aviation JSC for continued EAR violations</a></h2>
+      <p>BIS renewed, for a period of one year, the Temporary Denial Order (TDO) originally issued April 7, 2022 and previously renewed on October 3, 2022, March 29, 2023, September 23, 2023, September 20, 2024, and September 16, 2025 against UTair Aviation JSC, based on evidence that UTair continued to operate aircraft classified under ECCN 9A991.b on flights into, out of, and within Russia without required BIS authorization, in violation of the Regulations and the prior TDO [FR Doc. 2026-19019, Section II.B].</p>
+      <div class="facts">
+        <div><p class="label">Effective</p><p>Order dated September 11, 2026; effective immediately and remains in effect for one year [FR Doc. 2026-19019, Section IV]; Published in the Federal Register September 17, 2026 [FR Doc. 2026-19019]</p></div>
+        <div><p class="label">Who is affected</p><p>UTair Aviation JSC, Khanty-Mansiysk Airport, Tyumen Region, Russia, and its successors, assigns, agents, or employees, as well as any person who exports, reexports, transfers (in-country), services, or otherwise deals in items subject to the EAR involving UTair [FR Doc. 2026-19019, Section IV, First and Second].</p></div>
+        <div><p class="label">Sources</p><p>3 cited, each linked</p></div>
+      </div>
+      <a class="btn" href="https://watch.osso.global/notes/note-7f84df311f065371.html">Read the brief</a>
+    </article>
+    <div class="tiles" aria-live="polite">
+      <div class="panel tile"><div class="n" data-count="all">6</div><div class="label">Changes shown</div></div>
+      <div class="panel tile"><div class="n" data-count="US">5</div><div class="label">🇺🇸 United States</div></div>
+      <div class="panel tile"><div class="n" data-count="EU">1</div><div class="label">🇪🇺 European Union</div></div>
+    </div>
+    <section class="week" data-week>
+      <h2>Week of 14 September 2026</h2>
+      <article class="panel card" data-jur="US" data-type="Rule change" data-date="2026-09-17" data-search="bis renews one-year temporary denial order against utair aviation jsc for continued ear violations bis renewed, for a period of one year, the temporary denial order (tdo) originally issued april 7, 2022 and previously renewed on october 3, 2022, march 29, 2023, september 23, 2023, september 20, 2024, and september 16, 2025 against utair aviation jsc, based on evidence that utair continued to operate aircraft classified under eccn 9a991.b on flights into, out of, and within russia without required bis authorization, in violation of the regulations and the prior tdo [fr doc. 2026-19019, section ii.b]. the assistant secretary found the violations significant and deliberate and part of a pattern of repeated, ongoing and/or continuous apparent violations, warranting renewal for the maximum one-year period under 15 cfr 766.24(d) [fr doc. 2026-19019, section iii]. utair aviation jsc, khanty-mansiysk airport, tyumen region, russia, and its successors, assigns, agents, or employees, as well as any person who exports, reexports, transfers (in-country), services, or otherwise deals in items subject to the ear involving utair [fr doc. 2026-19019, section iv, first and second]. any related person, firm, corporation, or business organization connected to utair by ownership, control, or affiliation may also be made subject to the order after notice and comment [fr doc. 2026-19019, section iv, third]. temporary denial order under 15 cfr 766.24 export administration regulations (ear), 15 cfr parts 730-774 section 746.8(a)(1) ear (license requirement for aviation items to russia, eccn 9a991) section 740.15 ear (license exception avs exclusion for russian-registered/owned/controlled aircraft) section 764.3(a)(2) ear (safety-of-flight authorization exception)">
+        <div class="kicker">🇺🇸 United States · <time datetime="2026-09-17">17 September 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-7f84df311f065371.html">BIS renews one-year Temporary Denial Order against UTair Aviation JSC for continued EAR violations</a></h3>
+        <p>BIS renewed, for a period of one year, the Temporary Denial Order (TDO) originally issued April 7, 2022 and previously renewed on October 3, 2022, March 29, 2023, September 23, 2023, September 20, 2024, and September 16, 2025 against UTair Aviation JSC, based on evidence that UTair continued to operate aircraft classified under ECCN 9A991.b on flights into, out of, and within Russia without required BIS authorization, in violation of the Regulations and the prior TDO [FR Doc. 2026-19019, Section II.B].</p>
+        <div class="foot"><span class="chip">Rule change</span><span class="chip">high confidence</span>          <a href="https://watch.osso.global/notes/note-7f84df311f065371.html">Read the brief</a></div>
+      </article>
+    </section>
+    <section class="week" data-week>
+      <h2>Week of 31 August 2026</h2>
+      <article class="panel card" data-jur="US" data-type="List addition" data-date="2026-09-02" data-search="state dept adds 14 individuals/entities to itar debarred list via 91 fr 46821 the state department&#39;s directorate of defense trade controls added fourteen parties to the itar debarred list in a single batch [csl:itar debarred (dtc) - state department:snap-a4f299169a95c28b]. the named individuals and entities — glenn stepul, phil pascoe, victor cobian, quadrant magnetics, samet (aka doyduk doyduk), toshihiro azuma, gene shilman, jose miguel lazarin-zurita, patrick jinchao (aka wei wei), peter biar ajak, richard mosqueda, juan arturo charles, abraham chol keech, and scott tubbs — are now subject to itar debarment [csl:itar debarred (dtc) - state department:snap-a4f299169a95c28b]. itar debarred list (dtc) - u.s. department of state">
+        <div class="kicker">🇺🇸 United States · <time datetime="2026-09-02">02 September 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-14894e531b87eb03.html">State Dept adds 14 individuals/entities to ITAR Debarred List via 91 FR 46821</a></h3>
+        <p>The State Department&#39;s Directorate of Defense Trade Controls added fourteen parties to the ITAR Debarred List in a single batch [CSL:ITAR Debarred (DTC) - State Department:snap-a4f299169a95c28b].</p>
+        <div class="foot"><span class="chip">List addition</span><span class="chip">medium confidence</span>          <a href="https://watch.osso.global/notes/note-14894e531b87eb03.html">Read the brief</a></div>
+      </article>
+    </section>
+    <section class="week" data-week>
+      <h2>Week of 24 August 2026</h2>
+      <article class="panel card" data-jur="US" data-type="Rule change" data-date="2026-08-24" data-search="bis removes one turkey-based entity from the entity list bis amended the ear by removing atempo proje taahhüt ses ve görüntü sistemleri anonim şirketi i̇stanbul şubesi, bülent ecevit bulvarı, in turkey from the entity list under supplement no. 4 to part 744, based on information received pursuant to sec. 744.16(e) and erc review under supplement no. 5 to part 744 [fr doc. 2026-17230, removal from the entity list]. persons and companies that previously required a license to export, reexport, or transfer (in-country) items subject to the ear to the named turkish entity due to its entity list status [fr doc. 2026-17230, removal from the entity list]. atempo proje taahhüt ses ve görüntü sistemleri anonim şirketi i̇stanbul şubesi, bülent ecevit bulvarı (turkey) entity list removal (15 cfr part 744, supplement no. 4)">
+        <div class="kicker">🇺🇸 United States · <time datetime="2026-08-24">24 August 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-28e6b4df508e572a.html">BIS removes one Turkey-based entity from the Entity List</a></h3>
+        <p>BIS amended the EAR by removing Atempo Proje Taahhüt Ses ve Görüntü Sistemleri Anonim Şirketi İstanbul Şubesi, Bülent Ecevit Bulvarı, in Turkey from the Entity List under supplement no. 4 to part 744, based on information received pursuant to Sec. 744.16(e) and ERC review under supplement no. 5 to part 744 [FR Doc. 2026-17230, Removal From the Entity List].</p>
+        <div class="foot"><span class="chip">Rule change</span><span class="chip">high confidence</span>          <a href="https://watch.osso.global/notes/note-28e6b4df508e572a.html">Read the brief</a></div>
+      </article>
+      <article class="panel card" data-jur="US" data-type="Rule change" data-date="2026-08-24" data-search="bis removes two hong kong addresses from arrow electronics (hong kong) co., ltd. entity list entry (china) bis revised the entity list entry for arrow electronics (hong kong) co., ltd. under the destination of china by removing two addresses — 2/f and 3/f, green 18, phase 2, hong kong science park, hong kong; and units 11001-11008e &amp; 11001-11012w, 11th floor, atl logistics centre b, no. 8 container port road south, kwai chung, hong kong — following erc review under sec. 744.16 of the ear [fr doc. 2026-17231, removals from the entity list]. this follows the november 2025 removal of arrow china electronics trading co., ltd. and six aliases for arrow electronics (hong kong) co., ltd. [fr doc. 2026-17231, background]. persons exporting, reexporting, or transferring (in-country) items subject to the ear to arrow electronics (hong kong) co., ltd., which remains on the entity list under china at its five other listed addresses with a license requirement for all items subject to the ear and a presumption-of-denial review policy [fr doc. 2026-17231, supplement no. 4 to part 744]. parties transacting solely at the two removed addresses are no longer subject to the entity list licensing requirement tied to this entry [fr doc. 2026-17231, removals from the entity list]. arrow electronics (hong kong) co., ltd. (entity list, supplement no. 4 to part 744, destination: china, people&#39;s republic of) entity list (supplement no. 4 to 15 cfr part 744)">
+        <div class="kicker">🇺🇸 United States · <time datetime="2026-08-24">24 August 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-37654a6dc23aee63.html">BIS removes two Hong Kong addresses from Arrow Electronics (Hong Kong) Co., Ltd. Entity List entry (China)</a></h3>
+        <p>BIS revised the Entity List entry for Arrow Electronics (Hong Kong) Co., Ltd. under the destination of China by removing two addresses — 2/F and 3/F, Green 18, Phase 2, Hong Kong Science Park, Hong Kong; and Units 11001-11008E &amp; 11001-11012W, 11th Floor, ATL Logistics Centre B, No. 8 Container Port Road South, Kwai Chung, Hong Kong — following ERC review under Sec. 744.16 of the EAR [FR Doc. 2026-17231, Removals From the Entity List].</p>
+        <div class="foot"><span class="chip">Rule change</span><span class="chip">high confidence</span>          <a href="https://watch.osso.global/notes/note-37654a6dc23aee63.html">Read the brief</a></div>
+      </article>
+    </section>
+    <section class="week" data-week>
+      <h2>Week of 6 April 2026</h2>
+      <article class="panel card" data-jur="US" data-type="Rule change" data-date="2026-04-09" data-search="bis extends eccn 3a090.a approved ic designer application deadline from april 13, 2026 to december 31, 2026 bis has amended note 1 to eccn 3a090.a in paragraphs a.(2) and (3) by removing the date &#39;april 13, 2026&#39; wherever it occurs and replacing it with &#39;december 31, 2026&#39; [fr doc. 2026-06851, supplement no. 1 to part 774, eccn 3a090 amendment]. the triggering date for authorized ic designer status and the submission deadline for applications to become an approved ic designer are both extended by approximately eight months [fr doc. 2026-06851, summary]. applicants who submit by december 31, 2026 may be considered authorized ic designers for 180 days after that date [fr doc. 2026-06851, dates]. bis estimates the extension will result in approximately 20 additional approved ic designers and an increase of 385 burden hours under omb control number 0694-0137 [fr doc. 2026-06851, rulemaking requirements §2]. bis also estimates approximately 75 additional advisory opinions and 38 additional burden hours under omb control number 0694-0088 [fr doc. 2026-06851, rulemaking requirements §2]. front-end fabricators and osat companies seeking to export, reexport, or transfer (in-country) certain applicable advanced logic integrated circuits under eccn 3a090.a are affected [fr doc. 2026-06851, supplementary information]. entities that have submitted or intend to submit requests to bis to be listed as approved ic designers, subject to end-user review committee (erc) approval, are affected [fr doc. 2026-06851, supplementary information]. entities seeking to qualify as authorized ic designers under the criteria in note 1 to 3a090.a are affected [fr doc. 2026-06851, supplementary information]. eccn 3a090.a 15 cfr part 774, supplement no. 1 (commerce control list), eccn 3a090.a, note 1, paragraphs a.(2) and (3)">
+        <div class="kicker">🇺🇸 United States · <time datetime="2026-04-09">09 April 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-a5a4da5890e1761b.html">BIS extends ECCN 3A090.a approved IC designer application deadline from April 13, 2026 to December 31, 2026</a></h3>
+        <p>BIS has amended Note 1 to ECCN 3A090.a in paragraphs a.(2) and (3) by removing the date &#39;April 13, 2026&#39; wherever it occurs and replacing it with &#39;December 31, 2026&#39; [FR Doc. 2026-06851, Supplement No. 1 to Part 774, ECCN 3A090 amendment].</p>
+        <div class="foot"><span class="chip">Rule change</span><span class="chip">high confidence</span>          <a href="https://watch.osso.global/notes/note-a5a4da5890e1761b.html">Read the brief</a></div>
+      </article>
+    </section>
+    <section class="week" data-week>
+      <h2>Week of 9 February 2026</h2>
+      <article class="panel card" data-jur="EU" data-type="Corrigendum" data-date="2026-02-09" data-search="corrigendum deletes the sub-193 nm light-source criterion from annex i entry 3b501.f.1.a the corrigendum of 9 february 2026 to delegated regulation (eu) 2025/2003 replaces the text of entry 3b501.f.1.a, &#39;a light source wavelength shorter than 193 nm; or&#39;, with &#39;not used;&#39; [oj l 2026/90092, entry 3b501.f.1.a]. &#39;not used&#39; is the annex i placeholder for a deleted provision: the sub-193 nm light-source criterion no longer exists as a route into entry 3b501.f.1, whose remaining sub-points are unchanged [oj l 2026/90092, entry 3b501.f.1.a]. exporters and holders of prior classifications of align-and-expose step-and-repeat or step-and-scan wafer-processing equipment assessed under entry 3b501.f.1 [celex 02021r0821-20251115, entry 3b501.f.1]. 3b501 annex i, regulation (eu) 2021/821 — entry 3b501.f.1.a">
+        <div class="kicker">🇪🇺 European Union · <time datetime="2026-02-09">09 February 2026</time></div>
+        <h3><a href="https://watch.osso.global/notes/note-1e71f6d4e76ee835.html">Corrigendum deletes the sub-193 nm light-source criterion from Annex I entry 3B501.f.1.a</a></h3>
+        <p>The corrigendum of 9 February 2026 to Delegated Regulation (EU) 2025/2003 replaces the text of entry 3B501.f.1.a, &#39;A light source wavelength shorter than 193 nm; or&#39;, with &#39;Not used;&#39; [OJ L 2026/90092, entry 3B501.f.1.a].</p>
+        <div class="foot"><span class="chip">Corrigendum</span><span class="chip">high confidence</span><span class="chip">EU 500-series</span><a href="https://osso.global/?q=3B501">Classify an item under 3B501</a>          <a href="https://watch.osso.global/notes/note-1e71f6d4e76ee835.html">Read the brief</a></div>
+      </article>
+    </section>
+    <p class="none" id="no-match" hidden>No changes match these filters.</p>
+    <div class="after side"><section class="panel status" aria-label="Status">
+  <p class="label">Status</p>
+  <dl>
+    <div><dt>Last checked</dt><dd>29 September 2026, 05:49 UTC</dd></div>
+    <div><dt>Annex I version</dt><dd>02021R0821-20260921</dd></div>
+    <div><dt>Sources monitored</dt><dd><ul><li>Federal Register: BIS rules under the EAR</li><li>Consolidated Screening List: BIS and State Department lists</li><li>EUR-Lex CELLAR: Regulation (EU) 2021/821, Annex I</li></ul></dd></div>
+  </dl>
+</section>
+<section class="panel subscribe" aria-label="Subscribe">
+  <p class="label">Subscribe</p>
+  <p>New notes as they publish, fully automated.</p>
+  <a class="btn" href="https://watch.osso.global/rss.xml">RSS feed</a><a class="btn ghost" href="https://t.me/exports_watch">Telegram channel</a>
+</section>
+</div>
+  </div>
+</div>
+<section class="scope" aria-label="What this covers">
+  <p><strong class="label">What this covers.</strong> In scope: BIS rules under the EAR and the BIS
+  lists (Entity List, Denied Persons, Unverified, Military End User), ITAR debarments,
+  State Department nonproliferation designations, and Annex I of Regulation (EU)
+  2021/821 including corrigenda. Not covered: OFAC sanctions programmes, tariff and
+  import actions.</p>
+  <p><strong class="label">Editorial policy.</strong> The pipeline publishes only notes it rates
+  medium or high confidence. Every citation on a new note links to its source. Drafts
+  that fail either test are held.</p>
+</section>
+</main>
+<footer>
+  <p>Osso Export Watch. Fully automated monitoring. Not legal advice. Every claim carries a pinpoint citation; citations link to their source where a canonical page exists.</p>
+  <p>No accounts, no cookies, no tracking and no third-party scripts; fonts are self-hosted.</p>
+  <p><a href="https://watch.osso.global/rss.xml">RSS</a> · <a href="https://watch.osso.global/data/notes.json">notes.json (dataset)</a> · <a href="https://osso.global/">Osso Export Classifier</a> · Built by <a href="https://www.linkedin.com/in/ricardo-ossorio" target="_blank" rel="noopener">Ricardo Álvarez-Ossorio Castro</a></p>
+</footer>
+<script src="https://watch.osso.global/watch.js" defer></script></body>
+</html>
