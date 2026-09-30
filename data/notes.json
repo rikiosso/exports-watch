@@ -1,5 +1,97 @@
 [
  {
+  "action_date": "2026-09-30",
+  "archived_on": "2026-09-30",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-7f40700e68d8c23f",
+  "headline": "OFAC SDN list: 11 additions under SDGT and TCO; 3 removals under LIBYA3, BELARUS-EO14038 and SDNTK",
+  "what_changed": "The batch for the Specially Designated Nationals (SDN) - Treasury Department list records 11 additions and 3 removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]. All 11 added entries carry the program tags SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]. The 3 removed entries carried the program tags LIBYA3, BELARUS-EO14038 and SDNTK respectively [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]. The batch also records 2655 updates to existing entries, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]. No Federal Register citation is given for any entry in the batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9].",
+  "who_is_affected": "CARDENAS ARZOLA, Eric Gabriel was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58257]. RIVAS NUNEZ, Juan Gabriel was added with programs TCO and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:56980]. ENIGMA COMMUNITY, S. DE R.L. DE C.V. was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58264]. SOLUCIONES INTEGRALES TOLUCA, S.A. DE C.V. was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58263]. MARTINEZ PIRONA, Oscar Leonardo was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58260]. MARTINEZ ARMENTA, Carlos Javier was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58254]. HERNANDEZ GUERRERO, Anthony Wuiliam was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58262]. GALEANO BAZURTO, Jose Dario was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58256]. CANELON AGUIRRE, Anibal Alexander was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58161]. MEJIA CASTILLO, Alejandro was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58255]. GALEANO BASURTO, Aslhy Javier was added with programs SDGT and TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58261]. MARAYA was removed; its program tag was LIBYA3 [CSL:Specially Designated Nationals (SDN) - Treasury Department:28301]. PROTOPOVICH, Tatyana was removed; her program tag was BELARUS-EO14038 [CSL:Specially Designated Nationals (SDN) - Treasury Department:48385]. PATRACA, S.A. DE C.V. was removed; its program tag was SDNTK [CSL:Specially Designated Nationals (SDN) - Treasury Department:10640].",
+  "instruments": [
+   "OFAC Specially Designated Nationals (SDN) list, program tags SDGT, TCO, LIBYA3, BELARUS-EO14038, SDNTK"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Licensing terms, exceptions, general licences and wind-down provisions are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]. The batch lists program tags only [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Re-run restricted-party screening against the updated SDN list, covering the 11 added and 3 removed entity_ids identified in the batch.",
+   "Check the source record for each added and removed entry for country, address and identifiers, which the batch does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-8654dd787d352ab9]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58257]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58257"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:56980]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=56980"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58264]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58264"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58263]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58263"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58260]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58260"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58254]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58254"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58262]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58262"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58256]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58256"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58161]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58161"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58255]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58255"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58261]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58261"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:28301]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=28301"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:48385]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=48385"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:10640]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=10640"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-09-29",
   "archived_on": "2026-09-29",
   "jurisdiction": "US",
