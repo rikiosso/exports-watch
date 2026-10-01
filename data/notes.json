@@ -1,5 +1,143 @@
 [
  {
+  "action_date": "2026-10-01",
+  "archived_on": "2026-10-01",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-61b1c7c95f9f0bea",
+  "headline": "OFAC SDN list: 31 additions, mainly Iran-programme entries (EO 13902, EO 13871) and one TCO entry",
+  "what_changed": "The batch records 31 additions to the SDN list [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201]. The digest shows 25 of the 31 added entries, and six further additions are truncated from it [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201]. Of the 25 entries shown, 17 carry programme IRAN-EO13902, seven carry IRAN-EO13871 and one carries TCO [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201]. The batch also records updates to 1346 existing entries, described as identifier or field edits with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201].",
+  "who_is_affected": "Added under IRAN-EO13902: Bonasol Group Co., Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58782]. SAIPA Iranian Automobile Manufacturing Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58768]. HEPCO Shanghai Co., Ltd. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58781]. Dominion Trading Group Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58778]. Pars Khodro Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58762]. Heavy Equipment Production Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58780]. Hessenberg Co., Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58787]. East Concord Development Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58784]. Islamic Republic of Iran Railway Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58765]. Meizi Co., Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58783]. Sherkat-e Rah Ahan-e Khamle-o-Naghle [CSL:Specially Designated Nationals (SDN) - Treasury Department:58767]. Tanex Global Trading Hong Kong Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58788]. PT Golden Motorcycle International [CSL:Specially Designated Nationals (SDN) - Treasury Department:58785]. KGT Trading Limited [CSL:Specially Designated Nationals (SDN) - Treasury Department:58777]. Troy Trading Arac Parcalari Sanayi ve Ticaret Limited Sirketi [CSL:Specially Designated Nationals (SDN) - Treasury Department:58786]. Iran Khodro Diesel Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58764]. Raja Passenger Trains Company [CSL:Specially Designated Nationals (SDN) - Treasury Department:58766]. Added under IRAN-EO13871: M and R Steel Co., Ltd. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58771]. Hamedani, Mehnoosh Poursaraf [CSL:Specially Designated Nationals (SDN) - Treasury Department:58775]. Fidar Foolad Radman [CSL:Specially Designated Nationals (SDN) - Treasury Department:58773]. Tech-Trade International Impex GmbH [CSL:Specially Designated Nationals (SDN) - Treasury Department:58774]. Traco International FZE [CSL:Specially Designated Nationals (SDN) - Treasury Department:58776]. Keshvardoust, Ramin [CSL:Specially Designated Nationals (SDN) - Treasury Department:58769]. Shanghai Ruimi Import and Export Trade Co., Ltd. [CSL:Specially Designated Nationals (SDN) - Treasury Department:58770]. Added under TCO: A7 Network [CSL:Specially Designated Nationals (SDN) - Treasury Department:58626]. Six further added entries are not identified in the digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201].",
+  "instruments": [
+   "SDN list batch snap-9be9fd957e493201 (31 additions)",
+   "Programme tags shown: IRAN-EO13902, IRAN-EO13871, TCO"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The digest states no licensing policy, general licence or exception for these additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201]. The Federal Register field is blank for the shown entries, so no Federal Register text is available for this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201].",
+  "relevance_eu_exporters": "indirect only. The source contains no foreign direct product rule, de minimis, transshipment or other mechanism linking these additions to EU exporters, and it does not state the addresses or countries of the listed entries.",
+  "action_items": [
+   "Screen counterparties against the 25 added entries shown in the digest, using the cited entity_ids.",
+   "Retrieve the full event record to identify the six truncated additions before completing any screening.",
+   "Obtain the underlying OFAC notice for effective dates and licensing terms, as the digest states neither."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-9be9fd957e493201]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58782]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58782"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58768]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58768"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58781]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58781"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58778]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58778"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58762]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58762"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58780]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58780"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58787]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58787"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58784]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58784"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58765]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58765"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58783]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58783"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58767]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58767"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58788]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58788"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58785]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58785"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58777]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58777"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58786]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58786"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58764]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58764"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58766]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58766"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58771]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58771"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58775]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58775"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58773]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58773"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58774]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58774"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58776]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58776"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58769]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58769"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58770]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58770"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58626]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58626"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-09-30",
   "archived_on": "2026-09-30",
   "jurisdiction": "US",
