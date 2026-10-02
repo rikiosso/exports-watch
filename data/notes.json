@@ -1,5 +1,759 @@
 [
  {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-c0b048426a4a10d2",
+  "headline": "OFAC SDN list: five additions under the SDGT program (entity_ids 57717–57721)",
+  "what_changed": "Five entries were added to the Specially Designated Nationals (SDN) list in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a142ef32eec48c67]. AL-ZAQ, Saleem Abdallah Saleem was added under program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57717]. BARIKA, Faouzi was added under program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57718]. OUALID, Amel was added under program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57719]. ASSOCIATION BARAKA was added under program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57720]. ENSEMBLE C MIEUX was added under program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:57721]. The batch also records identifier or field edits to 780 existing entries, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The parties named in the five added entries are AL-ZAQ, Saleem Abdallah Saleem [CSL:Specially Designated Nationals (SDN) - Treasury Department:57717]; BARIKA, Faouzi [CSL:Specially Designated Nationals (SDN) - Treasury Department:57718]; OUALID, Amel [CSL:Specially Designated Nationals (SDN) - Treasury Department:57719]; ASSOCIATION BARAKA [CSL:Specially Designated Nationals (SDN) - Treasury Department:57720]; and ENSEMBLE C MIEUX [CSL:Specially Designated Nationals (SDN) - Treasury Department:57721]. The source does not state entity type, address, nationality or other identifiers for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department, program tag SDGT (Federal Register reference: not stated in source)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen customer, counterparty and end-party data against the five added entries (entity_id 57717, 57718, 57719, 57720, 57721).",
+   "Obtain the underlying OFAC or Federal Register publication for these additions, because the source gives no FR reference (FR: -) and no effective date."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a142ef32eec48c67]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:57717]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=57717"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:57718]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=57718"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:57719]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=57719"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:57720]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=57720"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:57721]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=57721"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List addition",
+  "id": "note-09f985a4691159eb",
+  "headline": "Five INKSNA additions to State Dept ISN list: entities in China, DPRK, UAE, Lebanon, plus one DPRK national",
+  "what_changed": "Five entries were added to the Nonproliferation Sanctions (ISN) - State Department list under the INKSNA program [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. All five additions carry a Federal Register reference dated 01/27/2026 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source record lists no entity identifiers, addresses or field changes for these entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "Futech (China) was added, together with any successor, sub-unit, or subsidiary [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Ch'oe Ch'o'l-min (Choe Chol Min), a DPRK national, was added [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The Second Academy of Natural Science Foreign Affairs Bureau (SANS FAB) (DPRK) was added, together with any successor, sub-unit, or subsidiary [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. International Biotechnology Services FZC (UAE) was added, together with any successor, sub-unit, or subsidiary [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. EXPTRANS GMBH (Lebanon) was added, together with any successor, sub-unit, or subsidiary [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "INKSNA (program tag on all five entries)",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register reference: Vol. 91, No. 17, 01/27/2026"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the five added names, including successors, sub-units and subsidiaries as listed",
+   "Obtain the Federal Register notice text for the 01/27/2026 reference to confirm the scope, measures and effective dates, which the source record does not state"
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "Federal Register reference listed in the list delta: Vol. 91, No. 17, 01/27/2026",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-db70656c8cd23b9d",
+  "headline": "Five INKSNA-program entries removed from State Dept ISN Nonproliferation Sanctions list (FR ref 03/06/2024)",
+  "what_changed": "The batch record shows five entries with delta type removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entries are LLC Eltekhnord and any successor, sub-unit, or subsidiary thereof; PMC Wagner and any successor, sub-unit, or subsidiary thereof; Rim Yo'ng-hyo'k (DPRK individual); Pavel Shevelin (Russian individual); and Russian Aerospace Forces (aka VKS) and any successor, sub-unit, or subsidiary thereof [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. All five entries are recorded under the program INKSNA [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each entry carries a Federal Register reference dated 03/06/2024 (volume 89, number 45), and no Federal Register document number or section is given [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. No entity_id, address or field-level change is recorded for any of the five entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The persons and entities named in the five removed entries, including the successors, sub-units and subsidiaries covered by three of the entry names, are the subjects of the delta [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state the legal consequence of removal for any other party [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "INKSNA (program tag on all five entries)",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register reference: Vol. 89, No. 45, 03/06/2024"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The batch record does not state any licence requirement, licence policy or licence exception connected to the removals [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Obtain the underlying Federal Register notice referenced as Vol. 89, No. 45, 03/06/2024, since the source supplies no document number, reasons or effective date.",
+   "Check the current State Department ISN Nonproliferation Sanctions page before changing any screening outcome for the five named parties.",
+   "Do not treat the removal of an entry from this list as a statement about status under any other sanctions or export-control list, because the source addresses only this list."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-373bd60cf562ca40",
+  "headline": "State Dept ISN list: five Missile Sanctions Laws entries removed in batch tied to FR reference 09/12/2024",
+  "what_changed": "Five entries under the Missile Sanctions Laws program were removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entries are Universal Enterprise Limited (Hong Kong Entity), Innovative Equipment, Luo Dongmei (PRC national), Xi'an Longde Technology Development Company Limited, and Hubei Huachangda Intelligent Equipment Company [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Four of the five entries, all except Luo Dongmei, were listed together with their sub-units and successors [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Every removed entry carries the same Federal Register reference, volume 89, number 177, dated 09/12/2024 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The reason for the removals is not stated in the source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The five removed parties are the four named entities and one named individual listed in the batch, all under the Missile Sanctions Laws program [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Universal Enterprise Limited is recorded with the aliases General Technology Limited, Beijing Luo Luo Tech Development Limited, Tiger Force Electronics and Foshan Nanhai Winhope Trade Company [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. No entity identifiers or addresses are recorded for any of the five entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Missile Sanctions Laws (program tag)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing policy, presumption or exception for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Obtain the underlying Federal Register document referenced as volume 89, number 177, dated 09/12/2024, to confirm the effective date and the basis for removal.",
+   "Compare the removed names and aliases against internal screening records, noting that the source records no entity identifiers or addresses."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-83a368d18761a422",
+  "headline": "Four entities removed from State Department ISN Nonproliferation Sanctions list (FR ref 04/27/2024)",
+  "what_changed": "Four entries were removed from the Nonproliferation Sanctions (ISN) - State Department list in the batch tied to the Federal Register reference dated 04/27/2024 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source records no entity_id for any of the four removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state a reason for the removals [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "Xi'an Longde Technology Development Company Limited was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Minsk Wheel Tractor Plant was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Tianjin Creative Source International Trade Co Ltd was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The entry for Granpect, whose full name appears in the cited entry, was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "instruments": [
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "E.O. 13382",
+   "Federal Register reference: Vol. 89, No. 166, 04/27/2024"
+  ],
+  "effective_dates": [
+   "not stated in source (Federal Register reference given: Vol. 89, No. 166, 04/27/2024)"
+  ],
+  "licence_posture": "Licence posture for the removed entries is not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Compare the four removed names against internal restricted-party screening records and customer files.",
+   "Consult the full Federal Register notice cited in the entries for the terms and effective date of the removals, as the source material provided does not state them.",
+   "Confirm the current status of each entity on any other applicable restricted-party lists, as the source material covers only the State Department ISN list."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-54b2ce344371597d",
+  "headline": "State Dept ISN list: five INKSNA-program entries removed, grouped under a Federal Register reference dated 08/08/2023",
+  "what_changed": "Five entries were removed from the Nonproliferation Sanctions (ISN) - State Department list in the snapshot identified as snap-a142ef32eec48c67 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. All five removed entries carry the INKSNA program tag [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each removed entry carries the Federal Register reference volume 88, number 151, dated 08/08/2023 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. No entity_id, address or field-level change is stated for any of the five entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The removed entries are Mirel Makina Elektronik Teks, Sinobright Import and Export Company, Seyed Taba (Turkish individual), EuroAsia, and Wisdom Import and Export (Shanghai) [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Four of the five entries (all except Seyed Taba) are listed together with any successor, sub-unit, or subsidiary thereof [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state the reason for the removals [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "INKSNA (program tag on all five removed entries)",
+   "Nonproliferation Sanctions (ISN) - State Department list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence requirement, licensing policy, or licence exception for these entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Compare the five removed names against internal restricted-party screening records and the current list snapshot.",
+   "Consult the Federal Register reference volume 88, number 151 (08/08/2023) directly for the terms and effect of the removals, which the source does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-8c1b1b41abe40493",
+  "headline": "State Dept ISN list: seven entries removed in one batch, all carrying the same program tag",
+  "what_changed": "Seven entries were removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The batch is grouped under one Federal Register reference dated 04/15/2021 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source records no field changes and no addresses for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source gives no reason for the removals [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "State Scientific Research Institute of Organic Chemistry and Technology was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Anatoliy Vladimirovich Chepiga was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. 27th Scientific Center was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Alexander Yevgeniyevich Mishkin was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Federal Security Service (FSB) was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Russian General Staff Main Intelligence Directorate (GRU) was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. 33rd Scientific Research and Testing Institute was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source provides no entity_id for any of the seven entries [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "instruments": [
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "E.O. 13382 (program tag on all seven removed entries)",
+   "Federal Register reference: Vol. 86, No. 71, 04/15/2021"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The material records list removals only and states no licensing policy, presumption or licence exception [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Compare the seven removed entries against internal restricted-party screening lists that mirror the State Department ISN list.",
+   "Obtain the underlying Federal Register notice cited in the batch to confirm the scope, basis and effective date of the removals, since the source material does not state them."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List addition",
+  "id": "note-670a2a96c87e7872",
+  "headline": "State Dept ISN list adds 14 entries under IFCA Section 1245 (FR Vol 86, No 46, 03/11/2021)",
+  "what_changed": "The State Department Nonproliferation Sanctions (ISN) list shows 14 entries added in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. All 14 added entries carry the program Iran Freedom and Counter-Proliferation Act (IFCA) Section 1245 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each added entry references the Federal Register citation Vol 86, No 46, 03/11/2021 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. No entity identifiers, addresses or field changes are recorded for the added entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The added entries are: Kaifeng Pingmei New Carbon Materials Technology Co., Ltd; Majid Sajdeh; Accenture Building Materials; Hafez Darya Arya Shipping Company; Pamchel Trading Beijing CO Ltd; Hamidreza Azimian; Islamic Republic of Iran Shipping Lines (IRISL); Safiran Payam Darya Shipping Company; Global Industrial and Engineering Supply Ltd; Iran Transfo Co; Zangan Distribution Transformer Co; Jiangyin Mascot Special Steel Co., Ltd; Mohammad Reza Modarres Khiabani; Esfahan's Mobarakeh Steel Company [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Iran Freedom and Counter-Proliferation Act (IFCA) Section 1245",
+   "Nonproliferation Sanctions (ISN) list, State Department",
+   "Federal Register Vol 86, No 46, 03/11/2021 (reference only)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against the 14 added entries; names above are rendered without trailing abbreviation periods, so match against the list entries as published.",
+   "Obtain the Federal Register text for Vol 86, No 46, 03/11/2021 to confirm the measures, scope and effective date, which the source does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-c95e52517bb288fa",
+  "headline": "ISN list: Mohammad Ebrahimi recorded as removed (program E.O. 13382)",
+  "what_changed": "One entry, Mohammad Ebrahimi, is recorded as removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The batch contains one delta, of type removed, and no other delta types [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The batch is grouped under a Federal Register reference for volume 84, number 69, dated 04/10/2019 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source gives no reason for the removal [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "Mohammad Ebrahimi is the only party named in the delta [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry carried one program tag, listed in the instruments field, and no entity_id is stated [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence policy for this delta [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the entry against the current Nonproliferation Sanctions (ISN) - State Department list before changing any screening outcome.",
+   "Confirm the removal and its effective date in the primary Federal Register or State Department notice, since neither is stated in the source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-2fb4b7c4082f1c78",
+  "headline": "ISN list: 'Strategic Force' removed from State Department Nonproliferation Sanctions list",
+  "what_changed": "The batch contains one removal, the entry 'Strategic Force', from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry is recorded with no entity_id, no addresses and no field changes [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The entry carries a Federal Register reference of 03/18/2016 (volume 81, number 53) [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "who_is_affected": "The only entry affected is 'Strategic Force' [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source does not state the entity's nationality, address or type of business [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "instruments": [
+   "E.O. 13382 (program tag on the removed entry)",
+   "Nonproliferation Sanctions (ISN) - State Department list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing requirement, licensing policy or licence exception in connection with this removal [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Compare the entry name 'Strategic Force' against internal restricted-party screening records and note the list status change.",
+   "Obtain the underlying Federal Register notice and the State Department list page to confirm the basis and effective date of the removal, which the source does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-57ce51f040ee7f03",
+  "headline": "ISN list: six entries removed (Choe Chun-Sik, Kang Mun-Kil and four others), program E.O. 13382",
+  "what_changed": "Six entries of delta type removed are recorded on the Nonproliferation Sanctions (ISN) - State Department list in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entries are Choe Chun-Sik, Kang Mun-Kil, National Aerospace Development Administration, Namchongang Trading Corp, Academy of National Defense Science and Ministry of Atomic Energy Industry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each removed entry carries the program EO 13382 and the Federal Register reference Vol 81, No 50, 03/15/2016 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record shows no field changes, no addresses and no entity identifiers for these entries, and it states no reason for the removals [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The six parties named above are recorded as removed from the ISN list in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record does not state whether these parties remain listed on any other list or under any other program [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382",
+   "Nonproliferation Sanctions (ISN) - State Department list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The batch record states no licence requirement, licence policy or licence exception for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only; the source cites no foreign direct product rule, de minimis provision or transshipment provision.",
+  "action_items": [
+   "Confirm the removals against the Federal Register notice and the current State Department ISN publication before changing screening outcomes, because the source contains only the list delta.",
+   "Check whether each of the six parties appears on any other restricted-party list, since the source does not address this.",
+   "Record the batch pinpoint snap-a142ef32eec48c67 in the screening audit trail."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-f78cb96ceec50c03",
+  "headline": "Seven entries removed from State Dept ISN Nonproliferation Sanctions list; each references FR dated 09/23/2014",
+  "what_changed": "Seven entries were removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each removed entry carries one program tag and no entity_id [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each removed entry references the Federal Register issue dated 09/23/2014, volume 79, number 184 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state a reason for the removals or an effective date [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "Seven entities are no longer listed on the Nonproliferation Sanctions (ISN) - State Department list, as named in the action items below [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. No addresses or field changes are recorded for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register Vol. 79, No. 184, 09/23/2014 (reference only; text not provided)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence requirement, licensing policy or licence exception for these entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Check internal screening records against the seven removed entries: Maro Sanat Co.; Eyvaz Technic Manufacturing Company; Navid Composite Material Co.; Organization of Defensive Innovation and Research (SPND); Mandegar Baspar Kimiya Co.; Negin Parto Khavar; Jahan Tech Rooyan Pars.",
+   "Obtain the underlying Federal Register text and the State Department notice to establish the basis and effective date of the removals, as neither is stated in the source.",
+   "Check whether the same entities appear on other restricted-party lists; the source covers only the ISN list."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-de79b1ec7dbcf71f",
+  "headline": "ISN list delta: 'Government of Syria' entry removed from State Department Nonproliferation Sanctions list",
+  "what_changed": "One entry, 'Government of Syria', was removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry was listed under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The batch contains one delta, of type removed, and no additions or field changes [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The only entity named is 'Government of Syria', whose entry was removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record carries no entity_id and no addresses for this entry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program tag on the removed entry)",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register reference attached to the entry: Vol. 78, No. 237, 12/10/2013"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The record states no licensing policy, presumption or licence exception [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Obtain the underlying State Department or Federal Register notice to confirm the scope and effective date of the removal.",
+   "Check whether the removal changes any list-screening results in internal compliance tooling; the source does not say whether other lists or measures are affected."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-cd6ab775383fb1bf",
+  "headline": "State Dept ISN list: two entries removed, Korea Tangun Trading Corp and General Bureau of Atomic Energy",
+  "what_changed": "The batch records two removals from the Nonproliferation Sanctions (ISN) list published by the State Department [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. One removal is the entry (Korea Tangun Trading Corp.) [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The other removal is the entry General Bureau of Atomic Energy [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Both removal records carry the same program tag and a Federal Register reference dated 09/16/2009 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state a reason for the removals or the date on which they took effect [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The removal records concern two listed entities [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. One is the entity (Korea Tangun Trading Corp.) [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The other is General Bureau of Atomic Energy [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source gives no addresses, entity identifiers or field changes for either entry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Nonproliferation Sanctions (ISN) list, State Department",
+   "E.O. 13382 (program tag on both entries)",
+   "Federal Register reference: Vol. 74, No. 178, 09/16/2009"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Licence posture is not stated in source for either entry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the State Department Nonproliferation Sanctions page and the cited Federal Register reference (Vol. 74, No. 178, 09/16/2009) for the basis and effective date of the removals; the source material does not state them.",
+   "Do not change screening status for these two entities on the basis of this record alone, because the source does not state whether other lists or programs still apply to them."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-2865dc77de72dac9",
+  "headline": "ISN list delta: Namchongang Trading Corporation recorded as removed from State Dept nonproliferation list",
+  "what_changed": "One entry, Namchongang Trading Corporation, is recorded as removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry carried a Federal Register reference of volume 74, number 137, dated 07/20/2009 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The delta record shows no address data and no field changes, and gives no reason for the removal [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The only entity named in the delta is Namchongang Trading Corporation [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record gives no entity_id, no addresses and no other affected parties [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382 (program tag on the removed entry)",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register volume 74, number 137, 07/20/2009 (reference on the removed entry)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Licence posture is not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The delta record contains no licensing requirement, presumption or exception [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the current State Department ISN list and the underlying Federal Register notice for the removal basis and effective date, which the delta record does not state.",
+   "Check whether any other list or screening tool you use still carries Namchongang Trading Corporation, since the source covers only the ISN list."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-c5efa2020596f55e",
+  "headline": "Two entries removed from State Department ISN Nonproliferation Sanctions list in one batch",
+  "what_changed": "Two entries, Mohsen Fakhrizadeh-Mahabadi and Yahya Rahim Safavi, were marked removed from the Nonproliferation Sanctions (ISN) - State Department list in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source gives no entity_id for either entry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The two individuals named above are the only entries marked removed in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source states no reason for the removals and no further identifying details [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382 (program tag on both removed entries)",
+   "Federal Register reference: Vol. 73, No. 140, 07/21/2008 (reference attached to both entries)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The batch states no licence requirement, licensing policy or licence exception [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check whether internal screening data reflects the removal of both entries from the State Department ISN list.",
+   "Obtain the underlying State Department or Federal Register notice before changing any screening or licensing decision, because this record states no basis for the removals."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-d7104e208d36e333",
+  "headline": "Defense Industries Organization removed from State Department ISN Nonproliferation Sanctions list",
+  "what_changed": "One entry, Defense Industries Organization, was removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry carried the program Executive Order 13382 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The removed entry is linked to a Federal Register reference of volume 72, number 63, dated 04/03/2007 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record shows no entity_id, no addresses and no field changes for the entry [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The record gives no removal date and no stated basis for the removal [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "Defense Industries Organization is the entity removed from the list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source identifies no other affected party [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "E.O. 13382 (program shown on the removed entry)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing requirement, licence policy or licence exception connected to the removal [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the current State Department ISN list entry status for Defense Industries Organization against the live list.",
+   "Retrieve the underlying Federal Register notice and any State Department notice of removal to establish the removal date and its stated basis, which this source does not give.",
+   "Review internal screening data for any remaining match to this entity name."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-b25a19847a0fde26",
+  "headline": "Two entries removed from State Dept ISN nonproliferation list: IRGC and Ministry of Defense and Armed Forces Logistics",
+  "what_changed": "Two entries were removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Both removed entries carry the same program tag and the same Federal Register reference, volume 72, issue 243, dated 12/19/2007 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source does not state a reason for the removals or whether the underlying designations were revoked [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The entities named in the removed entries are Islamic Revolutionary Guard Corps and Ministry of Defense and Armed Forces Logistics [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Entity identifiers are not stated in the source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register Vol. 72, No. 243, 12/19/2007 (reference carried on the removed entries)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Compare the current ISN list snapshot (snap-a142ef32eec48c67) against internal screening records for both entity names.",
+   "Confirm the status of both entities on other restricted-party lists separately, because the source covers only the ISN list.",
+   "Obtain the issuing authority's notice for the removals, because the source does not state a reason or effective date."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-02",
+  "archived_on": "2026-10-02",
+  "jurisdiction": "US",
+  "change_type": "List removal",
+  "id": "note-d6977643d6ea3e35",
+  "headline": "ISN list delta: seven entries removed, all tied to one Federal Register reference dated 07/01/2005",
+  "what_changed": "Seven entries are recorded as removed from the State Department Nonproliferation Sanctions (ISN) list between two snapshots [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source records no field changes and no addresses for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. Each removed entry carries the same Federal Register reference, dated 07/01/2005 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "who_is_affected": "The seven entries removed are Aerospace Industries Organization (AIO), Korea Mining Development Trading Corporation, Shahid Hemmat Industrial Group (SHIG), Scientific Studies and Research Center, Shahid Bakeri Industrial Group (SBIG), Korea Ryonbong General Corporation and Tanchon Commercial Bank [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]. The source gives no entity identifiers for these entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "instruments": [
+   "E.O. 13382 (program listed for all seven entries)",
+   "Federal Register reference: Vol. 70, No. 126, 07/01/2005",
+   "State Department Nonproliferation Sanctions (ISN) list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing requirement, licence policy or licence exception for the removed entries [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the removals against the current State Department ISN list and any other applicable restricted-party lists before changing screening outcomes.",
+   "Obtain the underlying notice or list publication, as the source contains only the snapshot comparison and no stated reason or effective date for the removals."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-a142ef32eec48c67]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-01",
   "archived_on": "2026-10-01",
   "jurisdiction": "US",
