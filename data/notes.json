@@ -1,5 +1,42 @@
 [
  {
+  "action_date": "2026-10-06",
+  "archived_on": "2026-10-06",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-bf337363b96591e5",
+  "headline": "OFAC SDN list: 125 entries removed in one batch, spanning SDNT, IRAQ2, VENEZUELA and BELARUS-EO14038 programmes",
+  "what_changed": "The delta for this batch records 125 removals from the Specially Designated Nationals (SDN) list and no additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. Only 25 of the 125 removed entries are itemised in the digest; the remaining 100 are truncated from it [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. Of the 25 itemised removals, 14 carry the SDNT programme tag, 9 carry IRAQ2, 1 carries VENEZUELA (GARCIA CARNEIRO, Jorge Luis) and 1 carries BELARUS-EO14038 (AURAMENKA, Aliaksei Mikalaevich) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. No Federal Register citation is given for any itemised removal (FR field shown as \"-\") [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. The batch also includes updates to 1,949 existing entries that are not listings or delistings [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617].",
+  "who_is_affected": "The persons and entities removed from the SDN list in this batch are affected, but only 25 of the 125 are identified in the digest (e.g. ACOSTA SERNA, Robinson Duvan, entity_id 11550; DURAND PROPERTIES LIMITED, entity_id 8359; ARAB PROJECTS COMPANY S.A. LTD., entity_id 8342) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. The identities of the other 100 removed entries are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, U.S. Treasury Department (list delta, snapshot snap-68f442f70affd617)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The material records list removals only and contains no licensing policy, licence requirement or licence exception [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]. Licence posture is not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Retrieve the full event record to identify the 100 removed entries truncated from the digest.",
+   "Check the removed entity_ids against your restricted-party screening data and customer or counterparty records.",
+   "Obtain the effective date and the basis for each removal from a primary source, as neither is stated in the digest."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-68f442f70affd617]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-02",
   "archived_on": "2026-10-02",
   "jurisdiction": "US",
