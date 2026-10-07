@@ -1,5 +1,680 @@
 [
  {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b9afc74b246c1120",
+  "headline": "State Dept INKSNA batch of 01/27/2026: five entries added to ACN list, same five removed from ISN list",
+  "what_changed": "The batch records 5 additions to the Nonproliferation Sanctions (ACN) - State Department list, all under the INKSNA program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The batch records 5 removals from the Nonproliferation Sanctions (ISN) - State Department list, covering the same five entries, all under INKSNA [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]. Each of the ten delta entries carries the same Federal Register reference, dated 01/27/2026 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state the reason for the removals or whether the ACN additions replace the ISN entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The five ACN additions are one UAE entity, one China entity, one Lebanon entity and one DPRK entity, each listed together with any successor, sub-unit, or subsidiary, plus one DPRK national listed under the name Ch'oe Ch'o'l-min (Choe Chol Min) [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The exact entry names as they appear in the source are reproduced in the action items [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "INKSNA (program tag on all ten delta entries)",
+   "Nonproliferation Sanctions (ACN) - State Department list",
+   "Nonproliferation Sanctions (ISN) - State Department list"
+  ],
+  "effective_dates": [
+   "not stated in source (Federal Register reference only: Vol. 91, No. 17, 01/27/2026)"
+  ],
+  "licence_posture": "The source does not state any licence requirement, presumption or exception for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Screen counterparties against these exact ACN entries as named in the source: International Biotechnology Services FZC (UAE); and any successor, sub-unit, or subsidiary thereof | Futech Co. Ltd (China); and any successor, sub-unit, or subsidiary thereof | Ch'oe Ch'o'l-min (Choe Chol Min) (DPRK national) | EXPTRANS GMBH S.A.R.L. (Lebanon); and any successor, sub-unit, or subsidiary thereof | Second Academy of Natural Science Foreign Affairs Bureau (SANS FAB) (DPRK); and any successor, sub-unit, or subsidiary thereof.",
+   "Check internal screening tools for both the ACN and ISN list labels, since the source shows the same five entries under both labels in one batch.",
+   "Obtain the full Federal Register notice text for the measures, scope and effective date, as none are stated in the source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-5d8e1d92ae358b34",
+  "headline": "State Dept INKSNA batch: 5 names added to ACN list, same 5 removed from ISN list (FR 11/29/2024)",
+  "what_changed": "The batch tied to the Federal Register reference Vol 89, No 230, 11/29/2024 records 5 additions to the list Nonproliferation Sanctions (ACN) - State Department [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The same batch records 5 removals from the list Nonproliferation Sanctions (ISN) - State Department [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The five names on the added side are the same five names on the removed side, and all ten entries carry the program INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity_id, address or field-level change for any entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+  "who_is_affected": "Kim Sang-ch'o'l (Kim Sang Chang Chol), described as a DPRK national, was added to the ACN list under INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. Ri Su'ung-ch'o'l (Ri Sung Chol), described as a DPRK national, was added to the ACN list under INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. Bearings on Lipetsk LLC, described as a Russian entity, and any successor, sub-unit, or subsidiary thereof, was added to the ACN list under INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. Igor Aleksandrovich Michurin, described as a Russian national, and any successor, sub-unit, or subsidiary thereof, was added to the ACN list under INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. Dandong Mason-Age Trade Co Ltd, described as a PRC entity, and any successor, sub-unit, or subsidiary thereof, was added to the ACN list under INKSNA [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The same five parties are listed as removed from the ISN list in this batch [CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+  "instruments": [
+   "INKSNA"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state a licence posture, licensing policy or licence exception for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the five named parties, including any successor, sub-unit or subsidiary where the entry so states, against customer and counterparty screening records.",
+   "Obtain the underlying Federal Register notice for Vol 89, No 230, 11/29/2024 to confirm the sanctions measures and effective dates, which this list delta does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-173d998ca6ff88a8",
+  "headline": "State Dept nonproliferation lists: Government of the Russian Federation added to ACN, removed from ISN (CBW Act)",
+  "what_changed": "The batch grouped under the Federal Register reference dated 03/18/2021 (volume 86, number 51) contains two deltas, one addition and one removal [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. An entry for Government of the Russian Federation was added to the Nonproliferation Sanctions (ACN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. An entry for Government of the Russian Federation was removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Both deltas carry the program label Chemical and Biological Weapons Control and Warfare Elimination Act (CBW Act) [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source does not state the reason for the paired addition and removal, whether the two deltas are related, or any change to the underlying measures [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The named entity is the Government of the Russian Federation, listed under the CBW Act program label [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The source identifies no other entities, addresses or entity identifiers in this batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Control and Warfare Elimination Act (CBW Act)",
+   "Nonproliferation Sanctions (ACN) - State Department",
+   "Nonproliferation Sanctions (ISN) - State Department",
+   "Federal Register reference Vol. 86, No. 51, 03/18/2021"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licence requirement, presumption of denial, case-by-case review or licence exception [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Consult the Federal Register document dated 03/18/2021 (volume 86, number 51) to establish the scope, effective date and any licensing consequences, since the list delta does not state them.",
+   "Check the current state of both the ACN and ISN State Department lists before relying on this delta."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-7cc45c75a376473c",
+  "headline": "State Dept lists: Li Shangfu and EDD added to ACN list, removed from ISN list (CAATSA Section 231)",
+  "what_changed": "The batch contains 4 deltas, made up of 2 additions and 2 removals [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. All four deltas carry the Federal Register reference volume 83, number 194, dated 10/05/2018 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Li Shangfu was added to the Nonproliferation Sanctions (ACN) list under CAATSA Section 231 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The Equipment Development Department of the Central Military Commission (EDD) was added to the Nonproliferation Sanctions (ACN) list under CAATSA Section 231 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Li Shangfu was removed from the Nonproliferation Sanctions (ISN) list under CAATSA Section 231 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]. The Equipment Development Department of the Central Military Commission (EDD) was removed from the Nonproliferation Sanctions (ISN) list under CAATSA Section 231 [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]. The source records no field changes and gives no reason for the additions and removals [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The two named parties are Li Shangfu and the Equipment Development Department of the Central Military Commission (EDD) [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source lists no addresses and no entity_id for either entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Countering Americas Adversaries Through Sanctions Act (CAATSA) Section 231",
+   "Federal Register volume 83, number 194, dated 10/05/2018 (reference attached to all four deltas)",
+   "State Department Nonproliferation Sanctions (ACN) list",
+   "State Department Nonproliferation Sanctions (ISN) list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence policy, presumption of denial, case-by-case review or licence exception for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check that internal screening covers the Nonproliferation Sanctions (ACN) list as well as the ISN list for Li Shangfu and EDD.",
+   "Obtain the underlying Federal Register text (volume 83, number 194, dated 10/05/2018) to confirm the scope of the measures, since the source does not state it."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-130582e54c792d83",
+  "headline": "State Dept nonproliferation lists: two names added to ACN list and the same two removed from ISN list",
+  "what_changed": "The batch contains four deltas, two additions and two removals, grouped under a single Federal Register reference [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. NEC Engineers Private, Ltd. and Hans Raj Shiv were each added to the Nonproliferation Sanctions (ACN) - State Department list under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The same two names were each removed from the Nonproliferation Sanctions (ISN) - State Department list under the same program [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source does not state a reason for the changes, any field changes, or any address for either entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The only entities named in the batch are NEC Engineers Private, Ltd. and Hans Raj Shiv, each listed under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The source gives no entity identifiers, addresses or nationalities for either entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program tag on all four deltas)",
+   "Nonproliferation Sanctions (ACN) - State Department (list receiving additions)",
+   "Nonproliferation Sanctions (ISN) - State Department (list from which entries were removed)",
+   "Federal Register reference: Vol. 68, No. 33, 02/19/2003"
+  ],
+  "effective_dates": [
+   "not stated in source (02/19/2003 appears only as part of the Federal Register reference Vol. 68, No. 33, 02/19/2003; the source does not identify it as an effective date)"
+  ],
+  "licence_posture": "Licence posture is not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The batch records list membership changes only and does not describe licensing requirements, presumptions or exceptions [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only; the source contains no foreign direct product rule, de minimis, transshipment or other extraterritorial mechanism.",
+  "action_items": [
+   "Check whether internal screening tools treat the ACN and ISN State Department lists as separate sources, so that the same two names are not dropped or double-counted after this change.",
+   "Confirm the current status of NEC Engineers Private, Ltd. and Hans Raj Shiv against the State Department page and the cited Federal Register reference before relying on this delta.",
+   "Obtain the underlying Federal Register text, since the source batch gives no scope, restrictions or dates."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-ba26c9d2e2e5293e",
+  "headline": "State Dept nonproliferation lists: China Precision Machinery Import-Export Corp. added to ACN, removed from ISN",
+  "what_changed": "The batch contains one addition to the Nonproliferation Sanctions (ACN) - State Department list and one removal from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The entity was added to the ACN list [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The entity was removed from the ISN list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. The source does not state a reason for the change between lists [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "who_is_affected": "The only entity named in the batch appears in both deltas (China Precision Machinery Import-Export Corp.) [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The source gives no addresses and no entity identifier for this entity [CSL:Nonproliferation Sanctions (ACN) - State Department:-].",
+  "instruments": [
+   "E.O. 12938 (programme tag on both deltas)",
+   "Federal Register reference: Vol. 68, No. 146, 07/30/2003",
+   "State Department Nonproliferation Sanctions (ACN) list",
+   "State Department Nonproliferation Sanctions (ISN) list"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing requirement, presumption or exception for the entity [CSL:Nonproliferation Sanctions (ACN) - State Department:-].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen the named entity against both State Department nonproliferation lists (ACN and ISN) as currently published.",
+   "Consult the Federal Register reference Vol. 68, No. 146, 07/30/2003 and the State Department source page for the underlying measure, its scope and any reason for the list change, none of which are stated in the source."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-2e6e0124a85357be",
+  "headline": "Q.C. Chen: added to State Dept ACN list and removed from ISN list in one batch (CBW Act programme)",
+  "what_changed": "The batch contains two deltas, one addition and one removal [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Q.C. Chen was added to the Nonproliferation Sanctions (ACN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. Q.C. Chen was removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Both deltas cite the Chemical and Biological Weapons Act programme and a Federal Register reference dated 07/25/2002 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state a reason for either delta, or whether the two deltas concern the same listing [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "Q.C. Chen is the only entity named in the batch, and the source gives no entity identifier, address or field changes for it [CSL:Nonproliferation Sanctions (ACN) - State Department:-].",
+  "instruments": [
+   "Chemical and Biological Weapons Act"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing requirement, presumption of denial, case-by-case policy or licence exception for this batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the 07/25/2002 Federal Register notice and the current State Department nonproliferation sanctions pages to confirm Q.C. Chen's status and which list(s) it appears on.",
+   "Screen counterparties against Q.C. Chen on both the ACN and ISN lists until the status is confirmed."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-4540dcda3450b661",
+  "headline": "State Dept nonproliferation lists: five parties added to ACN, removed from ISN (lethal military equipment program)",
+  "what_changed": "The batch records 5 additions to the Nonproliferation Sanctions (ACN) - State Department list and 5 removals from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The added entries are Zbynek Svejnoha, Alexander Petrenko, Agroplast, a.s., Uralsk Plant Metallist and Petr Pernicka [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The removed entries carry the same five names [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. All ten entries carry the program label Transfer of Lethal Military Equipment [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. All ten entries carry the same Federal Register reference, volume 64, number 240, dated 12/15/1999 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity IDs, addresses or field changes for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state the reason for the simultaneous additions to the ACN list and removals from the ISN list [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The listed parties are Zbynek Svejnoha, Alexander Petrenko, Agroplast, a.s., Uralsk Plant Metallist and Petr Pernicka [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no nationality, address or other identifying detail for any of them [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Nonproliferation Sanctions (ACN) - State Department list",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register volume 64, number 240, 12/15/1999 (reference only; text not provided)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The licence posture is not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The record gives only the program label Transfer of Lethal Military Equipment and no licensing standard, exception or restriction text [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only; the source contains no foreign direct product rule, de minimis or transshipment provision linking this batch to EU exporters.",
+  "action_items": [
+   "Check internal restricted-party screening records for the five named parties against both the ACN and ISN State Department lists.",
+   "Obtain the Federal Register text for volume 64, number 240, 12/15/1999 to establish the sanctions terms, since the source provided here contains only list-delta records."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-503a095e13af0431",
+  "headline": "State Dept nonproliferation lists: Berge Aris Balanian added to ACN list, removed from ISN list",
+  "what_changed": "The batch records one addition of Berge Aris Balanian to the list 'Nonproliferation Sanctions (ACN) - State Department', under the program 'Chemical and Biological Weapons Act' [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The batch records one removal of the same name from the list 'Nonproliferation Sanctions (ISN) - State Department', under the same program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Both entries carry the same Federal Register reference, volume 63, number 35, dated 02/23/1998 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source records no field changes and no addresses for either entry, and states no reason for the change [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The only named party is Berge Aris Balanian, listed under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity_id, address, nationality or other identifying detail for this party [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program label on both entries)",
+   "Federal Register reference dated 02/23/1998 (volume 63, number 35)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing posture, licence exception or licensing policy for this entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the State Department Nonproliferation Sanctions page and the cited Federal Register notice for the entry's current status, the measures that apply and any effective date.",
+   "Confirm whether the ACN addition and the ISN removal reflect a move between lists or two separate status changes; the source does not say."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-5f72f706a0da96d9",
+  "headline": "State Dept nonproliferation lists: six names added to ACN and the same six removed from ISN",
+  "what_changed": "The batch tied to the Federal Register reference dated 05/22/1997 (Volume 62, Number 99) contains 12 deltas, made up of 6 additions and 6 removals [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Six names were added to the Nonproliferation Sanctions (ACN) list under the Chemical and Biological Weapons Act: Tian Yi, Pan Yongming, Liao Minglong, Chen Qingchang, Shao Xingsheng and Cheong Yee Limited [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The same six names were removed from the Nonproliferation Sanctions (ISN) list under the same program [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]. The source does not state whether the paired additions and removals reflect a list restructuring or a change in sanctions status [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The named parties are Tian Yi, Pan Yongming, Liao Minglong, Chen Qingchang, Shao Xingsheng and Cheong Yee Limited [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity IDs, addresses, nationalities or other identifiers for these parties [CSL:Nonproliferation Sanctions (ACN) - State Department:-].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program tag on all 12 deltas)",
+   "Nonproliferation Sanctions (ACN) - State Department",
+   "Nonproliferation Sanctions (ISN) - State Department"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence requirement, licensing policy, presumption of denial or licence exception for this batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the six names against both the ACN and ISN lists in current screening data, since the source records them as added to ACN and removed from ISN.",
+   "Obtain the Federal Register text of the 05/22/1997 reference and the State Department page to establish the measures that apply, their scope and their effective date, none of which the source states."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b776d66b2ed7dd4d",
+  "headline": "State Dept nonproliferation lists: 3 entities added to ACN, same 3 removed from ISN (CBW Act, FR 03/10/1995)",
+  "what_changed": "Three entities, Mainway International, Asian Ways Limited and World Co Ltd, were added to the Nonproliferation Sanctions (ACN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The same three entities were removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]. Each of the six delta records names the Chemical and Biological Weapons Act as the program and records no address or field-level changes [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The batch is grouped under a single Federal Register reference dated 03/10/1995 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state whether the ISN removals and ACN additions reflect a list transfer or a change in status [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The entities named in the delta are Mainway International, Asian Ways Limited and World Co Ltd [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Their addresses, countries and entity identifiers are not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program named in the delta records)",
+   "Nonproliferation Sanctions (ACN) - State Department (list)",
+   "Nonproliferation Sanctions (ISN) - State Department (list)",
+   "Federal Register reference: Vol. 60, No. 47, 03/10/1995"
+  ],
+  "effective_dates": [
+   "03/10/1995 (date within the cited Federal Register reference Vol. 60, No. 47; no effective date is otherwise stated in source)"
+  ],
+  "licence_posture": "Licence requirements, presumptions or restrictions attached to these listings are not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check customer, supplier and intermediary records for Mainway International, Asian Ways Limited and World Co Ltd.",
+   "Consult the cited Federal Register reference (Vol. 60, No. 47, 03/10/1995) and the State Department page for the measures attached to the listings, which the source does not state.",
+   "Confirm against the ACN and ISN lists whether the entities remain listed on either, since the delta shows ACN additions and ISN removals."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b836162f04f7f716",
+  "headline": "State Dept nonproliferation lists: GE Plan, Mainway Limited added to ACN, removed from ISN (CBW Act)",
+  "what_changed": "The batch tied to the Federal Register reference volume 60, number 109, dated 06/07/1995 contains four deltas: two additions and two removals [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. GE Plan and Mainway Limited were each added to the Nonproliferation Sanctions (ACN) - State Department list under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. GE Plan and Mainway Limited were each removed from the Nonproliferation Sanctions (ISN) - State Department list under the same program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state the reason for the additions and removals, and records no field changes or addresses for either entity [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The entities named in the deltas are GE Plan and Mainway Limited, both recorded under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity_id, address or nationality for either entity [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act",
+   "Nonproliferation Sanctions (ACN) - State Department",
+   "Nonproliferation Sanctions (ISN) - State Department",
+   "Federal Register reference: volume 60, number 109, 06/07/1995"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing requirement, presumption of denial, case-by-case review or licence exception [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check the full text of the cited Federal Register reference (volume 60, number 109, 06/07/1995) for the sanctions terms, scope and effective date, which the source does not state.",
+   "Check whether counterparties match GE Plan or Mainway Limited; the source gives no identifiers or addresses to support matching."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-6e3f0e997d064ba1",
+  "headline": "State Dept nonproliferation lists: Felber and Moscatelli added to ACN list, removed from ISN list",
+  "what_changed": "Manfred Felber and Luciano Moscatelli were added to the Nonproliferation Sanctions (ACN) - State Department list [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Entries for the same two names were removed from the Nonproliferation Sanctions (ISN) - State Department list in the same batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. All four deltas cite the Chemical and Biological Weapons Act program and the Federal Register issue dated 12/21/1994 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source gives no entity_id, address or field-level change for any of the four entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The two named individuals, Manfred Felber and Luciano Moscatelli, are the only parties named in the batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source states no nationality, address or affiliation for either individual [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program named in source)",
+   "Nonproliferation Sanctions (ACN) - State Department list",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register reference: volume 59, issue 244, 12/21/1994"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licence requirement, licence policy or licence exception for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check whether the two names appear in internal restricted-party screening records and which State Department list they are mapped to.",
+   "Obtain the cited Federal Register issue (volume 59, issue 244, 12/21/1994) to establish the scope and terms of the measures, which the source does not state.",
+   "Confirm with the list publisher whether the ACN addition and ISN removal reflect a list re-mapping or a change in status, since the source does not say."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-e19ed85ddbbe5e86",
+  "headline": "State Dept nonproliferation lists: Loop SA and CDM Engineering added to ACN list, removed from ISN list",
+  "what_changed": "The batch contains four deltas, two additions and two removals [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Loop SA and CDM Engineering are each recorded as added to the Nonproliferation Sanctions (ACN) - State Department list under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. Loop SA and CDM Engineering are each recorded as removed from the Nonproliferation Sanctions (ISN) - State Department list under the same program [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source records no address data, no entity identifiers and no field changes for these entries, and it gives no reason for the movement between lists [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "Loop SA is recorded as added to the ACN list and removed from the ISN list, and its entity_id is not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. CDM Engineering is recorded as added to the ACN list and removed from the ISN list, and its entity_id is not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act (program tag on all four deltas)",
+   "Nonproliferation Sanctions (ACN) - State Department list",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Federal Register reference: Vol. 59, No. 230, 12/01/1994"
+  ],
+  "effective_dates": [
+   "not stated in source (12/01/1994 appears only as part of the Federal Register reference, not as an effective date)"
+  ],
+  "licence_posture": "The source states no licensing policy, presumption of denial, case-by-case review or licence exception for these entries [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check whether any counterparty is named Loop SA or CDM Engineering and record the list-status change in screening records.",
+   "Obtain the underlying Federal Register notice and State Department list text to establish the restrictions that attach to each list, since the source does not state them.",
+   "Confirm with the screening-data provider whether the ACN and ISN entries are intended to be the same listing, since the source gives no reason for the movement."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-eb15c6030b69f218",
+  "headline": "Alberto Di Salle recorded as added to State Dept ACN list and removed from ISN list (CBW Act program)",
+  "what_changed": "One entry, Alberto Di Salle, is recorded as added to the Nonproliferation Sanctions (ACN) - State Department list under the Chemical and Biological Weapons Act program [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. An entry with the same name and program is recorded as removed from the Nonproliferation Sanctions (ISN) - State Department list [CSL:Nonproliferation Sanctions (ISN) - State Department:-]. Both deltas carry the same Federal Register reference (volume 59, number 165, dated 08/26/1994) and fall in one batch containing one added and one removed entry [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source does not state the reason for either delta or whether the two reflect a transfer between lists [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The named party is Alberto Di Salle, and the source gives no addresses, entity_id or nationality for this party [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The same name is the subject of the removal recorded on the ISN list [CSL:Nonproliferation Sanctions (ISN) - State Department:-].",
+  "instruments": [
+   "Nonproliferation Sanctions (ACN) - State Department list",
+   "Nonproliferation Sanctions (ISN) - State Department list",
+   "Chemical and Biological Weapons Act (program tag)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licence requirement, presumption of denial, case-by-case review or licence exception for the named party [CSL:Nonproliferation Sanctions (ACN) - State Department:-]. The source does not describe the measures attached to the Chemical and Biological Weapons Act program tag [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Check whether any counterparty is named Alberto Di Salle and compare against the full ACN and ISN list entries, since the source gives no identifiers.",
+   "Obtain the underlying Federal Register notice and State Department list text to establish the scope and effect of the listing, which the source does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   },
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ISN) - State Department:-]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-10-07",
+  "archived_on": "2026-10-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-13fe241334aee6d0",
+  "headline": "State Dept nonproliferation lists: 3 entries added to ACN, same 3 removed from ISN (incl. Europol Holding, Ltd.)",
+  "what_changed": "Three entries were added to the Nonproliferation Sanctions (ACN) - State Department list in a single delta batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The same three entries were removed from the Nonproliferation Sanctions (ISN) - State Department list in that batch [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The batch is grouped under a Federal Register reference of volume 59, number 153, dated 08/10/1994 [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The program shown for all six deltas is the Chemical and Biological Weapons Act [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]. The source shows no field changes, no addresses and no entity identifiers for these deltas [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "who_is_affected": "The entries affected are Europol Holding, Ltd., Nahum Manbar and Mana International Investments [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "instruments": [
+   "Chemical and Biological Weapons Act"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Licence posture is not stated in source [CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Nonproliferation Sanctions (ACN) - State Department:snap-39962cd07b38b035]",
+    "url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-06",
   "archived_on": "2026-10-06",
   "jurisdiction": "US",
