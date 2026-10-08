@@ -1,5 +1,64 @@
 [
  {
+  "action_date": "2026-10-08",
+  "archived_on": "2026-10-08",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b91137a656c128db",
+  "headline": "SDN list batch adds 55 entries and removes 2; visible additions carry IRAN-EO13846 or IRAN-EO13902 tags",
+  "what_changed": "The batch adds 55 entries to the Specially Designated Nationals (SDN) list and removes 2 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]. Of the 55 additions, 25 are visible in the digest and 30 are truncated, so their details are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]. The 25 visible additions carry the program tags IRAN-EO13846 or IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]. The two removals are HAKUNA MATATA, tagged IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:54931], and PINOCCHIO, tagged IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:54934]. Separately, 3255 existing entries were updated with identifier or field edits and no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd].",
+  "who_is_affected": "The 55 added entries are now listed on the SDN list under the program tags shown in the digest [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]. Of these, only 25 are visible in the digest, and the identities and program tags of the other 30 are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]. Visible additions include individuals such as VORA, Dhwani Nisarg, tagged IRAN-EO13846 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58728]. Visible additions also include entities such as HORIZON SHIP MANAGEMENT FZE, tagged IRAN-EO13846 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58716]. Other visible additions include HECHUANG INTERNATIONAL GROUP LIMITED, tagged IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58466]. The two removed entries, HAKUNA MATATA and PINOCCHIO, no longer appear as listed in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list - Treasury Department (list delta)",
+   "Program tag: IRAN-EO13846",
+   "Program tag: IRAN-EO13902"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing policy, licence exception or general licence for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd].",
+  "relevance_eu_exporters": "Indirect only; the source cites no foreign direct product rule, de minimis, transshipment or other mechanism connecting these listings to EU exporters.",
+  "action_items": [
+   "Obtain the full event record, since 30 of the 55 additions are truncated from the digest.",
+   "Screen counterparties against all 55 additions and 2 removals once the full set is available.",
+   "Check the Federal Register or Treasury notice for effective dates and licensing terms, since the source gives no FR citation (FR: -) and no dates."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-61772ebafa905cdd]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58728]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58728"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58716]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58716"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58466]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58466"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:54931]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=54931"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:54934]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=54934"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-07",
   "archived_on": "2026-10-07",
   "jurisdiction": "US",
