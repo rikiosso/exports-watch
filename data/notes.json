@@ -1,5 +1,50 @@
 [
  {
+  "action_date": "2026-10-09",
+  "archived_on": "2026-10-09",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-4afbdbc118918fdf",
+  "headline": "OFAC SDN list: International Criminal Court added (ICC-EO14203); one BURMA-EO14014 entry removed",
+  "what_changed": "One entry was added to the SDN list: INTERNATIONAL CRIMINAL COURT, program ICC-EO14203 [CSL:Specially Designated Nationals (SDN) - Treasury Department:58601]. One entry was removed: HTET, Theint Win, program BURMA-EO14014 [CSL:Specially Designated Nationals (SDN) - Treasury Department:47354]. The batch also records identifier or field edits to 1486 existing entries, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4790ea47ae6f0b8f].",
+  "who_is_affected": "The added party is INTERNATIONAL CRIMINAL COURT [CSL:Specially Designated Nationals (SDN) - Treasury Department:58601]. The removed party is HTET, Theint Win [CSL:Specially Designated Nationals (SDN) - Treasury Department:47354]. Other affected parties are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4790ea47ae6f0b8f].",
+  "instruments": [
+   "ICC-EO14203 (program tag on entity 58601)",
+   "BURMA-EO14014 (program tag on entity 47354)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing policy, licence exception or general licence for this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4790ea47ae6f0b8f].",
+  "relevance_eu_exporters": "indirect only; the source contains no foreign direct product rule, de minimis, transshipment or other mechanism connecting this batch to EU exporters [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4790ea47ae6f0b8f].",
+  "action_items": [
+   "Update restricted-party screening data to reflect the addition of entity 58601 and the removal of entity 47354.",
+   "Obtain the underlying Federal Register or OFAC notice, which is not provided in the source (FR reference shown as '-'), to confirm the effective date and the scope of the ICC-EO14203 designation."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58601]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58601"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:47354]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=47354"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4790ea47ae6f0b8f]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-08",
   "archived_on": "2026-10-08",
   "jurisdiction": "US",
