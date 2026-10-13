@@ -1,5 +1,62 @@
 [
  {
+  "action_date": "2026-10-13",
+  "archived_on": "2026-10-13",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-9c5dc1dbbfcd9920",
+  "headline": "US Treasury SDN list adds 15 entries under ILLICIT-DRUGS-EO14059 and SDGT programme tags",
+  "what_changed": "The SDN list batch records 15 additions and no removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf]. Thirteen of the added entries carry both the ILLICIT-DRUGS-EO14059 and SDGT programme tags [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf]. Two added entries carry only the ILLICIT-DRUGS-EO14059 tag [CSL:Specially Designated Nationals (SDN) - Treasury Department:58416] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58417]. The entries have no Federal Register reference recorded (FR field shows '-') [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf]. Separately, 2286 existing entries were updated with identifier or field edits, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf].",
+  "who_is_affected": "The affected parties are the 15 added entries, whose entity IDs run from 58416 to 58430 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf]. Four entries are recorded in surname, given-name format: GARZA GARCIA, Gamaliel; GUAJARDO ALVAREZ, Pablo Cesar; INZUNZA PARTIDA, Francisco Javier; and GARZA ELIAS, Gamaliel [CSL:Specially Designated Nationals (SDN) - Treasury Department:58419] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58424] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58417] [CSL:Specially Designated Nationals (SDN) - Treasury Department:58420]. The source gives no entity type, address, nationality or other description for any of the 15 entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf].",
+  "instruments": [
+   "SDN list additions (CSL snapshot snap-6cc249e28f0a62bf)",
+   "Programme tag: ILLICIT-DRUGS-EO14059",
+   "Programme tag: SDGT"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source gives only programme tags for each entry and states no licensing policy, general licence or exception [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf].",
+  "relevance_eu_exporters": "not stated in source",
+  "action_items": [
+   "Obtain the underlying Treasury designation notice, since the source gives no Federal Register reference, effective date, entity descriptions or licensing terms."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-6cc249e28f0a62bf]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58416]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58416"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58417]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58417"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58419]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58419"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58420]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58420"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58424]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58424"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-09",
   "archived_on": "2026-10-09",
   "jurisdiction": "US",
