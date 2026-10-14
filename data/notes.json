@@ -1,5 +1,46 @@
 [
  {
+  "action_date": "2026-10-14",
+  "archived_on": "2026-10-14",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-dc3e0348f4f01599",
+  "headline": "US Treasury SDN list: RODRIGUEZ GOMEZ, Jorge Jesus (VENEZUELA program) removed",
+  "what_changed": "One entry was removed from the Specially Designated Nationals (SDN) list: RODRIGUEZ GOMEZ, Jorge Jesus (entity_id 25078; programs: VENEZUELA; FR citation: none given) [CSL:Specially Designated Nationals (SDN) - Treasury Department:25078]. The batch also records updates to 1005 existing entries, described as identifier or field edits with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a960ed8b8fb19d6b].",
+  "who_is_affected": "The individual RODRIGUEZ GOMEZ, Jorge Jesus, previously listed under the VENEZUELA program, is the only person or entity whose list status changed in this batch [CSL:Specially Designated Nationals (SDN) - Treasury Department:25078].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department (program: VENEZUELA)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source: the record contains no licensing policy, general licence or licence exception relating to this removal [CSL:Specially Designated Nationals (SDN) - Treasury Department:25078].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Update restricted-party screening data to reflect the removal of entity_id 25078 from the SDN list.",
+   "Review any open screening alerts or held transactions that matched this entry.",
+   "Obtain the underlying Treasury notice, since the source gives no Federal Register citation, rationale or effective date for the removal."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:25078]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=25078"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-a960ed8b8fb19d6b]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-13",
   "archived_on": "2026-10-13",
   "jurisdiction": "US",
