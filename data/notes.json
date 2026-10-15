@@ -1,5 +1,64 @@
 [
  {
+  "action_date": "2026-10-15",
+  "archived_on": "2026-10-15",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-70454e1d0b45b957",
+  "headline": "OFAC adds 27 SDN entries, 24 shown under IRAN-EO13902 and 1 under CUBA-EO14404; 2 entries not visible in digest",
+  "what_changed": "The delta counts for the SDN list record 27 additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. The delta counts list no removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. The digest displays 25 of the 27 additions and truncates 2 further additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. Of the 25 displayed entries, 24 carry the program tag IRAN-EO13902 and 1 carries the program tag CUBA-EO14404 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. A further 2203 existing entries were updated without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2].",
+  "who_is_affected": "The IRAN-EO13902 additions include the exchange companies BAVI AND PARTNERS EXCHANGE COMPANY and ABOLHASAN JALALI AND PARTNERS EXCHANGE COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58939]. The IRAN-EO13902 additions also include CHABAHAR INTERNATIONAL BANK OVERSEAS COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58954]. They also include JAZIREH INTERNATIONAL BANK COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:58953]. They also include INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE [CSL:Specially Designated Nationals (SDN) - Treasury Department:58571]. The remaining displayed IRAN-EO13902 additions are individuals and companies, listed in the source by name and entity_id only [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. The CUBA-EO14404 addition is BANCO INTERNACIONAL DE COMERCIO [CSL:Specially Designated Nationals (SDN) - Treasury Department:58997]. Nationality, address and designation basis are not stated in the source for any entry [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department",
+   "IRAN-EO13902 program tag",
+   "CUBA-EO14404 program tag"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source records list additions and program tags only [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]. It states no licensing policy, general licence or licence exception for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Obtain the full event record to identify the 2 additions truncated from the digest.",
+   "Screen customers, counterparties and banking intermediaries against the 27 added entity_ids.",
+   "Consult the underlying Federal Register or Treasury notice for designation basis and effective dates, which the source does not state."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-b21f0ecbe9c786b2]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58939]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58939"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58954]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58954"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58953]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58953"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58571]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58571"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58997]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58997"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-14",
   "archived_on": "2026-10-14",
   "jurisdiction": "US",
