@@ -1,5 +1,62 @@
 [
  {
+  "action_date": "2026-10-19",
+  "archived_on": "2026-10-19",
+  "jurisdiction": "US",
+  "change_type": "List addition",
+  "id": "note-7f3d8abf9c540c1e",
+  "headline": "Treasury NS-MBS List adds five entities under program code PAIPA",
+  "what_changed": "Five entries were added to the Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department, each under the program code PAIPA [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d]. Qiji Chuangtan Beijing Investment Management Co Ltd was added [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58455]. Beijing Qiji Chuangtan Phase I Venture Capital Center Limited Partnership was added [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58456]. Beijing Qiji Chuangtan Phase II Venture Capital Center Limited Partnership was added [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58457]. Beijing Qiji Chuangtan Zhiyuan Enterprise Management Center Limited Partnership was added [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58458]. Shanghai Zhisuan Technology Co Ltd was added [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58459]. No Federal Register reference is given for any of the five entries [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d].",
+  "who_is_affected": "The persons affected are the five added entries, identified in the source by name, entity_id and program code only [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d]. Entity 58455 is Qiji Chuangtan Beijing Investment Management Co Ltd [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58455]. Entity 58456 is Beijing Qiji Chuangtan Phase I Venture Capital Center Limited Partnership [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58456]. Entity 58457 is Beijing Qiji Chuangtan Phase II Venture Capital Center Limited Partnership [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58457]. Entity 58458 is Beijing Qiji Chuangtan Zhiyuan Enterprise Management Center Limited Partnership [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58458]. Entity 59459 is not in the batch; entity 58459 is Shanghai Zhisuan Technology Co Ltd [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58459]. The source does not state the country, addresses, ownership or relationships of these entries [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d].",
+  "instruments": [
+   "Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department, program code PAIPA"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing requirement, licence exception, review policy, or the meaning of program code PAIPA for these entries [CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d].",
+  "relevance_eu_exporters": "indirect only; the source identifies no foreign direct product rule, de minimis, transshipment or other mechanism linking these entries to EU exporters.",
+  "action_items": [
+   "Screen counterparties and ownership chains against the five added entity names and entity_ids (58455, 58456, 58457, 58458, 58459).",
+   "Retrieve the primary Treasury publication for program code PAIPA to establish the restrictions that apply to these entries, as the source does not state them.",
+   "Confirm the effective date and any address or country identifiers from the primary list entries, as the source does not state them."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:snap-b61a1d7acc314a4d]",
+    "url": "https://ofac.treasury.gov/other-ofac-sanctions-lists"
+   },
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58455]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58455"
+   },
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58456]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58456"
+   },
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58457]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58457"
+   },
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58458]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58458"
+   },
+   {
+    "pinpoint": "[CSL:Non-SDN Menu-Based Sanctions List (NS-MBS List) - Treasury Department:58459]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58459"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-15",
   "archived_on": "2026-10-15",
   "jurisdiction": "US",
