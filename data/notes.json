@@ -1,5 +1,79 @@
 [
  {
+  "action_date": "2026-10-27",
+  "archived_on": "2026-10-27",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-0208f1690eb60d62",
+  "headline": "BIS renews Mahan Airways temporary denial order for one year (FR Doc. 2026-21840)",
+  "what_changed": "BIS, through the Assistant Secretary of Commerce for Export Enforcement, granted the Office of Export Enforcement's request to renew the temporary denial order (TDO) first signed on March 17, 2008 and most recently renewed on October 27, 2025 [FR Doc. 2026-21840, Preamble and Section I]. The order describes the renewal as 'as modified', but the source text does not itemise the modifications [FR Doc. 2026-21840, Preamble]. The renewal rests on a finding that Mahan Airways has engaged in a pattern of repeated, ongoing and/or continuous apparent violations of the EAR, and it remains in effect for one year [FR Doc. 2026-21840, Preamble and Section III]. OEE's written renewal request of September 8, 2026 was made more than 20 days before the scheduled expiration, and no opposition to the renewal was received [FR Doc. 2026-21840, Section I]. The request cites three of the five Boeing 777-212ER aircraft identified in the October 27, 2025 renewal order as now bearing Iranian tail numbers EP-MTE (MSN 33369), EP-MTB (MSN 28527) and EP-MTA (MSN 28522), and as flying Mahan routes to and from destinations including Moscow, Beijing and Muscat [FR Doc. 2026-21840, Section II.B]. The order also cites OFAC designations of July 30, 2026 (parties in China, India and Russia) and September 8, 2026 (entities in the UAE, Turkey and Malaysia) for material support to Mahan Air [FR Doc. 2026-21840, Section II.B]. The Assistant Secretary finds that the denied persons' violations have been significant, deliberate and covert, and that there is a likelihood of imminent violations [FR Doc. 2026-21840, Section II.C]. The order bars the Denied Persons from participating, directly or indirectly, in any transaction involving items exported or to be exported from the United States that are subject to the EAR, or in any other activity subject to the EAR [FR Doc. 2026-21840, Section III, First]. It also bars any person from exporting, reexporting or transferring (in-country) any item subject to the EAR to or on behalf of a Denied Person, and from facilitating, financing, acquiring or servicing items as set out in paragraphs A to E [FR Doc. 2026-21840, Section III, Second]. The order does not prohibit transactions where the only items subject to the EAR are the foreign-produced direct product of U.S.-origin technology [FR Doc. 2026-21840, Section III, Fourth].",
+  "who_is_affected": "The named respondents, who may oppose renewal requests, are Mahan Airways, Al Naser Airlines, Ali Abdullah Alhay and Bahar Safwa General Trading [FR Doc. 2026-21840, Section III, closing paragraphs]. The named related persons, who may appeal their inclusion but not oppose the underlying order, are Pejman Mahmood Kosarayanifard (a/k/a Kosarian Fard), Mahmoud Amini, Kerman Aviation, Sirjanco Trading LLC, Mahan Air General Trading LLC, Mehdi Bahrami, Sky Blue Bird Group and Issam Shammout [FR Doc. 2026-21840, Section III, closing paragraphs]. Listed addresses are in Iran, the United Arab Emirates, France (Kerman Aviation, 42 Avenue Montaigne, 75008 Paris), Turkey, Iraq, Jordan, Saudi Arabia, Syria, Lebanon and the United Kingdom [FR Doc. 2026-21840, Section III, First]. The Second paragraph of the order applies to 'no person', so its prohibitions are not limited to the Denied Persons [FR Doc. 2026-21840, Section III, Second]. The order states its purpose includes giving notice to companies and individuals in the United States and abroad to continue to avoid dealing with Mahan Airways, Al Naser Airlines and the other denied persons in connection with items and activities subject to the EAR [FR Doc. 2026-21840, Section II.C]. Further related persons may be added after notice and opportunity for comment under section 766.23 of the EAR [FR Doc. 2026-21840, Section III, Third].",
+  "instruments": [
+   "Temporary denial order renewal under 15 CFR 766.24(d)",
+   "Export Administration Regulations, 15 CFR parts 730-774",
+   "Export Control Reform Act of 2018, 50 U.S.C. 4820(a)(5)"
+  ],
+  "effective_dates": [
+   "This Order is effective immediately and shall remain in effect for one year.",
+   "Dated: October 22, 2026",
+   "Federal Register publication date: October 27, 2026 (91 FR 67542)"
+  ],
+  "licence_posture": "The order bars the Denied Persons from applying for, obtaining or using any licence, licence exception or export control document [FR Doc. 2026-21840, Section III, First, A]. The order states that the TDO prohibits Mahan from being eligible to use licence exception Aircraft, Vessels, and Spacecraft (AVS) under Section 740.15 of the EAR [FR Doc. 2026-21840, Section II.B, n.56]. The order states no licensing policy (such as presumption of denial or case-by-case review) for transactions with the Denied Persons [FR Doc. 2026-21840, Section III].",
+  "relevance_eu_exporters": "The Second paragraph of the order prohibits 'any person' from exporting, reexporting or transferring (in-country) any item subject to the EAR to or on behalf of a Denied Person, which is the mechanism by which the order reaches non-U.S. persons [FR Doc. 2026-21840, Section III, Second]. One related person, Kerman Aviation (a/k/a GIE Kerman Aviation), has a listed address in Paris, France [FR Doc. 2026-21840, Section III, First]. The order states that the Airbus A340 aircraft it discusses are powered by U.S.-origin engines and contain controlled U.S.-origin items valued at more than 10 percent of the total aircraft value, and as a result are subject to the EAR regardless of their location [FR Doc. 2026-21840, Section II.B, n.28]. It makes a similar statement for a BAE Avro RJ-85, which it says is subject to the EAR regardless of its location [FR Doc. 2026-21840, Section II.B, n.30]. For two BAE regional jets it states that they are powered by U.S.-origin engines, contain controlled U.S.-origin items valued at more than 10 percent of the total aircraft value, and as a result are subject to the EAR [FR Doc. 2026-21840, Section II.B, n.21]. The order excludes transactions where the only items subject to the EAR are the foreign-produced direct product of U.S.-origin technology [FR Doc. 2026-21840, Section III, Fourth]. Whether any particular EU transaction involves items subject to the EAR is not stated in source [FR Doc. 2026-21840, Section III].",
+  "action_items": [
+   "Screen counterparties, agents and freight forwarders against the Denied Persons and related persons named in the order, including all listed aliases and addresses.",
+   "Determine whether items, including aircraft parts and servicing inputs, are subject to the EAR before any dealing involving Mahan Airways or the other named parties.",
+   "Review aircraft-related transactions involving Mahan-linked aircraft for items subject to the EAR, including the order's statements on U.S.-origin engines and content valued at more than 10 percent of the aircraft.",
+   "Note that the order states it is effective immediately and remains in effect for one year; the source does not state the date from which the one-year period runs."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-21840, Preamble",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section I",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.B",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.B, n.21",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.B, n.28",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.B, n.30",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.B, n.56",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section II.C",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-21840, Section III, First to Fourth and closing paragraphs",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-21",
   "archived_on": "2026-10-21",
   "jurisdiction": "US",
