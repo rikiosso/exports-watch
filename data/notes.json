@@ -1,5 +1,94 @@
 [
  {
+  "action_date": "2026-10-28",
+  "archived_on": "2026-10-28",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-7c45df49d776b05b",
+  "headline": "SDN list adds 13 entries: Rwanda's Ministry of Defence, Zigama, and 11 DPRK-tagged entries",
+  "what_changed": "The Specially Designated Nationals (SDN) - Treasury Department list recorded 13 additions in this batch, and 3400 existing entries were edited without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-040ebc6e8992fcc0]. Two additions carry the DRCONGO program tag: the Ministry of Defence of the Republic of Rwanda and Zigama Credit and Savings Society [CSL:Specially Designated Nationals (SDN) - Treasury Department:59069][CSL:Specially Designated Nationals (SDN) - Treasury Department:58407]. Seven additions carry the DPRK3 tag: RI, Thae Chol; HAN, Yu Song; HYON, Se Il; KIM, Sung Gwan; SO, Hyong Jin; KIM, Kyong Ju; and First Financial and Technical Development Center [CSL:Specially Designated Nationals (SDN) - Treasury Department:58881][CSL:Specially Designated Nationals (SDN) - Treasury Department:58883][CSL:Specially Designated Nationals (SDN) - Treasury Department:58885][CSL:Specially Designated Nationals (SDN) - Treasury Department:58884][CSL:Specially Designated Nationals (SDN) - Treasury Department:58882][CSL:Specially Designated Nationals (SDN) - Treasury Department:58880][CSL:Specially Designated Nationals (SDN) - Treasury Department:58879]. Four additions carry the DPRK2 tag: KIM, Ki Hyok; KIM, Hyo Dong; OBERTAS, Vitold Viktorovich; and BOYKOV, Ilya Aleksandrovich [CSL:Specially Designated Nationals (SDN) - Treasury Department:58887][CSL:Specially Designated Nationals (SDN) - Treasury Department:58888][CSL:Specially Designated Nationals (SDN) - Treasury Department:58889][CSL:Specially Designated Nationals (SDN) - Treasury Department:58886].",
+  "who_is_affected": "By name, the 13 added entries comprise the Ministry of Defence of the Republic of Rwanda, Zigama Credit and Savings Society, First Financial and Technical Development Center, and ten named individuals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-040ebc6e8992fcc0]. The Ministry of Defence of the Republic of Rwanda and Zigama Credit and Savings Society are tagged DRCONGO [CSL:Specially Designated Nationals (SDN) - Treasury Department:59069][CSL:Specially Designated Nationals (SDN) - Treasury Department:58407]. The source gives no addresses, nationalities or ownership details for any entry [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-040ebc6e8992fcc0].",
+  "instruments": [
+   "SDN List additions (Consolidated Screening List delta)",
+   "Program tags as listed: DRCONGO, DPRK2, DPRK3"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-040ebc6e8992fcc0].",
+  "relevance_eu_exporters": "Indirect only. The source cites no foreign direct product rule, de minimis provision, transshipment provision or other extraterritorial mechanism, and gives no Federal Register reference for these entries.",
+  "action_items": [
+   "Screen counterparties and ownership chains against the 13 added entity_ids: 59069, 58407, 58879, 58880, 58881, 58882, 58883, 58884, 58885, 58886, 58887, 58888, 58889.",
+   "Obtain the underlying Treasury designation notice, which is not in the source, to confirm the legal basis, effective date, identifiers and any licensing terms."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-040ebc6e8992fcc0]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59069]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59069"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58407]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58407"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58879]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58879"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58880]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58880"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58881]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58881"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58882]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58882"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58883]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58883"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58884]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58884"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58885]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58885"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58886]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58886"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58887]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58887"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58888]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58888"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:58889]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58889"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-27",
   "archived_on": "2026-10-27",
   "jurisdiction": "US",
