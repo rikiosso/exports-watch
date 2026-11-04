@@ -1,5 +1,104 @@
 [
  {
+  "action_date": "2026-11-04",
+  "archived_on": "2026-11-04",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-b1d4b8cd57903846",
+  "headline": "US Treasury SDN list: 15 additions under IRAN-EO13902 (14) and IRAN-CON-ARMS-EO (1) program tags",
+  "what_changed": "The SDN list batch records 15 additions and no removals [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75]. Fourteen additions carry the program tag IRAN-EO13902: SHAHID, Jaspreet Preeti (59054); ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED (59062); SHARMA, Suniel Kumar (59053); ARYAVART SHIP MANAGEMENT PRIVATE LIMITED (59063); DHIMAN, Ashwani Kumar (59056); SINGH, Ishwinder (59057); ALEXARYA FINSERV PRIVATE LIMITED (59061); FUGO GROUND SERVICES INC (59050); OCEANIEK TECHNOLOGIES INDIA (59055); ARYAVART MARITIME AND EDUCATIONAL TRUST (59065); PRECEPT TRENDS PRIVATE LIMITED (59059); VIHARABOATING PRIVATE LIMITED (59064); POLYNESIA MARITIME PRIVATE LIMITED (59060); ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD. (59058) [CSL:Specially Designated Nationals (SDN) - Treasury Department:59054] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59062] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59053] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59063] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59056] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59057] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59061] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59050] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59055] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59065] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59059] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59064] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59060] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59058]. One addition, DOMULLODZHANOV, Alisher (59090), carries the program tag IRAN-CON-ARMS-EO [CSL:Specially Designated Nationals (SDN) - Treasury Department:59090]. The record cites no Federal Register document for any of the 15 additions (FR: -) [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75]. A further 4590 existing entries were updated by identifier or field edits, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75].",
+  "who_is_affected": "The affected parties are the 15 names added to the list, each identified by the entity_id given above [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75]. The source does not state the nationality, location, ownership or role of any added party, nor the consequences of listing for counterparties: not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list - Treasury Department",
+   "Program tag IRAN-EO13902",
+   "Program tag IRAN-CON-ARMS-EO"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source states no licensing policy, licence exception, general licence or wind-down provision for these additions: not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties, ship-management, financial and logistics intermediaries against the 15 added names and entity_ids (59050, 59053-59065, 59090).",
+   "Obtain the underlying Treasury notice or Federal Register document, since none is cited in the source (FR: -), to confirm effective dates, licensing terms and entry identifiers.",
+   "Check the program tags IRAN-EO13902 and IRAN-CON-ARMS-EO against the underlying authorities before assessing exposure."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-455e688c086e0d75]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59050]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59050"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59053]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59053"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59054]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59054"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59055]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59055"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59056]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59056"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59057]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59057"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59058]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59058"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59059]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59059"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59060]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59060"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59061]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59061"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59062]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59062"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59063]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59063"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59064]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59064"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59065]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59065"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59090]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59090"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-10-28",
   "archived_on": "2026-10-28",
   "jurisdiction": "US",
