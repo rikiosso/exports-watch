@@ -1,5 +1,74 @@
 [
  {
+  "action_date": "2026-11-07",
+  "archived_on": "2026-11-07",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-8a3cee22dda82a9b",
+  "headline": "Eight entries added to Treasury Department SDN list under the IRAN-EO13902 program",
+  "what_changed": "Eight entries were added to the list \"Specially Designated Nationals (SDN) - Treasury Department\", each tagged with the program IRAN-EO13902 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa]. The batch record lists no removals; separately, 1648 existing entries were updated through identifier or field edits without listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa]. The FR field for each addition is \"-\", so no Federal Register document is cited for them [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa].",
+  "who_is_affected": "The added entries are NIA NATIONS CURRENCY LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:59092], B GALAXY INC [CSL:Specially Designated Nationals (SDN) - Treasury Department:59094], 2397639 ONTARIO LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:59095], CCC INC [CSL:Specially Designated Nationals (SDN) - Treasury Department:59093], DIVERSE TRADE INC [CSL:Specially Designated Nationals (SDN) - Treasury Department:59091], DARVISH EXCHANGE [CSL:Specially Designated Nationals (SDN) - Treasury Department:59099], 1380079 BC LTD [CSL:Specially Designated Nationals (SDN) - Treasury Department:59096] and TOP PC TECHNICIAN INC [CSL:Specially Designated Nationals (SDN) - Treasury Department:59097]. The source does not state addresses, countries of registration, or the grounds for designation [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa].",
+  "instruments": [
+   "List: Specially Designated Nationals (SDN) - Treasury Department",
+   "Program tag: IRAN-EO13902"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source does not state any licensing policy, licence exception or general licence for these additions [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen customers, intermediaries and counterparties against the eight added entries (entity IDs 59091, 59092, 59093, 59094, 59095, 59096, 59097 and 59099).",
+   "Obtain the underlying designation notice, since the source gives no Federal Register reference, effective date or designation basis."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4c92fe22ca590daa]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59092]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59092"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59094]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59094"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59095]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59095"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59093]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59093"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59091]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59091"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59099]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59099"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59096]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59096"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59097]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59097"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "not stated in source",
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-04",
   "archived_on": "2026-11-04",
   "jurisdiction": "US",
