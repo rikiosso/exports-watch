@@ -1,5 +1,48 @@
 [
  {
+  "action_date": "2026-11-09",
+  "archived_on": "2026-11-08",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-65a4e5b3fe8f7fde",
+  "headline": "BIS extends suspension of Affiliates Rule IFR through January 10, 2027",
+  "what_changed": "BIS extends the suspension of the interim final rule \"Expansion of End-User Controls to Cover Affiliates of Certain Listed Entities\" through January 10, 2027 [FR Doc. 2026-22793, Summary]. Effective November 9, 2026, the amendments to 15 CFR parts 732, 734, 736, 744, and 748 in the interim final rule are further stayed until January 10, 2027 [FR Doc. 2026-22793, Dates]. The suspension was previously set to end November 9, 2026 [FR Doc. 2026-22793, Summary]. The source gives inconsistent dates for the earlier actions: the Dates section states the IFR was published September 30, 2025 and stayed November 10, 2025, while the Background section states September 20, 2025 and November 12, 2025 [FR Doc. 2026-22793, Dates; Background]. BIS states that this rule did not consider public comments received on the Affiliates Rule and that those comments will be considered for future, subsequent rulemakings [FR Doc. 2026-22793, Rulemaking Requirements, para. 4].",
+  "who_is_affected": "The source does not define the affected parties; it refers only to \"Affiliates of Certain Listed Entities\" in the title [FR Doc. 2026-22793, Title]. The source does not reproduce the stayed amendments or identify the listed entities concerned [FR Doc. 2026-22793, Background]. The source cites ECRA Section 1754(a) as authority for restricting exports, reexports, and in-country transfers of controlled items to listed foreign persons or end uses [FR Doc. 2026-22793, Export Control Reform Act of 2018]. BIS estimates no changes to the listed OMB-approved information collections based on the continued suspension [FR Doc. 2026-22793, Rulemaking Requirements, para. 2].",
+  "instruments": [
+   "FR Doc. 2026-22793 (91 FR 70789-70790), final rule; stay",
+   "RIN 0694-AK34; Docket No. 261027-0002",
+   "15 CFR parts 732, 734, 736, 744, 748",
+   "Interim final rule at 90 FR 47201 (stayed)",
+   "Stay of Affiliates Rule at 90 FR 50857",
+   "Export Control Reform Act of 2018 (50 U.S.C. 4801-4852)"
+  ],
+  "effective_dates": [
+   "Effective November 9, 2026 (amendments further stayed)",
+   "Stayed until January 10, 2027"
+  ],
+  "licence_posture": "The document refers to \"the continued suspension of the license requirements and related provisions\" [FR Doc. 2026-22793, Rulemaking Requirements, para. 2]. The source does not state a licence review policy, presumption of denial, or licence exception [FR Doc. 2026-22793, Background].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Note that the stay of the amendments runs until January 10, 2027; the source does not state what follows that date.",
+   "Consult the full text of the IFR at 90 FR 47201 for the content of the stayed provisions, which this document does not reproduce.",
+   "Note the date discrepancies within the source (September 20 vs. September 30, 2025; November 10 vs. November 12, 2025) when citing the earlier actions."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-22793, Summary; Dates; Background; Rulemaking Requirements",
+    "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-07",
   "archived_on": "2026-11-07",
   "jurisdiction": "US",
