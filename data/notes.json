@@ -1,5 +1,53 @@
 [
  {
+  "action_date": "2026-11-13",
+  "archived_on": "2026-11-13",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-34e8e17932a5b126",
+  "headline": "Treasury SDN list adds two entries: Los Mendoza Drug Trafficking Organization and Los Lorenzanas",
+  "what_changed": "Two entries were added to the Specially Designated Nationals (SDN) - Treasury Department list [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4ed6d3d962d4c8c5]. LOS MENDOZA DRUG TRAFFICKING ORGANIZATION (entity_id 59031) was added under the programs ILLICIT-DRUGS-EO14059 and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:59031]. LOS LORENZANAS (entity_id 59070) was added under the programs FTO and SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:59070]. In the same batch, 622 existing entries received identifier or field edits, with no listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4ed6d3d962d4c8c5]. No Federal Register citation is given for either addition [CSL:Specially Designated Nationals (SDN) - Treasury Department:59031] [CSL:Specially Designated Nationals (SDN) - Treasury Department:59070].",
+  "who_is_affected": "The two listed parties are LOS MENDOZA DRUG TRAFFICKING ORGANIZATION [CSL:Specially Designated Nationals (SDN) - Treasury Department:59031] and LOS LORENZANAS [CSL:Specially Designated Nationals (SDN) - Treasury Department:59070]. The source does not describe addresses, aliases, affiliated persons or jurisdictions for either entry, so no wider affected population is stated [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4ed6d3d962d4c8c5].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list - Treasury Department (CSL)",
+   "Program tag: ILLICIT-DRUGS-EO14059",
+   "Program tag: SDGT",
+   "Program tag: FTO"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4ed6d3d962d4c8c5]",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties against entity_id 59031 and entity_id 59070 on the SDN list.",
+   "Retrieve the underlying Treasury designation notice, because no Federal Register citation is given in the source, to confirm effective date, scope and any licensing terms.",
+   "Check whether existing screening data covers the 622 entries edited in the same batch."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-4ed6d3d962d4c8c5",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:59031",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59031"
+   },
+   {
+    "pinpoint": "CSL:Specially Designated Nationals (SDN) - Treasury Department:59070",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59070"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-09",
   "archived_on": "2026-11-08",
   "jurisdiction": "US",
