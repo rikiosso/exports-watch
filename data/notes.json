@@ -1,5 +1,65 @@
 [
  {
+  "action_date": "2026-11-18",
+  "archived_on": "2026-11-18",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-da33f86382387833",
+  "headline": "Six additions to the Treasury SDN list, all under the SDGT program tag",
+  "what_changed": "Six entries were added to the Specially Designated Nationals (SDN) list of the Treasury Department, each tagged with the program SDGT [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc]. The added entries are KHECHEN, Hassan [CSL:Specially Designated Nationals (SDN) - Treasury Department:59173]; KHECHEN, Ibrahim [CSL:Specially Designated Nationals (SDN) - Treasury Department:59174]; GOLD GLOBAL COMPANY [CSL:Specially Designated Nationals (SDN) - Treasury Department:59175]; SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI [CSL:Specially Designated Nationals (SDN) - Treasury Department:59176]; WA TA'AWANU ASSOCIATION [CSL:Specially Designated Nationals (SDN) - Treasury Department:59188]; and CHOUMAN, Afif Abdel Rida [CSL:Specially Designated Nationals (SDN) - Treasury Department:59189]. No Federal Register reference is stated for any of the six entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc]. The same batch also records field updates to 2,844 existing entries, with no other listing or delisting [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc].",
+  "who_is_affected": "The affected parties are the six persons or entities named in the added entries, each under the SDGT program tag [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc]. Their nationality, addresses, ownership and the grounds for designation are not stated in source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc].",
+  "instruments": [
+   "Specially Designated Nationals (SDN) list, Treasury Department (program tag: SDGT)"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "Not stated in source; the delta record contains only list entries and program tags, with no licensing policy, general licence or exception [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties, intermediaries and end-parties against the six added entries (entity_ids 59173, 59174, 59175, 59176, 59188, 59189).",
+   "Obtain the underlying designation notice, since no Federal Register reference, effective date or designation basis is stated in the source material."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-672f45db6107e6dc]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59173]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59173"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59174]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59174"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59175]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59175"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59176]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59176"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59188]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59188"
+   },
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:59189]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=59189"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-13",
   "archived_on": "2026-11-13",
   "jurisdiction": "US",
