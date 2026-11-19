@@ -1,5 +1,139 @@
 [
  {
+  "action_date": "2026-11-19",
+  "archived_on": "2026-11-19",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-a3c65b485c1b4b66",
+  "headline": "BIS IFR adds data-centre end-use control and five-country licence rule; rescinds AI Diffusion Rule",
+  "what_changed": "New § 744.24(a)(1) prohibits exports, reexports and transfers (in-country) of listed advanced computing items without a licence where there is knowledge that the item is destined to a data center providing access to more than 12,000,000 aggregate TPP, at one data center or through linked data centers, to or for companies headquartered in, or with an ultimate parent headquartered in, Macau or Country Group D:5 [FR Doc. 2026-23529, § 744.24(a)(1)]. The prohibition applies regardless of whether the person holding the item was a party to the original export, reexport or transfer (in-country) [FR Doc. 2026-23529, § 744.24 Note 1 to (a)(1)]. Reexporters and transferors may not rely on de minimis provisions where there is knowledge, at any point in the chain, that a covered item incorporated or commingled into a foreign-made item will be used in the prohibited end-use [FR Doc. 2026-23529, § 744.24 Note 2 to (a)(1)]. A foreign data center declining or being unable to provide sufficient know-your-customer information is a red flag that presumptively provides knowledge unless the red flag is resolved before proceeding [FR Doc. 2026-23529, § 744.24 Note 3 to (a)(1)]. Section 744.24(e) requires an exporter, reexporter or transferor that ships on or after November 19, 2026 without a licence, because it had no knowledge of a prohibited end-use, to inform the recipient that BIS authorization is required if the items will be used at a data center for the prohibited access [FR Doc. 2026-23529, § 744.24(e)]. BIS may inform persons, individually or through amendment to the EAR, that a licence is required for specified items to certain persons or destinations because of an unacceptable risk of use in, or diversion to, the § 744.24(a)(1) activities [FR Doc. 2026-23529, § 744.24(a)(2)]. The prohibitions do not apply where computing power access is provided only for a commercial recommender system and the required information is submitted to BIS [FR Doc. 2026-23529, § 744.24(b)(2)]. New § 742.6(a)(6)(iii)(A)(1) requires a licence for the listed advanced computing items to or within Indonesia, Malaysia, Singapore, Brazil and Thailand [FR Doc. 2026-23529, § 742.6(a)(6)(iii)(A)(1)]. That requirement does not apply to an ultimate consignee or end user headquartered in, or with an ultimate parent headquartered in, the United States, provided the § 743.10 reporting requirements are followed [FR Doc. 2026-23529, § 742.6(a)(6)(iii)(A)(1) Note 1]. New § 743.10 requires monthly reports, due no later than the first business day of the month following the transaction and covering transactions on or after November 19, 2026 [FR Doc. 2026-23529, § 743.10(d)]. The worldwide Regional Stability licence requirement is replaced by § 742.6(a)(6)(iii)(A)(2), which covers destinations in Country Groups D:1, D:4 and D:5 (excluding destinations also in A:5 or A:6) and the United Arab Emirates [FR Doc. 2026-23529, § 742.6(a)(6)(iii)(A)(2)]. Section 744.23(a)(3)(i)(A) is revised so that the end-use licence requirement for entities headquartered in, or with an ultimate parent in, Macau or Country Group D:5 covers all advanced computing items [FR Doc. 2026-23529, § 744.23(a)(3)(i)(A)]. New § 744.23(a)(3)(i)(C) creates a licence requirement for certain advanced logic integrated circuits specified in 3A090.a, designed by a company that is neither an approved nor an authorized IC designer, when exported by a front end fabricator or OSAT to or within any destination [FR Doc. 2026-23529, § 744.23(a)(3)(i)(C)]. Paragraphs b. and c. of Note 1 to 3A090.a are amended to remove eligibility to overcome the fabricator and OSAT presumption for designers located in, or with an ultimate parent in, Country Groups D:1, D:4 or D:5 or the five § 742.6(a)(6)(iii)(A)(1) destinations [FR Doc. 2026-23529, Part V]. The IFR rescinds AI Diffusion Rule provisions, including ECCN 4E091, the model weights definition and FDP rule at § 734.9(l), License Exceptions AIA and LPP, and the Data Center VEU authorization [FR Doc. 2026-23529, Part IV.A-C]. BIS retains the worldwide scope of the advanced computing FDP rule in § 734.9(h)(2)(i) and retains License Exception ACM [FR Doc. 2026-23529, Part IV.D-E]. The IFR adds a definition of aggregate TPP to § 772.1 [FR Doc. 2026-23529, § 772.1].",
+  "who_is_affected": "Exporters, reexporters and transferors of ECCN 3A001.z, 3A090 (except 3A090.c), 4A003.z, 4A004.z, 4A005.z, 4A090 and related .z, software and technology items are subject to the new end-use prohibition and know-your-customer expectations [FR Doc. 2026-23529, § 744.24(a)(1)]. Owners and operators of overseas data centers that provide, directly or indirectly, significant compute to companies headquartered, or with an ultimate parent, in Macau or Country Group D:5 are required to obtain a licence if they start doing so after an original export [FR Doc. 2026-23529, Part I]. Data centers already providing such compute before the publication date that wish to continue must obtain a licence within 90 days of the effective date [FR Doc. 2026-23529, § 744.24(b)(3)]. Persons exporting, reexporting or transferring the listed items to or within Indonesia, Malaysia, Singapore, Brazil and Thailand need a licence unless the consignee or end user qualifies for the US-headquartered exclusion and reporting is made [FR Doc. 2026-23529, § 742.6(a)(6)(iii)(A)(1)]. Front-end fabricators and OSAT companies handling advanced logic integrated circuits face the amended presumption and the new § 744.23 licence requirement [FR Doc. 2026-23529, § 744.23(a)(3)(i)(C)]. IC designers located in, or with an ultimate parent in, the specified destinations lose pathways to overcome the presumption [FR Doc. 2026-23529, Part V]. Operators providing compute exclusively for commercial recommender systems may continue for 90 days and must then obtain a licence to continue [FR Doc. 2026-23529, Part III.B].",
+  "instruments": [
+   "Interim final rule, Addressing Remote Access to Advanced Semiconductors, 91 FR 74970 (RIN 0694-AK50, Docket 261116-0005)",
+   "15 CFR parts 732, 734, 740, 742, 743, 744, 748, 762, 772 and 774",
+   "New 15 CFR 744.24 and 743.10; revised 15 CFR 742.6, 744.23 and 740.2",
+   "Revised ECCNs 3A001, 3A090, 3D001, 3E001, 4A003, 4A004, 4A005, 4A090, 4D001, 4D090, 4E001, 5A002, 5A004, 5A992, 5D002, 5D992, 5E002, 5E992; ECCN 4E091 removed"
+  ],
+  "effective_dates": [
+   "Effective date: This rule is effective November 19, 2026.",
+   "Comment due date: Comments on the revisions and additions in this rule must be received by BIS no later than January 19, 2027.",
+   "Savings clause: shipments en route aboard a carrier on November 19, 2026 may proceed under previous eligibility provided the export, reexport or transfer (in-country) is completed no later than December 21, 2026.",
+   "Data centers providing significant compute to Macau or Country Group D:5 companies before publication must obtain a licence within 90 days of the effective date of the IFR.",
+   "Note 1 to 3A090.a: authorized IC designer status applies prior to December 31, 2026; after December 31, 2026, authorized status ceases 180 days after submission of an application to become an approved IC designer."
+  ],
+  "licence_posture": "Applications for licences required by § 744.24 will be reviewed on a case-by-case basis [FR Doc. 2026-23529, § 744.24(c)]. No licence exception may overcome the § 744.24(a) prohibition except as noted by BIS [FR Doc. 2026-23529, § 744.24(b)(1)]. Applications under § 742.6(a)(6)(iii)(A)(1) for Indonesia, Malaysia, Singapore, Brazil and Thailand will be reviewed case-by-case, including the effectiveness of a destination's export control regime and its coordination with BIS on enforcement [FR Doc. 2026-23529, § 742.6(b)(10)(iii)(A)(1)]. Applications for commodities with TPP below 21,000 and total DRAM bandwidth below 6,500 GB/s destined to end users in China or Macau are reviewed case-by-case if the additional supplement no. 2 to part 748 information is provided [FR Doc. 2026-23529, § 742.6(b)(10)(iii)(A)(2)]. All other applications to or within Country Group D:5 and Macau, or for an entity headquartered or with an ultimate parent headquartered there, will be reviewed under a presumption of denial [FR Doc. 2026-23529, § 742.6(b)(10)(iii)(A)(2)]. Other applications to or within Country Groups D:1 and D:4 (excluding destinations also in A:5 or A:6) and the United Arab Emirates will be reviewed under a presumption of approval [FR Doc. 2026-23529, § 742.6(b)(10)(iii)(A)(2)]. License Exception eligibility for the listed items to the specified destinations and entities is limited to the exceptions enumerated in § 740.2(a)(9)(ii), including ACM [FR Doc. 2026-23529, § 740.2(a)(9)(ii)].",
+  "relevance_eu_exporters": "The rule applies through US jurisdiction over items subject to the EAR; the source connects non-US parties to it through the mechanisms below. Section 744.24 applies to reexports and transfers (in-country) of covered items to any destination worldwide, including data centers outside the United States [FR Doc. 2026-23529, § 744.24(a)(1)]. De minimis provisions may not be relied on where there is knowledge of the prohibited end-use at any point in the chain [FR Doc. 2026-23529, § 744.24 Note 2 to (a)(1)]. The advanced computing FDP rule at § 734.9(h)(2)(i) is retained with worldwide destination scope and BIS retains jurisdiction after incorporation into foreign-produced items [FR Doc. 2026-23529, Part IV.D]. Foreign data centers and foreign foundries are expected to perform customer due diligence on ownership or control by Country Group D:5 or Macau persons [FR Doc. 2026-23529, Part III.A]. Whether any EU entry or national list is affected is not stated in source.",
+  "action_items": [
+   "Classify held and shipped items against the listed ECCNs and .z paragraphs, and determine whether any destination is Indonesia, Malaysia, Singapore, Brazil or Thailand.",
+   "Obtain and document know-your-customer information from foreign data center customers, including direct or indirect ownership or control by Country Group D:5 or Macau persons.",
+   "Review reexport and in-country transfer flows and supply chains for knowledge of the prohibited end-use, without relying on de minimis.",
+   "Where shipping without a licence on or after November 19, 2026, prepare the § 744.24(e) notification to recipients.",
+   "Data center operators serving Macau or Country Group D:5 customers should assess the 90-day licence timeline from November 19, 2026.",
+   "Assess eligibility for the US-headquartered exclusion and set up the § 743.10 monthly reporting.",
+   "Consider submitting comments to BIS by January 19, 2027 via docket BIS-2026-0628."
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-23529, § 744.24",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23529, § 742.6(a)(6)(iii)(A) and (b)(10)(iii)(A)",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23529, § 743.10",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23529, § 744.23(a)(3)(i)",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23529, Parts IV-V and Savings Clause",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
+  "action_date": "2026-11-19",
+  "archived_on": "2026-11-19",
+  "jurisdiction": "US",
+  "change_type": "List change",
+  "id": "note-01dc386cb775d25d",
+  "headline": "SDN list (Treasury): 24 additions under ILLICIT-DRUGS-EO14059 and CYBER4",
+  "what_changed": "The batch adds 24 entries to the Specially Designated Nationals (SDN) - Treasury Department list [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c]. The batch records no removals, and 3263 existing entries were edited without being listed or delisted [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c]. None of the added entries carries a Federal Register reference (FR: -) in the source [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c].",
+  "who_is_affected": "Nineteen of the 24 additions are listed under programme ILLICIT-DRUGS-EO14059 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c]. Five of the 24 additions are listed under programme CYBER4 [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c]. The CYBER4 additions include the individual ZHAO, Hui [CSL:SDN:58870]. They also include the individual WAH, Saw Shwe [CSL:SDN:58850]. They also include the individual ONE, Saw A [CSL:SDN:58851]. They also include the company BEI FANG BO LIN CONSTRUCTION DECORATION CO., LTD. [CSL:SDN:58871]. They also include the company ZHZ INVESTMENT CONSULTING CO., LTD. [CSL:SDN:58872]. The ILLICIT-DRUGS-EO14059 additions include FRATELLI VESCIO FUNERAL HOMES LTD. [CSL:SDN:58797]. They also include COMANCHERO OUTLAW MOTORCYCLE GANG [CSL:SDN:58804]. They also include PHANTOM LIMOUSINE SERVICES INC. [CSL:SDN:58803].",
+  "instruments": [
+   "SDN list - Treasury Department (list delta, snapshot snap-02ee4121e001971c)",
+   "Programme tag ILLICIT-DRUGS-EO14059",
+   "Programme tag CYBER4"
+  ],
+  "effective_dates": [
+   "not stated in source"
+  ],
+  "licence_posture": "The source material does not state any licensing policy, general licence or exception for these entries [CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c].",
+  "relevance_eu_exporters": "indirect only",
+  "action_items": [
+   "Screen counterparties, owners and intermediaries against the 24 added entries (entity_ids 58791-58809 and 58850, 58851, 58870-58872 as given in the source).",
+   "Obtain the underlying Treasury designation notice, which is not included in the source material, before drawing conclusions on scope or licensing."
+  ],
+  "confidence": "medium",
+  "citations": [
+   {
+    "pinpoint": "[CSL:Specially Designated Nationals (SDN) - Treasury Department:snap-02ee4121e001971c]",
+    "url": "https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58870]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58870"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58850]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58850"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58851]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58851"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58871]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58871"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58872]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58872"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58797]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58797"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58804]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58804"
+   },
+   {
+    "pinpoint": "[CSL:SDN:58803]",
+    "url": "https://sanctionssearch.ofac.treas.gov/Details.aspx?id=58803"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [],
+  "reclassification_impact": null,
+  "licence_impact": null,
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-18",
   "archived_on": "2026-11-18",
   "jurisdiction": "US",
