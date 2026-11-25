@@ -1,5 +1,66 @@
 [
  {
+  "action_date": "2026-11-25",
+  "archived_on": "2026-11-25",
+  "jurisdiction": "US",
+  "change_type": "Rule change",
+  "id": "note-de239644fbbd3c57",
+  "headline": "BIS adds 7 entities in Malaysia, Singapore and Thailand to the Entity List; presumption of denial",
+  "what_changed": "BIS amended the EAR by adding 7 entities to the Entity List under the destinations of Malaysia, Singapore and Thailand [FR Doc. 2026-23999, Summary]. Three entities are added under Malaysia, three under Singapore and one under Thailand [FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List]. The stated reason is the significant risk of these entities being or becoming involved in the diversion of advanced computing commodities to unauthorized end uses or end users [FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List]. Each entity is added with a licence requirement for all items subject to the EAR [FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744]. Entries for four of the seven entities record one or more aliases, and the Singapore and Thailand Megaspeed entries share the alias 7Road International [FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744]. The Federal Register citation column of the amendatory table contains a placeholder instead of a page number [FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744]. The rule also revises the authority citation for part 744 [FR Doc. 2026-23999, Amendatory instructions, Part 744 authority citation].",
+  "who_is_affected": "The seven listed entities are directly affected: three in Malaysia, three in Singapore and one in Thailand [FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List]. Exporters, reexporters and transferors are affected where a listed entity is a party to a transaction, because the EAR imposes additional licence requirements on, and limits most licence exceptions for, such exports, reexports and transfers (in-country) [FR Doc. 2026-23999, Background: The Entity List]. The source does not identify any specific items, transactions or business relationships of the listed entities [FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List].",
+  "instruments": [
+   "Final rule, 15 CFR part 744, amending supplement 4 (Entity List); RIN 0694-AK59; Docket No. 261123-0006"
+  ],
+  "effective_dates": [
+   "November 23, 2026 (rule effective date)",
+   "December 23, 2026 (latest completion date under the savings clause)"
+  ],
+  "licence_posture": "Licence applications for the seven entities will be reviewed under a presumption of denial [FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List]. The licence requirement applies to all items subject to the EAR, with a cross-reference to section 744.11 of the EAR [FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744]. The document states that the EAR limits the availability of most licence exceptions when a listed entity is a party, and that the impact on licence exceptions is described in the Federal Register document that adds the listing [FR Doc. 2026-23999, Background: The Entity List]. The savings clause allows shipments en route aboard a carrier on November 23, 2026, pursuant to actual orders, to proceed under the previous eligibility for a License Exception or NLR if the export, reexport or transfer (in-country) is completed no later than December 23, 2026 [FR Doc. 2026-23999, Savings Clause]. The savings clause text refers to 'this IFR' although the document is designated a final rule [FR Doc. 2026-23999, Savings Clause].",
+  "relevance_eu_exporters": "The only mechanism in the source is the EAR licence requirement, and the limit on licence exceptions, for exports, reexports and transfers (in-country) of items subject to the EAR where a listed entity is a party. The source does not mention foreign direct product rules, de minimis provisions or transshipment provisions for this rule. Otherwise indirect only.",
+  "action_items": [
+   "Screen counterparties, consignees and end users against the seven added entities and their listed aliases, including 7Road International and 7Road International Pte. Ltd.",
+   "Identify any transactions involving items subject to the EAR in which a listed entity may be a party, and review the licence requirement and presumption of denial",
+   "Review any shipments en route on November 23, 2026 against the savings clause deadline of December 23, 2026",
+   "Note the discrepancy in the savings clause ('this IFR' in a final rule) and the placeholder in the Federal Register citation column when relying on the text"
+  ],
+  "confidence": "high",
+  "citations": [
+   {
+    "pinpoint": "FR Doc. 2026-23999, Summary",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23999, Dates",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23999, Background: The Entity List",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23999, Entity List Decisions: Additions to the Entity List",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23999, Savings Clause",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   },
+   {
+    "pinpoint": "FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744",
+    "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
+   }
+  ],
+  "entries_affected": [],
+  "parameter_deltas": [],
+  "series_500_flag": false,
+  "national_lists_touched": [
+   "Entity List (supplement 4 to part 744 of the EAR)"
+  ],
+  "reclassification_impact": "not stated in source",
+  "licence_impact": "Licence requirement for all items subject to the EAR for the 7 added entities, reviewed under a presumption of denial [FR Doc. 2026-23999, Amendatory instructions, Supplement 4 to Part 744]",
+  "materiality": null
+ },
+ {
   "action_date": "2026-11-24",
   "archived_on": "2026-11-24",
   "jurisdiction": "US",
